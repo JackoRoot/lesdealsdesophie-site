@@ -1,0 +1,23 @@
+baseURL = "https://lesdealsdesophie.fr"
+languageCode = "fr-fr"
+title = "Les Deals de Sophie"
+theme = "PaperMod"
+[pagination]
+  pagerSize = 10
+
+[params]
+  description = "Les meilleures promotions dénichées par Sophie, chaque jour !"
+  author = "Sophie"
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+
+[menu]
+  [[menu.main]]
+    name = "Deals"
+    url = "/deals/"
+    weight = 1
+  [[menu.main]]
+    name = "Telegram"
+    url = "https://t.me/LesDealsdeSophie"
+    weight = 2
