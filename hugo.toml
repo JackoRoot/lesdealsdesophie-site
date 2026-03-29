@@ -2,22 +2,46 @@ baseURL = "https://lesdealsdesophie.fr"
 languageCode = "fr-fr"
 title = "Les Deals de Sophie"
 theme = "PaperMod"
+
 [pagination]
   pagerSize = 10
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+  categorie = "categories"
 
 [params]
   description = "Les meilleures promotions dénichées par Sophie, chaque jour !"
   author = "Sophie"
   ShowReadingTime = false
   ShowShareButtons = false
-  ShowPostNavLinks = true
+  ShowPostNavLinks = false
+  accentColor = "#D4693A"
 
 [menu]
   [[menu.main]]
-    name = "Deals"
-    url = "/deals/"
+    name = "Tech"
+    url = "/categories/tech/"
     weight = 1
+  [[menu.main]]
+    name = "Mode"
+    url = "/categories/mode/"
+    weight = 2
+  [[menu.main]]
+    name = "Maison"
+    url = "/categories/maison/"
+    weight = 3
+  [[menu.main]]
+    name = "Musique"
+    url = "/categories/musique/"
+    weight = 4
+  [[menu.main]]
+    name = "Top 5"
+    url = "/top-5/"
+    weight = 5
   [[menu.main]]
     name = "Telegram"
     url = "https://t.me/LesDealsdeSophie"
-    weight = 2
+    weight = 6

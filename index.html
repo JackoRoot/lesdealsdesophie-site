@@ -1,0 +1,334 @@
+{{ define "main" }}
+<style>
+:root { --accent: #D4693A; --accent-light: #FAECE7; --accent-dark: #712B13; }
+
+.sophie-banner {
+  background: var(--accent-light);
+  border: 0.5px solid var(--accent);
+  border-radius: 12px;
+  padding: 14px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 28px;
+}
+.sophie-banner p { font-size: 14px; color: var(--accent-dark); }
+.sophie-banner strong { font-weight: 500; }
+.tg-btn {
+  font-size: 13px;
+  background: #229ED9;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 7px 16px;
+  cursor: pointer;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.section-title {
+  font-size: 12px;
+  font-weight: 500;
+  color: #888;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 14px;
+  padding-bottom: 8px;
+  border-bottom: 0.5px solid #e5e5e5;
+}
+
+.top5-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  margin-bottom: 32px;
+}
+.top5-card {
+  background: white;
+  border: 0.5px solid #e5e5e5;
+  border-radius: 12px;
+  padding: 14px;
+  text-decoration: none;
+  display: block;
+  transition: border-color 0.15s;
+}
+.top5-card:hover { border-color: #ccc; }
+.top5-badge {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 500;
+  background: var(--accent-light);
+  color: var(--accent-dark);
+  padding: 2px 8px;
+  border-radius: 6px;
+  margin-bottom: 8px;
+}
+.top5-card h3 { font-size: 13px; font-weight: 500; color: #111; line-height: 1.4; margin-bottom: 4px; }
+.top5-card p { font-size: 12px; color: #888; }
+
+/* FEATURED */
+.deal-featured {
+  background: white;
+  border: 0.5px solid #e5e5e5;
+  border-radius: 12px;
+  overflow: hidden;
+  margin-bottom: 12px;
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  text-decoration: none;
+  transition: border-color 0.15s;
+}
+.deal-featured:hover { border-color: #ccc; }
+.featured-img {
+  height: 200px;
+  overflow: hidden;
+  position: relative;
+}
+.featured-img img { width: 100%; height: 100%; object-fit: cover; }
+.featured-badge {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  background: var(--accent);
+  color: white;
+  font-size: 11px;
+  font-weight: 500;
+  padding: 2px 8px;
+  border-radius: 6px;
+}
+.featured-body {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.featured-label {
+  font-size: 10px;
+  font-weight: 500;
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 8px;
+}
+.featured-body h2 { font-size: 16px; font-weight: 500; color: #111; line-height: 1.4; margin-bottom: 10px; }
+.featured-sophie { font-size: 13px; color: #666; font-style: italic; line-height: 1.6; margin-bottom: 16px; flex: 1; }
+.featured-footer { display: flex; align-items: center; justify-content: space-between; }
+
+/* GRILLE */
+.deals-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+  margin-bottom: 16px;
+}
+.deal-card {
+  background: white;
+  border: 0.5px solid #e5e5e5;
+  border-radius: 12px;
+  overflow: hidden;
+  text-decoration: none;
+  display: block;
+  transition: border-color 0.15s;
+}
+.deal-card:hover { border-color: #ccc; }
+.card-img {
+  width: 100%;
+  aspect-ratio: 4/3;
+  overflow: hidden;
+  position: relative;
+  background: #f5f5f5;
+}
+.card-img img { width: 100%; height: 100%; object-fit: cover; }
+.card-badge {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  background: var(--accent);
+  color: white;
+  font-size: 11px;
+  font-weight: 500;
+  padding: 2px 8px;
+  border-radius: 6px;
+}
+.card-body { padding: 12px; }
+.card-source { font-size: 11px; color: #888; margin-bottom: 4px; }
+.card-title {
+  font-size: 13px;
+  font-weight: 500;
+  color: #111;
+  line-height: 1.4;
+  margin-bottom: 6px;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.card-sophie {
+  font-size: 12px;
+  color: #666;
+  font-style: italic;
+  margin-bottom: 8px;
+  line-height: 1.5;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.card-footer { display: flex; align-items: center; justify-content: space-between; }
+.card-price { font-size: 15px; font-weight: 500; color: #111; }
+.card-original { font-size: 12px; color: #999; text-decoration: line-through; margin-left: 6px; }
+.card-btn {
+  font-size: 12px;
+  background: #f5f5f5;
+  border: 0.5px solid #ddd;
+  border-radius: 6px;
+  padding: 4px 10px;
+  color: #333;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.load-more-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding: 11px;
+  background: white;
+  border: 0.5px solid #ddd;
+  border-radius: 12px;
+  font-size: 13px;
+  color: #666;
+  cursor: pointer;
+  margin-bottom: 24px;
+}
+.load-more-btn:hover { background: #f9f9f9; }
+
+.price-block { display: flex; align-items: baseline; }
+</style>
+
+<div style="max-width: 900px; margin: 0 auto; padding: 20px;">
+
+  {{/* Bannière Telegram */}}
+  <div class="sophie-banner">
+    <p><strong>Ne rate aucune pépite</strong> — Sophie publie en temps réel sur Telegram</p>
+    <a href="https://t.me/LesDealsdeSophie" class="tg-btn" target="_blank">Rejoindre le canal</a>
+  </div>
+
+  {{/* Top 5 — guides evergreen */}}
+  {{ $top5 := where .Site.RegularPages "Section" "top-5" }}
+  {{ if $top5 }}
+  <div class="section-title">Les guides de Sophie</div>
+  <div class="top5-grid">
+    {{ range first 3 $top5 }}
+    <a href="{{ .Permalink }}" class="top5-card">
+      <div class="top5-badge">Top 5</div>
+      <h3>{{ .Title }}</h3>
+      <p>{{ .Description | default "Guide d'achat Sophie" }}</p>
+    </a>
+    {{ end }}
+  </div>
+  {{ end }}
+
+  {{/* Deals en direct */}}
+  {{ $deals := where .Site.RegularPages "Section" "deals" }}
+  {{ $deals = sort $deals "Date" "desc" }}
+
+  {{ if $deals }}
+  <div class="section-title">Les bons plans en direct</div>
+
+  {{/* Featured deal — le premier */}}
+  {{ with index $deals 0 }}
+  <a href="{{ .Permalink }}" class="deal-featured">
+    <div class="featured-img">
+      {{ with .Params.image }}<img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" />{{ end }}
+      <div class="featured-badge">{{ .Params.discount }}</div>
+    </div>
+    <div class="featured-body">
+      <div>
+        <div class="featured-label">Le deal du moment</div>
+        <h2>{{ .Title }}</h2>
+        <div class="featured-sophie">{{ .Summary }}</div>
+      </div>
+      <div class="featured-footer">
+        <div class="price-block">
+          <span class="card-price">{{ .Params.price }}</span>
+        </div>
+        <span class="card-btn">Voir le deal</span>
+      </div>
+    </div>
+  </a>
+  {{ end }}
+
+  {{/* Grille 2x2 — deals suivants */}}
+  <div class="deals-grid" id="deals-grid">
+    {{ range after 1 (first 5 $deals) }}
+    <a href="{{ .Permalink }}" class="deal-card">
+      <div class="card-img">
+        {{ with .Params.image }}<img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" />{{ end }}
+        <div class="card-badge">{{ .Params.discount }}</div>
+      </div>
+      <div class="card-body">
+        <div class="card-source">{{ .Params.source | title }}</div>
+        <div class="card-title">{{ .Title }}</div>
+        <div class="card-sophie">{{ .Summary }}</div>
+        <div class="card-footer">
+          <div class="price-block">
+            <span class="card-price">{{ .Params.price }}</span>
+          </div>
+          <span class="card-btn">Voir</span>
+        </div>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+
+  <button class="load-more-btn" onclick="loadMore()">Voir 10 deals de plus</button>
+  {{ end }}
+
+</div>
+
+<script>
+let page = 1;
+const perPage = 10;
+
+async function loadMore() {
+  try {
+    const res = await fetch('/index.json');
+    const data = await res.json();
+    const deals = (data || []).filter(d => d.section === 'deals');
+    const start = 5 + (page - 1) * perPage;
+    const slice = deals.slice(start, start + perPage);
+    
+    if (slice.length === 0) {
+      document.querySelector('.load-more-btn').textContent = 'Tous les deals sont affichés';
+      return;
+    }
+
+    const grid = document.getElementById('deals-grid');
+    slice.forEach(deal => {
+      const card = document.createElement('a');
+      card.href = deal.permalink;
+      card.className = 'deal-card';
+      card.innerHTML = `
+        <div class="card-img">
+          ${deal.image ? `<img src="${deal.image}" alt="${deal.title}" loading="lazy" />` : ''}
+          <div class="card-badge">${deal.discount || ''}</div>
+        </div>
+        <div class="card-body">
+          <div class="card-source">${deal.source || ''}</div>
+          <div class="card-title">${deal.title}</div>
+          <div class="card-footer">
+            <span class="card-price">${deal.price || ''}</span>
+            <span class="card-btn">Voir</span>
+          </div>
+        </div>`;
+      grid.appendChild(card);
+    });
+    page++;
+  } catch(e) {
+    console.error('Load more error:', e);
+  }
+}
+</script>
+{{ end }}

@@ -1,0 +1,138 @@
+{{ define "main" }}
+<style>
+:root { --accent: #D4693A; --accent-light: #FAECE7; --accent-dark: #712B13; }
+
+.article-container { max-width: 720px; margin: 0 auto; padding: 20px; }
+
+.article-header { margin-bottom: 24px; }
+.article-meta {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+.article-source {
+  font-size: 12px;
+  font-weight: 500;
+  background: var(--accent-light);
+  color: var(--accent-dark);
+  padding: 2px 10px;
+  border-radius: 6px;
+}
+.article-discount {
+  font-size: 12px;
+  font-weight: 500;
+  background: var(--accent);
+  color: white;
+  padding: 2px 10px;
+  border-radius: 6px;
+}
+.article-date { font-size: 12px; color: #888; }
+.article-title { font-size: 22px; font-weight: 500; color: #111; line-height: 1.4; margin-bottom: 16px; }
+
+.article-image {
+  width: 100%;
+  max-height: 400px;
+  object-fit: contain;
+  border-radius: 12px;
+  margin-bottom: 20px;
+  background: #f5f5f5;
+}
+
+.sophie-quote {
+  border-left: 3px solid var(--accent);
+  padding: 12px 16px;
+  margin-bottom: 20px;
+  background: var(--accent-light);
+  border-radius: 0 8px 8px 0;
+}
+.sophie-quote p { font-size: 14px; font-style: italic; color: var(--accent-dark); line-height: 1.6; margin: 0; }
+.sophie-name { font-size: 12px; color: var(--accent); margin-top: 6px; font-weight: 500; }
+
+.price-box {
+  background: white;
+  border: 0.5px solid #e5e5e5;
+  border-radius: 12px;
+  padding: 16px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.price-main { font-size: 24px; font-weight: 500; color: #111; }
+.price-original { font-size: 14px; color: #999; text-decoration: line-through; margin-left: 8px; }
+.deal-cta {
+  display: inline-block;
+  background: var(--accent);
+  color: white;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 10px 24px;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: opacity 0.15s;
+}
+.deal-cta:hover { opacity: 0.9; }
+
+.article-content { font-size: 15px; line-height: 1.8; color: #333; margin-bottom: 24px; }
+.article-content p { margin-bottom: 12px; }
+
+.telegram-cta {
+  background: #f0f8ff;
+  border: 0.5px solid #b5d4f4;
+  border-radius: 12px;
+  padding: 16px 20px;
+  text-align: center;
+  margin-top: 24px;
+}
+.telegram-cta p { font-size: 13px; color: #185FA5; margin-bottom: 10px; }
+.tg-btn {
+  display: inline-block;
+  background: #229ED9;
+  color: white;
+  font-size: 13px;
+  padding: 7px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+}
+</style>
+
+<div class="article-container">
+
+  <div class="article-header">
+    <div class="article-meta">
+      {{ with .Params.source }}<span class="article-source">{{ . | title }}</span>{{ end }}
+      {{ with .Params.discount }}<span class="article-discount">{{ . }}</span>{{ end }}
+      <span class="article-date">{{ .Date.Format "2 January 2006" }}</span>
+    </div>
+    <h1 class="article-title">{{ .Title }}</h1>
+  </div>
+
+  {{ with .Params.image }}
+  <img class="article-image" src="{{ . }}" alt="{{ $.Title }}" loading="lazy" />
+  {{ end }}
+
+  {{ with .Params.price }}
+  <div class="price-box">
+    <div>
+      <span class="price-main">{{ . }}</span>
+    </div>
+    {{ with $.Params.product_url }}
+    <a href="{{ . }}" class="deal-cta" target="_blank" rel="nofollow">Voir le deal</a>
+    {{ else }}
+    <a href="https://t.me/LesDealsdeSophie" class="deal-cta" target="_blank">Voir sur Telegram</a>
+    {{ end }}
+  </div>
+  {{ end }}
+
+  <div class="article-content">
+    {{ .Content }}
+  </div>
+
+  <div class="telegram-cta">
+    <p>Sophie partage ses deals en temps réel sur Telegram</p>
+    <a href="https://t.me/LesDealsdeSophie" class="tg-btn" target="_blank">Rejoindre le canal</a>
+  </div>
+
+</div>
+{{ end }}
