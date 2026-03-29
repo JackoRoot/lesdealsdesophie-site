@@ -1,0 +1,16 @@
+:root {
+  --accent: #D4693A;
+  --accent-light: #FAECE7;
+  --accent-dark: #712B13;
+}
+
+/* Override PaperMod header */
+.nav a { font-size: 13px; }
+
+/* Override PaperMod post title */
+.post-title { font-size: 20px; }
+
+/* Smooth images */
+img { transition: opacity 0.2s; }
+img[loading] { opacity: 0; }
+img.loaded { opacity: 1; }
