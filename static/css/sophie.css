@@ -24,3 +24,10 @@ body, body.list { background: #1A1C23 !important; }
 img { transition: opacity 0.2s; }
 img[loading] { opacity: 1; }
 img.loaded { opacity: 1; }
+
+/* Logo Sophie */
+.logo a {
+  font-size: 20px;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+}
