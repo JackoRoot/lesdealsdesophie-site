@@ -1,3 +1,5 @@
+body { background: #FAF8F5 !important; }
+.main { background: #FAF8F5 !important; }
 :root {
   --accent: #D4693A;
   --accent-light: #FAECE7;
