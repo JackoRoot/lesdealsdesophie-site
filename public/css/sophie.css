@@ -60,3 +60,7 @@ img.loaded { opacity: 1; }
   align-items: center !important;
   padding: 16px 0 !important;
 }
+
+/* Container 1100px */
+.main { max-width: 1140px !important; }
+.sophie-page { max-width: 1100px; margin: 0 auto; }
