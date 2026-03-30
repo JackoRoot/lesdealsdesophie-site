@@ -1,19 +1,26 @@
-body { background: #FAF8F5 !important; }
-.main { background: #FAF8F5 !important; }
+body, body.list { background: #1A1C23 !important; }
+.main { background: #1A1C23 !important; }
+
 :root {
-  --accent: #D4693A;
-  --accent-light: #FAECE7;
-  --accent-dark: #712B13;
+  --theme: #1A1C23 !important;
+  --entry: #242731;
+  --primary: #E2E8F0;
+  --secondary: #A0AEC0;
+  --border: #2D323E;
+  --accent: #B35A5A;
+  --accent-light: #3D1F1F;
+  --code-bg: #1A1C23;
 }
 
-/* Override PaperMod header */
-.nav a { font-size: 13px; }
+/* Fond global */
+[data-theme=light] .list { background: #1A1C23 !important; }
+.list { background: #1A1C23 !important; }
 
-/* Override PaperMod post title */
+/* Typo */
+.nav a { font-size: 13px; }
 .post-title { font-size: 20px; }
 
-/* Smooth images */
+/* Images */
 img { transition: opacity 0.2s; }
 img[loading] { opacity: 0; }
 img.loaded { opacity: 1; }
-
