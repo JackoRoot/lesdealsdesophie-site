@@ -39,8 +39,8 @@ img.loaded { opacity: 1; }
   line-height: normal;
   padding: 12px 0;
 }
-.logo { margin-bottom: 8px; }
-.logo a { font-size: 28px; letter-spacing: -0.02em; font-weight: 700; }
+.logo { margin-bottom: 40px; }
+.logo a { font-size: 34px; letter-spacing: -0.02em; font-weight: 700; }
 #menu { margin: 0; justify-content: center; }
 .s-banner { display: none; }
 .s-banner { display: none; }
