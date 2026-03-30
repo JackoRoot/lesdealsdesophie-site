@@ -151,7 +151,8 @@
   border-radius: 12px;
   overflow: hidden;
   text-decoration: none !important;
-  display: block;
+  display: flex;
+  flex-direction: column;
 }
 .s-card:hover { border-color: #ccc; }
 .s-card-img {
@@ -166,7 +167,7 @@
   padding: 14px; 
   display: flex;
   flex-direction: column;
-  height: calc(100% - 75%);
+  flex: 1;
 }
 .s-card-source { font-size: 11px; color: #888; margin: 0 0 5px; }
 .s-card-title {
