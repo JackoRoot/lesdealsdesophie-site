@@ -53,3 +53,10 @@ img.loaded { opacity: 1; }
 /* Images 4:3 */
 .s-card-img { aspect-ratio: 4/3; }
 .s-featured-img { aspect-ratio: 4/3; height: auto; }
+
+/* Nav centré */
+.nav {
+  flex-direction: column !important;
+  align-items: center !important;
+  padding: 16px 0 !important;
+}
