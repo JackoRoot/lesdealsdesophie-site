@@ -41,5 +41,6 @@ img.loaded { opacity: 1; }
 }
 .logo { margin-bottom: 8px; }
 .logo a { font-size: 28px; letter-spacing: -0.02em; font-weight: 700; }
-#menu { margin: 0; justify-content: flex-start; width: 100%; padding-left: 24px; }
+#menu { margin: 0; justify-content: center; }
+.s-banner { display: none; }
 .s-banner { display: none; }
