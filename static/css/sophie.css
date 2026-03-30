@@ -31,3 +31,17 @@ img.loaded { opacity: 1; }
   letter-spacing: -0.02em;
   font-weight: 700;
 }
+
+/* Header centré */
+.nav {
+  flex-direction: column;
+  align-items: center;
+  line-height: normal;
+  padding: 12px 0;
+}
+.logo {
+  margin-bottom: 8px;
+}
+#menu {
+  margin: 0;
+}
