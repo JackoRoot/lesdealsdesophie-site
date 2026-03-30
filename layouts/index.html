@@ -220,14 +220,6 @@ body, body.list { background: #1A1C23 !important; }
 </style>
 
 <div class="sophie-page">
-  <nav class="s-nav-bar">
-    <a href="/categories/tech/">Tech</a>
-    <a href="/categories/mode/">Mode</a>
-    <a href="/categories/maison/">Maison</a>
-    <a href="/categories/musique/">Musique</a>
-    <a href="/top-5/">Top 5</a>
-    <a href="https://t.me/LesDealsdeSophie" target="_blank">Telegram ↗</a>
-  </nav>
 
   {{ $top5 := where .Site.RegularPages "Section" "top-5" }}
   {{ if $top5 }}
