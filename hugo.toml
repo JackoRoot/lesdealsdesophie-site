@@ -21,6 +21,7 @@ theme = "PaperMod"
   accentColor = "#D4693A"
   defaultTheme = "light"
 disableThemeToggle = true
+customCSS = ["css/sophie.css"]
 
 [menu]
   [[menu.main]]
