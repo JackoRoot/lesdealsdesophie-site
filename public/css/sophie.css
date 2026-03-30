@@ -22,5 +22,5 @@ body, body.list { background: #1A1C23 !important; }
 
 /* Images */
 img { transition: opacity 0.2s; }
-img[loading] { opacity: 0; }
+img[loading] { opacity: 1; }
 img.loaded { opacity: 1; }
