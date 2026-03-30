@@ -19,6 +19,8 @@ theme = "PaperMod"
   ShowShareButtons = false
   ShowPostNavLinks = false
   accentColor = "#D4693A"
+  defaultTheme = "light"
+disableThemeToggle = true
 
 [menu]
   [[menu.main]]
