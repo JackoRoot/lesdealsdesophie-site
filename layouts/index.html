@@ -227,7 +227,6 @@ body, body.list { background: #1A1C23 !important; }
   <div class="s-top5-grid">
     {{ range first 3 $top5 }}
     <a href="{{ .Permalink }}" class="s-top5-card">
-      <div class="s-top5-badge">Top 5</div>
       <h3>{{ .Title }}</h3>
       <p>{{ .Description | default "Guide d'achat Sophie" }}</p>
     </a>

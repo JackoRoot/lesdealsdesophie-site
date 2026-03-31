@@ -41,7 +41,7 @@ customCSS = ["css/sophie.css"]
     url = "/categories/musique/"
     weight = 4
   [[menu.main]]
-    name = "Top 5"
+    name = "Guides d'achat"
     url = "/top-5/"
     weight = 5
   [[menu.main]]
