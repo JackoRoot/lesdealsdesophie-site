@@ -1,0 +1,18 @@
+{{- $pages := .Site.RegularPages -}}
+[
+{{- range $i, $page := $pages -}}
+{{- if $i }},{{ end }}
+{
+  "title": {{ $page.Title | jsonify }},
+  "permalink": {{ $page.Permalink | jsonify }},
+  "section": {{ $page.Section | jsonify }},
+  "date": {{ $page.Date.Format "2006-01-02" | jsonify }},
+  "image": {{ $page.Params.image | jsonify }},
+  "price": {{ $page.Params.price | jsonify }},
+  "discount": {{ $page.Params.discount | jsonify }},
+  "source": {{ $page.Params.source | jsonify }},
+  "sophie": {{ $page.Params.sophie | jsonify }},
+  "summary": {{ $page.Summary | plainify | jsonify }}
+}
+{{- end }}
+]
