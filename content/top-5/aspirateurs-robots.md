@@ -1,7 +1,7 @@
 ---
 title: "Oubliez iRobot : ces 10 aspirateurs robots vont changer votre quotidien de maman débordée"
-date: 2026-03-31T19:04:30+02:00
-lastmod: 2026-03-31T19:04:30+02:00
+date: 2026-03-31T19:04:46+02:00
+lastmod: 2026-03-31T19:04:46+02:00
 draft: false
 section: "top-5"
 theme: "Aspirateurs robots"
