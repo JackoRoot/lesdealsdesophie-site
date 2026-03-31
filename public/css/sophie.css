@@ -64,3 +64,12 @@ img.loaded { opacity: 1; }
 /* Container 1100px */
 .main { max-width: 1140px !important; }
 .sophie-page { max-width: 1100px; margin: 0 auto; }
+
+/* Fix texte articles Top 5 et deals */
+.post-content { color: #E2E8F0 !important; }
+.post-content p { color: #CBD5E0 !important; }
+.post-content h1, .post-content h2, .post-content h3 { color: #E2E8F0 !important; }
+.post-content strong { color: #E2E8F0 !important; }
+.post-content a { color: #B35A5A !important; }
+.post-content table td, .post-content table th { color: #E2E8F0 !important; border-color: #2D323E !important; }
+.post-content li { color: #CBD5E0 !important; }
