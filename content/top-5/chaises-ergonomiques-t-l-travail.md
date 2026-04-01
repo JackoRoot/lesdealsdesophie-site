@@ -1,7 +1,7 @@
 ---
 title: "Oubliez Ikea : ces 5 chaises ergonomiques vont changer votre quotidien de télétravailleur toulousain"
-date: 2026-03-31T21:18:30+02:00
-lastmod: 2026-03-31T21:18:30+02:00
+date: 2026-03-28T10:00:00+01:00
+lastmod: 2026-03-28T10:00:00+01:00
 draft: false
 section: "top-5"
 theme: "Chaises ergonomiques télétravail"
