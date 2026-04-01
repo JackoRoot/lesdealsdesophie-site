@@ -101,3 +101,16 @@ img.loaded { opacity: 1; }
   .s-featured-body h2 { font-size: 16px !important; }
   .sophie-page { padding: 10px !important; }
 }
+
+/* Fix menu mobile overflow */
+@media (max-width: 768px) {
+  #menu { 
+    overflow-x: auto !important;
+    white-space: nowrap !important;
+    justify-content: flex-start !important;
+    padding-bottom: 4px !important;
+    scrollbar-width: none !important;
+  }
+  #menu::-webkit-scrollbar { display: none !important; }
+  .nav { overflow: hidden !important; }
+}
