@@ -126,3 +126,9 @@ img.loaded { opacity: 1; }
     overflow-x: visible !important;
   }
 }
+
+/* Fix titre centré mobile */
+@media (max-width: 768px) {
+  .nav { overflow: visible !important; }
+  .logo { text-align: center !important; width: 100% !important; justify-content: center !important; }
+}
