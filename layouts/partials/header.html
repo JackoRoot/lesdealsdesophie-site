@@ -31,6 +31,9 @@
                 Les Deals de <span style="color:#B35A5A;font-style:normal">Sophie</span>
             </a>
             {{- end }}
+            <button class="hamburger" id="hamburger" onclick="toggleMenu()" aria-label="Menu">
+                <span></span><span></span><span></span>
+            </button>
             <div class="logo-switches">
                 {{- if (not site.Params.disableThemeToggle) }}
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
@@ -108,3 +111,11 @@
         </ul>
     </nav>
 </header>
+<script>
+function toggleMenu() {
+  const menu = document.getElementById('menu');
+  const hamburger = document.getElementById('hamburger');
+  menu.classList.toggle('menu-open');
+  hamburger.classList.toggle('active');
+}
+</script>
