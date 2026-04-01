@@ -114,3 +114,15 @@ img.loaded { opacity: 1; }
   #menu::-webkit-scrollbar { display: none !important; }
   .nav { overflow: hidden !important; }
 }
+
+/* Fix titre centré + menu 2 lignes mobile */
+@media (max-width: 768px) {
+  .nav { overflow: visible !important; }
+  .logo { text-align: center !important; width: 100% !important; }
+  #menu { 
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+    white-space: normal !important;
+    overflow-x: visible !important;
+  }
+}
