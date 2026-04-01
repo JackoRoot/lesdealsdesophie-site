@@ -73,3 +73,21 @@ img.loaded { opacity: 1; }
 .post-content a { color: #B35A5A !important; }
 .post-content table td, .post-content table th { color: #E2E8F0 !important; border-color: #2D323E !important; }
 .post-content li { color: #CBD5E0 !important; }
+
+/* ===== MOBILE FIRST ===== */
+@media (max-width: 768px) {
+  .logo a { font-size: 24px; }
+  .logo { margin-bottom: 20px; }
+  .sophie-page { padding: 12px; }
+  .s-featured { grid-template-columns: 1fr; }
+  .s-featured-img { height: 200px; aspect-ratio: 16/9; }
+  .s-grid { grid-template-columns: 1fr; }
+  .s-featured-body { padding: 12px; }
+  .s-featured-body h2 { font-size: 15px; }
+  .s-card-title { font-size: 13px; }
+}
+
+@media (max-width: 480px) {
+  .logo a { font-size: 20px; }
+  .nav { padding: 10px 0 !important; }
+}
