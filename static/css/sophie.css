@@ -91,3 +91,13 @@ img.loaded { opacity: 1; }
   .logo a { font-size: 20px; }
   .nav { padding: 10px 0 !important; }
 }
+
+/* ===== MOBILE CORRECTIONS ===== */
+@media (max-width: 768px) {
+  .s-featured { grid-template-columns: 1fr !important; }
+  .s-featured-img { height: 180px !important; aspect-ratio: 16/9 !important; }
+  .s-grid { grid-template-columns: 1fr !important; }
+  .s-top5-grid { grid-template-columns: 1fr !important; }
+  .s-featured-body h2 { font-size: 16px !important; }
+  .sophie-page { padding: 10px !important; }
+}
