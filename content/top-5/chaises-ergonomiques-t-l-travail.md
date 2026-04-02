@@ -5,7 +5,7 @@ lastmod: 2026-03-28T10:00:00+01:00
 draft: false
 section: "top-5"
 theme: "Chaises ergonomiques télétravail"
-description: "Guide complet : trouvez LA chaise ergonomique télétravail parfaite pour soulager votre dos. Top 5 des modèles experts à Toulouse pour freelances et mamans."
+description: "Guide complet chaises ergonomiques télétravail 2026 : les 5 modèles qui sauvent vraiment votre dos. Verdict expert par Sophie."
 categories: ["maison"]
 tags: ["steelcase gesture", "chaise ergonomique pour bouger", "ergonofis activa", "chaise ergonomique rapport qualité prix", "score ergo 2000", "chaise ergonomique sur mesure", "dams ergo 300", "chaise ergonomique économique", "backbone chaise ergonomique", "chaise bureau mouvement fluide"]
 image: "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=1200&q=80"

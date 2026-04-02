@@ -5,7 +5,7 @@ lastmod: 2026-03-21T10:00:00+01:00
 draft: false
 section: "top-5"
 theme: "Aspirateurs robots"
-description: "Guide expert aspirateurs robots 2024 : Top modèles pour maman freelance à Toulouse. Roborock, Ecovacs, Neato... Nos conseils cash !"
+description: "Guide complet aspirateurs robots 2026 : les 5 modèles testés et approuvés. Verdict expert par Sophie."
 categories: ["maison"]
 tags: ["roborock s8 pro ultra", "aspirateur robot serpillière", "ecovacs deebot t20 omni", "robot aspirateur serpillière eau chaude", "neato d10", "robot aspirateur coins", "ilife a11", "robot aspirateur entrée de gamme", "irobot roomba s9+", "aspirateur robot puissant"]
 image: "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=1200&q=80"

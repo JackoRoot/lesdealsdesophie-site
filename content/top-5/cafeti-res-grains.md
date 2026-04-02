@@ -5,7 +5,7 @@ lastmod: 2026-03-14T10:00:00+01:00
 draft: false
 section: "top-5"
 theme: "Cafetières à grains"
-description: "Guide d'achat cafetières à grains : 5 modèles experts pour un café parfait à la maison. Choix, conseils et comparatif par Sophie."
+description: "Guide complet cafetières à grains 2026 : les 5 modèles qui font vraiment la différence. Verdict expert par Sophie."
 categories: ["maison"]
 tags: ["cafetière grain Melitta", "Purista 300", "cafetière grain Siemens", "EQ.300", "cafetière grain Jura", "Jura E8", "cafetière grain De'Longhi Dinamica", "machine expresso latte", "cafetière grain Miele", "CM7750"]
 image: "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=1200&q=80"
