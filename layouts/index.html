@@ -223,7 +223,7 @@ body, body.list { background: #1A1C23 !important; }
 
   {{ $top5 := where .Site.RegularPages "Section" "top-5" }}
   {{ if $top5 }}
-  <div style="display:flex;align-items:flex-start;justify-content:space-between"><div class="s-section-title">Les guides de Sophie</div><button onclick="toggleMenu()" style="background:none;border:none;cursor:pointer;padding:8px;display:flex;flex-direction:column;gap:5px" id="hamburger"><span style="display:block;width:24px;height:2px;background:#E2E8F0;border-radius:2px"></span><span style="display:block;width:24px;height:2px;background:#E2E8F0;border-radius:2px"></span><span style="display:block;width:24px;height:2px;background:#E2E8F0;border-radius:2px"></span></button></div>
+  <div style="display:flex;align-items:flex-start;justify-content:space-between"><div class="s-section-title">Les guides de Sophie</div><button onclick="toggleMenu()" style="background:none;border:none;cursor:pointer;padding:0px;display:flex;flex-direction:column;gap:5px" id="hamburger"><span style="display:block;width:24px;height:2px;background:#E2E8F0;border-radius:2px"></span><span style="display:block;width:24px;height:2px;background:#E2E8F0;border-radius:2px"></span><span style="display:block;width:24px;height:2px;background:#E2E8F0;border-radius:2px"></span></button></div>
   <div class="s-top5-grid">
     {{ range first 3 $top5 }}
     <a href="{{ .Permalink }}" class="s-top5-card">
