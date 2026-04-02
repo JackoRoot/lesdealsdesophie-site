@@ -1,5 +1,5 @@
 ---
-title: "Oubliez Ikea : ces 5 chaises ergonomiques vont changer votre quotidien de télétravailleur toulousain"
+title: "J'ai trié 25 chaises de bureau, voici les 5 seules qui sauvent vraiment votre dos"
 date: 2026-03-28T10:00:00+01:00
 lastmod: 2026-03-28T10:00:00+01:00
 draft: false
