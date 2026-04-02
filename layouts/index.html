@@ -223,7 +223,7 @@ body, body.list { background: #1A1C23 !important; }
 
   {{ $top5 := where .Site.RegularPages "Section" "top-5" }}
   {{ if $top5 }}
-  <div class="s-section-title">Les guides de Sophie</div>
+  <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:0"><div class="s-section-title" style="margin-bottom:0">Les guides de Sophie</div><button class="hamburger" id="hamburger2" onclick="toggleMenu()" aria-label="Menu" style="display:none"><span></span><span></span><span></span></button></div>
   <div class="s-top5-grid">
     {{ range first 3 $top5 }}
     <a href="{{ .Permalink }}" class="s-top5-card">

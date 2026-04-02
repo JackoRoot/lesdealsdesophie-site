@@ -228,3 +228,9 @@ body::after {
   z-index: 1;
   box-shadow: 0 10px 30px rgba(0,0,0,0.5);
 }
+
+/* Hamburger dans index uniquement */
+@media (max-width: 768px) {
+  #hamburger { display: none !important; }
+  #hamburger2 { display: flex !important; }
+}
