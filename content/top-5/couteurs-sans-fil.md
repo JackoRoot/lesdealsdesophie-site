@@ -1,7 +1,7 @@
 ---
 title: "Oubliez les AirPods : ces 5 écouteurs vont changer votre quotidien de maman freelance"
-date: 2026-04-02T17:53:28+02:00
-lastmod: 2026-04-02T17:53:28+02:00
+date: 2026-04-02T17:57:23+02:00
+lastmod: 2026-04-02T17:57:23+02:00
 draft: false
 section: "top-5"
 theme: "Écouteurs sans fil"
