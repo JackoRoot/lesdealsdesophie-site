@@ -234,6 +234,4 @@ body::after {
 
 /* Hamburger dans index uniquement */
 @media (max-width: 768px) {
-  #hamburger { display: none !important; }
-  #hamburger2 { display: flex !important; }
 }
