@@ -235,3 +235,14 @@ body::after {
 /* Hamburger dans index uniquement */
 @media (max-width: 768px) {
 }
+
+/* ===== MOBILE FINAL — Typo + Marges ===== */
+@media (max-width: 768px) {
+  .s-card-title { font-size: 13px !important; }
+  .s-featured-body h2 { font-size: 14px !important; }
+  .s-top5-grid .s-card { padding: 10px !important; }
+  .s-grid .s-card { padding: 10px !important; }
+  .s-card-body { padding: 10px !important; }
+  .post-title { font-size: 20px !important; }
+  h1.post-title { font-size: 22px !important; }
+}
