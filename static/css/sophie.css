@@ -246,3 +246,9 @@ body::after {
   .post-title { font-size: 20px !important; }
   h1.post-title { font-size: 22px !important; }
 }
+
+/* Cache hamburger guides sur PC */
+.s-hamburger-btn { display: none !important; }
+@media (max-width: 768px) {
+  .s-hamburger-btn { display: flex !important; }
+}
