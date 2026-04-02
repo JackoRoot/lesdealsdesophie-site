@@ -1,5 +1,5 @@
 ---
-title: "J'ai trié 25 chaises de bureau, voici les 5 seules qui sauvent vraiment votre dos"
+title: "Le secret pour télétravailler 8h sans mal de dos : Les 5 chaises qui font vraiment la différence"
 date: 2026-03-28T10:00:00+01:00
 lastmod: 2026-03-28T10:00:00+01:00
 draft: false
