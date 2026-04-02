@@ -182,3 +182,41 @@ img.loaded { opacity: 1; }
   #menu a:hover { background: #2D323E !important; }
   .nav { position: relative !important; flex-wrap: wrap !important; }
 }
+
+/* ===== DESIGN PREMIUM ===== */
+body {
+  background: radial-gradient(circle, #1e2129 0%, #12141a 100%) !important;
+}
+body::before {
+  content: '';
+  position: fixed;
+  width: 600px;
+  height: 600px;
+  background: #B35A5A;
+  filter: blur(120px);
+  opacity: 0.03;
+  top: -200px;
+  right: -200px;
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 0;
+}
+body::after {
+  content: '';
+  position: fixed;
+  width: 500px;
+  height: 500px;
+  background: #B35A5A;
+  filter: blur(120px);
+  opacity: 0.02;
+  bottom: -150px;
+  left: -150px;
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 0;
+}
+.sophie-page, .main {
+  position: relative;
+  z-index: 1;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+}
