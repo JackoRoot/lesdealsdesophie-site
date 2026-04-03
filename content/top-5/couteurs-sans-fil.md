@@ -24,15 +24,15 @@ Dans la jungle des écouteurs sans fil, le bas de gamme est souvent synonyme de 
 
 | # | Produit | Prix | Score |
 |---|---------|------|-------|
-| 1 | **Sony WF-1000XM5** | 250€ - 300€ | ⭐⭐⭐⭐🌟 4.8/5 |
-| 4 | **JBL Tour Pro 2** | 180€ - 220€ | ⭐⭐⭐⭐ 4.3/5 |
-| 6 | **Cambridge Audio Melomania 1+** | 100€ - 130€ | ⭐⭐⭐⭐ 4.2/5 |
-| 7 | **Anker Soundcore Liberty 4 NC** | 80€ - 100€ | ⭐⭐⭐⭐ 4.0/5 |
-| 10 | **Shokz OpenRun Pro** | 150€ - 180€ | ⭐⭐⭐⭐🌟 4.6/5 |
+| 1 | **Sony WF-1000XM5** | 250€ - 300€ | ⭐⭐⭐⭐🌟 |
+| 4 | **JBL Tour Pro 2** | 180€ - 220€ | ⭐⭐⭐⭐ |
+| 6 | **Cambridge Audio Melomania 1+** | 100€ - 130€ | ⭐⭐⭐⭐ |
+| 7 | **Anker Soundcore Liberty 4 NC** | 80€ - 100€ | ⭐⭐⭐⭐ |
+| 10 | **Shokz OpenRun Pro** | 150€ - 180€ | ⭐⭐⭐⭐🌟 |
 
 
 
-## #1 — Sony WF-1000XM5 <span class="score-sophie">⭐⭐⭐⭐🌟 4.8/5</span>
+## #1 — Sony WF-1000XM5 <span class="score-sophie">★★★★½ 4.8/5</span>
 
 **Catégorie :** Must-Have | **Prix :** 250€ - 300€
 
@@ -54,7 +54,7 @@ Soyons clairs, les Sony WF-1000XM5, c'est la Rolls des écouteurs sans fil. Le s
 
 ---
 
-## #4 — JBL Tour Pro 2 <span class="score-sophie">⭐⭐⭐⭐ 4.3/5</span>
+## #2 — JBL Tour Pro 2 <span class="score-sophie">★★★★☆ 4.3/5</span>
 
 **Catégorie :** Smart Choice | **Prix :** 180€ - 220€
 
@@ -76,7 +76,7 @@ JBL a vraiment frappé un grand coup avec ces Tour Pro 2. Pour le prix, la rédu
 
 ---
 
-## #6 — Cambridge Audio Melomania 1+ <span class="score-sophie">⭐⭐⭐⭐ 4.2/5</span>
+## #3 — Cambridge Audio Melomania 1+ <span class="score-sophie">★★★★☆ 4.2/5</span>
 
 **Catégorie :** Pépite Niche | **Prix :** 100€ - 130€
 
@@ -98,7 +98,7 @@ Cambridge Audio, ça ne vous dit peut-être rien si vous n'êtes pas un audiophi
 
 ---
 
-## #7 — Anker Soundcore Liberty 4 NC <span class="score-sophie">⭐⭐⭐⭐ 4.0/5</span>
+## #4 — Anker Soundcore Liberty 4 NC <span class="score-sophie">★★★★☆ 4.0/5</span>
 
 **Catégorie :** Budget Gem | **Prix :** 80€ - 100€
 
@@ -120,7 +120,7 @@ Franchement, pour moins de 100€, les Anker Soundcore Liberty 4 NC, c'est une t
 
 ---
 
-## #10 — Shokz OpenRun Pro <span class="score-sophie">⭐⭐⭐⭐🌟 4.6/5</span>
+## #5 — Shokz OpenRun Pro <span class="score-sophie">★★★★½ 4.6/5</span>
 
 **Catégorie :** Wildcard | **Prix :** 150€ - 180€
 

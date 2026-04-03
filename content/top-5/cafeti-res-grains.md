@@ -25,10 +25,10 @@ Soyons clairs : le bas de gamme dans les cafetières à grains, c'est un faux am
 | # | Produit | Prix | Score |
 |---|---------|------|-------|
 | 1 | **Melitta Purista Serie 300** | 380€ - 480€ | ⭐⭐⭐⭐½ 4.7/5 |
-| 2 | **Siemens EQ.300** | 400€ - 500€ | ⭐⭐⭐⭐ 4.4/5 |
+| 2 | **Siemens EQ.300** | 400€ - 500€ | ⭐⭐⭐⭐ |
 | 3 | **De'Longhi Dinamica 370.95.T** | 400€ - 500€ | ⭐⭐⭐⭐½ 4.6/5 |
 | 4 | **Jura E8** | 1200€ - 1500€ | ⭐⭐⭐⭐½ 4.9/5 |
-| 5 | **Miele CM7750** | 2500€ - 3000€ | ⭐⭐⭐⭐⭐ 5.0/5 |
+| 5 | **Miele CM7750** | 2500€ - 3000€ | ⭐⭐⭐⭐⭐ |
 
 
 
@@ -54,7 +54,7 @@ La Melitta Purista, c'est ma petite pépite perso pour plusieurs raisons. D'abor
 
 ---
 
-## #2 — Siemens EQ.300 <span class="score-sophie">⭐⭐⭐⭐ 4.4/5</span>
+## #2 — Siemens EQ.300 <span class="score-sophie">★★★★☆ 4.4/5</span>
 
 **Catégorie :** Smart Choice Option B | **Prix :** 400€ - 500€
 
@@ -120,7 +120,7 @@ Alors là, on monte d'un cran. Jura, c'est pour les passionnés, ceux qui veulen
 
 ---
 
-## #5 — Miele CM7750 <span class="score-sophie">⭐⭐⭐⭐⭐ 5.0/5</span>
+## #5 — Miele CM7750 <span class="score-sophie">★★★★★ 5.0/5</span>
 
 **Catégorie :** Premium | **Prix :** 2500€ - 3000€
 
