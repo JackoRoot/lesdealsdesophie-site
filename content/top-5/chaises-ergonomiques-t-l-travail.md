@@ -20,14 +20,17 @@ On est d'accord, une chaise de bureau à 30€ dans le supermarché du coin, ça
 
 ## Comparatif rapide
 
-| # | Produit | Prix | Score |
-|---|---------|------|-------|
-| 1 | **Steelcase Gesture** | 900€ - 1300€ | ★★★★<span class="demi-etoile">★</span> |
-| 2 | **Steelcase Gesture** | 900€ - 1300€ | ★★★★<span class="demi-etoile">★</span> |
-| 3 | **Ergonofis Activa** | 600€ - 900€ | ★★★★<span class="demi-etoile">★</span> |
-| 4 | **Score Ergo 2000** | 700€ - 1000€ | ★★★★<span class="demi-etoile">★</span> |
-| 5 | **Dams Ergo 300** | 200€ - 350€ | ★★★<span class="demi-etoile">★</span>☆ |
-| 6 | **Backbone Ergonomic Office Chair** | 400€ - 600€ | ★★★★<span class="demi-etoile">★</span> |
+<div class="sophie-tableau">
+<table class="comparatif-table">
+<thead><tr><th>#</th><th>Produit</th><th>Prix</th><th>Score</th></tr></thead>
+<tbody>
+<tr><td>1</td><td><strong>Steelcase Gesture</strong></td><td>900€ - 1300€</td><td><span class="score-sophie">★★★★<span class="demi-etoile">★</span></span> 4.0/5</td></tr>
+<tr><td>2</td><td><strong>Steelcase Gesture</strong></td><td>900€ - 1300€</td><td><span class="score-sophie">★★★★<span class="demi-etoile">★</span></span> 4.0/5</td></tr>
+<tr><td>3</td><td><strong>Ergonofis Activa</strong></td><td>600€ - 900€</td><td><span class="score-sophie">★★★★<span class="demi-etoile">★</span></span> 4.0/5</td></tr>
+<tr><td>4</td><td><strong>Score Ergo 2000</strong></td><td>700€ - 1000€</td><td><span class="score-sophie">★★★★<span class="demi-etoile">★</span></span> 4.0/5</td></tr>
+<tr><td>5</td><td><strong>Dams Ergo 300</strong></td><td>200€ - 350€</td><td><span class="score-sophie">★★★<span class="demi-etoile">★</span><span class="etoile-vide">☆</span></span> 4.0/5</td></tr>
+<tr><td>6</td><td><strong>Backbone Ergonomic Office Chair</strong></td><td>400€ - 600€</td><td><span class="score-sophie">★★★★<span class="demi-etoile">★</span></span> 4.0/5</td></tr>
+</tbody></table></div>
 
 
 

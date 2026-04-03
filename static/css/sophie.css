@@ -268,3 +268,10 @@ body::after {
   overflow: hidden;
   color: #F5A623;
 }
+
+/* ===== TABLEAU COMPARATIF ===== */
+.comparatif-table { width: 100%; border-collapse: collapse; margin: 16px 0; }
+.comparatif-table th { background: #2D323E; color: #B35A5A; padding: 10px 12px; text-align: left; font-size: 13px; text-transform: uppercase; letter-spacing: 0.05em; }
+.comparatif-table td { padding: 10px 12px; border-bottom: 1px solid #2D323E; color: #E2E8F0; font-size: 14px; }
+.comparatif-table tr:hover td { background: #2D323E; }
+.etoile-vide { color: #4A4A4A; }
