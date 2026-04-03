@@ -25,8 +25,8 @@ Soyons clairs : dans le monde des aspirateurs robots, le bas de gamme est souven
 <thead><tr><th>#</th><th>Produit</th><th>Prix</th><th>Score</th></tr></thead>
 <tbody>
 <tr><td>1</td><td><strong>Roborock S8 Pro Ultra</strong></td><td>1200€ - 1500€</td><td><span class="score-sophie"><span class="demi-etoile">★</span><span class="etoile-vide">☆</span><span class="etoile-vide">☆</span><span class="etoile-vide">☆</span><span class="etoile-vide">☆</span></span> 4.8/5</td></tr>
-<tr><td>2</td><td><strong>Ecovacs Deebot T20 Omni</strong></td><td>700€ - 900€</td><td><span class="score-sophie">★★★★<span class="etoile-vide">☆</span></span> 4.0/5</td></tr>
-<tr><td>3</td><td><strong>Neato D10</strong></td><td>500€ - 700€</td><td><span class="score-sophie">★★★★<span class="etoile-vide">☆</span></span> 4.0/5</td></tr>
+<tr><td>2</td><td><strong>Ecovacs Deebot T20 Omni</strong></td><td>700€ - 900€</td><td><span class="score-sophie">★★★★<span class="etoile-vide">☆</span></span> 4.8/5</td></tr>
+<tr><td>3</td><td><strong>Neato D10</strong></td><td>500€ - 700€</td><td><span class="score-sophie">★★★★<span class="etoile-vide">☆</span></span> 4.3/5</td></tr>
 <tr><td>4</td><td><strong>ILIFE A11</strong></td><td>200€ - 300€</td><td><span class="score-sophie"><span class="demi-etoile">★</span><span class="etoile-vide">☆</span><span class="etoile-vide">☆</span><span class="etoile-vide">☆</span><span class="etoile-vide">☆</span></span> 3.5/5</td></tr>
 <tr><td>5</td><td><strong>iRobot Roomba s9+</strong></td><td>900€ - 1200€</td><td><span class="score-sophie">★★★★<span class="etoile-vide">☆</span></span> 4.0/5</td></tr>
 </tbody></table></div>
