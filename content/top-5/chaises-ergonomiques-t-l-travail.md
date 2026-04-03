@@ -22,12 +22,12 @@ On est d'accord, une chaise de bureau à 30€ dans le supermarché du coin, ça
 
 | # | Produit | Prix | Score |
 |---|---------|------|-------|
-| 1 | **Steelcase Gesture** | 900€ - 1300€ | ⭐⭐⭐⭐🌟 |
-| 2 | **Steelcase Gesture** | 900€ - 1300€ | ⭐⭐⭐⭐🌟 |
-| 3 | **Ergonofis Activa** | 600€ - 900€ | ⭐⭐⭐⭐🌟 |
-| 4 | **Score Ergo 2000** | 700€ - 1000€ | ⭐⭐⭐⭐🌟 |
-| 5 | **Dams Ergo 300** | 200€ - 350€ | ⭐⭐⭐🌟 |
-| 8 | **Backbone Ergonomic Office Chair** | 400€ - 600€ | ⭐⭐⭐⭐🌟 |
+| 1 | **Steelcase Gesture** | 900€ - 1300€ | ★★★★½ |
+| 2 | **Steelcase Gesture** | 900€ - 1300€ | ★★★★½ |
+| 3 | **Ergonofis Activa** | 600€ - 900€ | ★★★★½ |
+| 4 | **Score Ergo 2000** | 700€ - 1000€ | ★★★★½ |
+| 5 | **Dams Ergo 300** | 200€ - 350€ | ★★★½☆ |
+| 6 | **Backbone Ergonomic Office Chair** | 400€ - 600€ | ★★★★½ |
 
 
 

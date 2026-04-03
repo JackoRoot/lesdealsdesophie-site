@@ -24,11 +24,11 @@ Dans la jungle des écouteurs sans fil, le bas de gamme est souvent synonyme de 
 
 | # | Produit | Prix | Score |
 |---|---------|------|-------|
-| 1 | **Sony WF-1000XM5** | 250€ - 300€ | ⭐⭐⭐⭐🌟 |
-| 4 | **JBL Tour Pro 2** | 180€ - 220€ | ⭐⭐⭐⭐ |
-| 6 | **Cambridge Audio Melomania 1+** | 100€ - 130€ | ⭐⭐⭐⭐ |
-| 7 | **Anker Soundcore Liberty 4 NC** | 80€ - 100€ | ⭐⭐⭐⭐ |
-| 10 | **Shokz OpenRun Pro** | 150€ - 180€ | ⭐⭐⭐⭐🌟 |
+| 1 | **Sony WF-1000XM5** | 250€ - 300€ | ★★★★½ |
+| 2 | **JBL Tour Pro 2** | 180€ - 220€ | ★★★★☆ |
+| 3 | **Cambridge Audio Melomania 1+** | 100€ - 130€ | ★★★★☆ |
+| 4 | **Anker Soundcore Liberty 4 NC** | 80€ - 100€ | ★★★★☆ |
+| 5 | **Shokz OpenRun Pro** | 150€ - 180€ | ★★★★½ |
 
 
 
