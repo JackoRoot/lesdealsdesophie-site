@@ -252,3 +252,19 @@ body::after {
 @media (max-width: 768px) {
   .s-hamburger-btn { display: flex !important; }
 }
+
+/* ===== ÉTOILES SCORE SOPHIE ===== */
+.score-sophie { color: #F5A623; font-size: 1.1em; }
+.demi-etoile {
+  display: inline-block;
+  position: relative;
+  color: #4A4A4A;
+}
+.demi-etoile::before {
+  content: '★';
+  position: absolute;
+  left: 0;
+  width: 50%;
+  overflow: hidden;
+  color: #F5A623;
+}

@@ -22,15 +22,15 @@ Soyons clairs : dans le monde des aspirateurs robots, le bas de gamme est souven
 
 | # | Produit | Prix | Score |
 |---|---------|------|-------|
-| 1 | **Roborock S8 Pro Ultra** | 1200€ - 1500€ | ⭐⭐⭐⭐½ 4.8/5 |
+| 1 | **Roborock S8 Pro Ultra** | 1200€ - 1500€ | ⭐⭐⭐⭐<span class="demi-etoile">★</span> 4.8/5 |
 | 1 | **Ecovacs Deebot T20 Omni** | 700€ - 900€ | ★★★★☆ |
 | 2 | **Neato D10** | 500€ - 700€ | ★★★★☆ |
-| 8 | **ILIFE A11** | 200€ - 300€ | ⭐⭐⭐½ 3.5/5 |
+| 8 | **ILIFE A11** | 200€ - 300€ | ⭐⭐⭐<span class="demi-etoile">★</span> 3.5/5 |
 | 3 | **iRobot Roomba s9+** | 900€ - 1200€ | ★★★★☆ |
 
 
 
-## #1 — Roborock S8 Pro Ultra <span class="score-sophie">⭐⭐⭐⭐½ 4.8/5</span>
+## #1 — Roborock S8 Pro Ultra <span class="score-sophie">⭐⭐⭐⭐<span class="demi-etoile">★</span> 4.8/5</span>
 
 **Catégorie :** Must-Have | **Prix :** 1200€ - 1500€
 
@@ -96,7 +96,7 @@ Pour ceux qui veulent une couverture maximale, le Neato D10 est une valeur sûre
 
 ---
 
-## #4 — ILIFE A11 <span class="score-sophie">⭐⭐⭐½ 3.5/5</span>
+## #4 — ILIFE A11 <span class="score-sophie">⭐⭐⭐<span class="demi-etoile">★</span> 3.5/5</span>
 
 **Catégorie :** Budget Gem | **Prix :** 200€ - 300€
 

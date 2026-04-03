@@ -22,16 +22,16 @@ On est d'accord, une chaise de bureau à 30€ dans le supermarché du coin, ça
 
 | # | Produit | Prix | Score |
 |---|---------|------|-------|
-| 1 | **Steelcase Gesture** | 900€ - 1300€ | ★★★★½ |
-| 2 | **Steelcase Gesture** | 900€ - 1300€ | ★★★★½ |
-| 3 | **Ergonofis Activa** | 600€ - 900€ | ★★★★½ |
-| 4 | **Score Ergo 2000** | 700€ - 1000€ | ★★★★½ |
-| 5 | **Dams Ergo 300** | 200€ - 350€ | ★★★½☆ |
-| 6 | **Backbone Ergonomic Office Chair** | 400€ - 600€ | ★★★★½ |
+| 1 | **Steelcase Gesture** | 900€ - 1300€ | ★★★★<span class="demi-etoile">★</span> |
+| 2 | **Steelcase Gesture** | 900€ - 1300€ | ★★★★<span class="demi-etoile">★</span> |
+| 3 | **Ergonofis Activa** | 600€ - 900€ | ★★★★<span class="demi-etoile">★</span> |
+| 4 | **Score Ergo 2000** | 700€ - 1000€ | ★★★★<span class="demi-etoile">★</span> |
+| 5 | **Dams Ergo 300** | 200€ - 350€ | ★★★<span class="demi-etoile">★</span>☆ |
+| 6 | **Backbone Ergonomic Office Chair** | 400€ - 600€ | ★★★★<span class="demi-etoile">★</span> |
 
 
 
-## #1 — Steelcase Gesture <span class="score-sophie">★★★★½ 4.9/5</span>
+## #1 — Steelcase Gesture <span class="score-sophie">★★★★<span class="demi-etoile">★</span> 4.9/5</span>
 
 **Catégorie :** Must-Have | **Prix :** 900€ - 1300€
 
@@ -53,7 +53,7 @@ Alors oui, le prix pique un peu, mais la Steelcase Gesture, c'est le Saint Graal
 
 ---
 
-## #2 — Steelcase Gesture <span class="score-sophie">★★★★½ 4.5/5</span>
+## #2 — Steelcase Gesture <span class="score-sophie">★★★★<span class="demi-etoile">★</span> 4.5/5</span>
 
 **Catégorie :** Must-Have | **Prix :** 900€ - 1300€
 
@@ -75,7 +75,7 @@ L'autre championne incontestée. La Gesture, c'est le confort enveloppant, parfa
 
 ---
 
-## #3 — Ergonofis Activa <span class="score-sophie">★★★★½ 4.7/5</span>
+## #3 — Ergonofis Activa <span class="score-sophie">★★★★<span class="demi-etoile">★</span> 4.7/5</span>
 
 **Catégorie :** Smart Choice | **Prix :** 600€ - 900€
 
@@ -97,7 +97,7 @@ Si tu veux le top sans te ruiner comme avec les deux premières, Ergonofis c'est
 
 ---
 
-## #4 — Score Ergo 2000 <span class="score-sophie">★★★★½ 4.6/5</span>
+## #4 — Score Ergo 2000 <span class="score-sophie">★★★★<span class="demi-etoile">★</span> 4.6/5</span>
 
 **Catégorie :** Pépite Niche | **Prix :** 700€ - 1000€
 
@@ -119,7 +119,7 @@ Pour les puristes du réglage précis. La Ergo 2000, c'est une machine à ajuste
 
 ---
 
-## #5 — Dams Ergo 300 <span class="score-sophie">★★★½☆ 3.8/5</span>
+## #5 — Dams Ergo 300 <span class="score-sophie">★★★<span class="demi-etoile">★</span>☆ 3.8/5</span>
 
 **Catégorie :** Budget Gem | **Prix :** 200€ - 350€
 
@@ -142,7 +142,7 @@ Si ton budget est serré mais que tu veux quand même un minimum de confort et d
 
 ---
 
-## #6 — Backbone Ergonomic Office Chair <span class="score-sophie">★★★★½ 4.7/5</span>
+## #6 — Backbone Ergonomic Office Chair <span class="score-sophie">★★★★<span class="demi-etoile">★</span> 4.7/5</span>
 
 **Catégorie :** Wildcard | **Prix :** 400€ - 600€
 

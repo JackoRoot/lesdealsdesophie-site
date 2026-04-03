@@ -24,15 +24,15 @@ Dans la jungle des écouteurs sans fil, le bas de gamme est souvent synonyme de 
 
 | # | Produit | Prix | Score |
 |---|---------|------|-------|
-| 1 | **Sony WF-1000XM5** | 250€ - 300€ | ★★★★½ |
+| 1 | **Sony WF-1000XM5** | 250€ - 300€ | ★★★★<span class="demi-etoile">★</span> |
 | 2 | **JBL Tour Pro 2** | 180€ - 220€ | ★★★★☆ |
 | 3 | **Cambridge Audio Melomania 1+** | 100€ - 130€ | ★★★★☆ |
 | 4 | **Anker Soundcore Liberty 4 NC** | 80€ - 100€ | ★★★★☆ |
-| 5 | **Shokz OpenRun Pro** | 150€ - 180€ | ★★★★½ |
+| 5 | **Shokz OpenRun Pro** | 150€ - 180€ | ★★★★<span class="demi-etoile">★</span> |
 
 
 
-## #1 — Sony WF-1000XM5 <span class="score-sophie">★★★★½ 4.8/5</span>
+## #1 — Sony WF-1000XM5 <span class="score-sophie">★★★★<span class="demi-etoile">★</span> 4.8/5</span>
 
 **Catégorie :** Must-Have | **Prix :** 250€ - 300€
 
@@ -120,7 +120,7 @@ Franchement, pour moins de 100€, les Anker Soundcore Liberty 4 NC, c'est une t
 
 ---
 
-## #5 — Shokz OpenRun Pro <span class="score-sophie">★★★★½ 4.6/5</span>
+## #5 — Shokz OpenRun Pro <span class="score-sophie">★★★★<span class="demi-etoile">★</span> 4.6/5</span>
 
 **Catégorie :** Wildcard | **Prix :** 150€ - 180€
 

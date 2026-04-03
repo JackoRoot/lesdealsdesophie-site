@@ -22,15 +22,15 @@ Se jeter sur le premier prix, c'est souvent accepter un compromis sur la qualit�
 
 | # | Produit | Prix | Score |
 |---|---------|------|-------|
-| 1 | **Philips Essential Airfryer XL** | 150€ - 200€ | ★★★★½ |
-| 2 | **Ninja Air Fryer Max** | 120€ - 170€ | ★★★★½ |
+| 1 | **Philips Essential Airfryer XL** | 150€ - 200€ | ★★★★<span class="demi-etoile">★</span> |
+| 2 | **Ninja Air Fryer Max** | 120€ - 170€ | ★★★★<span class="demi-etoile">★</span> |
 | 3 | **Proscenic T21 Smart Air Fryer** | 100€ - 140€ | ★★★★☆ |
 | 4 | **Princess Aerofryer XXL** | 80€ - 120€ | ★★★★☆ |
-| 5 | **Instant Pot Vortex Plus 6-en-1 Air Fryer** | 150€ - 200€ | ★★★★½ |
+| 5 | **Instant Pot Vortex Plus 6-en-1 Air Fryer** | 150€ - 200€ | ★★★★<span class="demi-etoile">★</span> |
 
 
 
-## #1 — Philips Essential Airfryer XL <span class="score-sophie">★★★★½ 4.8/5</span>
+## #1 — Philips Essential Airfryer XL <span class="score-sophie">★★★★<span class="demi-etoile">★</span> 4.8/5</span>
 
 **Catégorie :** Must-Have | **Prix :** 150€ - 200€
 
@@ -52,7 +52,7 @@ Philips, c'est le nom qui revient sans cesse, et pour cause. Leur technologie Ra
 
 ---
 
-## #2 — Ninja Air Fryer Max <span class="score-sophie">★★★★½ 4.6/5</span>
+## #2 — Ninja Air Fryer Max <span class="score-sophie">★★★★<span class="demi-etoile">★</span> 4.6/5</span>
 
 **Catégorie :** Smart Choice | **Prix :** 120€ - 170€
 
@@ -118,7 +118,7 @@ Cet Aerofryer XXL de Princess est une excellente porte d'entrée dans le monde d
 
 ---
 
-## #5 — Instant Pot Vortex Plus 6-en-1 Air Fryer <span class="score-sophie">★★★★½ 4.7/5</span>
+## #5 — Instant Pot Vortex Plus 6-en-1 Air Fryer <span class="score-sophie">★★★★<span class="demi-etoile">★</span> 4.7/5</span>
 
 **Catégorie :** Wildcard | **Prix :** 150€ - 200€
 

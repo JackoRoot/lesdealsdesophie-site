@@ -24,15 +24,15 @@ Soyons clairs : le bas de gamme dans les cafetières à grains, c'est un faux am
 
 | # | Produit | Prix | Score |
 |---|---------|------|-------|
-| 1 | **Melitta Purista Serie 300** | 380€ - 480€ | ⭐⭐⭐⭐½ 4.7/5 |
+| 1 | **Melitta Purista Serie 300** | 380€ - 480€ | ⭐⭐⭐⭐<span class="demi-etoile">★</span> 4.7/5 |
 | 1 | **Siemens EQ.300** | 400€ - 500€ | ★★★★☆ |
-| 3 | **De'Longhi Dinamica 370.95.T** | 400€ - 500€ | ⭐⭐⭐⭐½ 4.6/5 |
-| 4 | **Jura E8** | 1200€ - 1500€ | ⭐⭐⭐⭐½ 4.9/5 |
+| 3 | **De'Longhi Dinamica 370.95.T** | 400€ - 500€ | ⭐⭐⭐⭐<span class="demi-etoile">★</span> 4.6/5 |
+| 4 | **Jura E8** | 1200€ - 1500€ | ⭐⭐⭐⭐<span class="demi-etoile">★</span> 4.9/5 |
 | 2 | **Miele CM7750** | 2500€ - 3000€ | ★★★★★ |
 
 
 
-## #1 — Melitta Purista Serie 300 <span class="score-sophie">⭐⭐⭐⭐½ 4.7/5</span>
+## #1 — Melitta Purista Serie 300 <span class="score-sophie">⭐⭐⭐⭐<span class="demi-etoile">★</span> 4.7/5</span>
 
 **Catégorie :** Must-Have Option B | **Prix :** 380€ - 480€
 
@@ -76,7 +76,7 @@ La Siemens EQ.300, c'est le choix de la raison, le 'bon plan' comme on dit. Elle
 
 ---
 
-## #3 — De'Longhi Dinamica 370.95.T <span class="score-sophie">⭐⭐⭐⭐½ 4.6/5</span>
+## #3 — De'Longhi Dinamica 370.95.T <span class="score-sophie">⭐⭐⭐⭐<span class="demi-etoile">★</span> 4.6/5</span>
 
 **Catégorie :** Budget Gem Option B | **Prix :** 400€ - 500€
 
@@ -98,7 +98,7 @@ La De'Longhi Dinamica, c'est la machine à avoir si vous aimez les cappuccinos e
 
 ---
 
-## #4 — Jura E8 <span class="score-sophie">⭐⭐⭐⭐½ 4.9/5</span>
+## #4 — Jura E8 <span class="score-sophie">⭐⭐⭐⭐<span class="demi-etoile">★</span> 4.9/5</span>
 
 **Catégorie :** Pépite Niche Option A | **Prix :** 1200€ - 1500€
 
