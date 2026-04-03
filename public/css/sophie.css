@@ -257,16 +257,10 @@ body::after {
 .score-sophie { color: #FFD700; font-size: 1.1em; }
 .demi-etoile {
   display: inline-block;
-  position: relative;
-  color: #4A4A4A;
-}
-.demi-etoile::before {
-  content: '★';
-  position: absolute;
-  left: 0;
-  width: 50%;
-  overflow: hidden;
-  color: #FFD700;
+  background: linear-gradient(90deg, #FFD700 50%, #555 50%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
 }
 
 /* ===== TABLEAU COMPARATIF ===== */
