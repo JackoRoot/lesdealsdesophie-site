@@ -24,11 +24,11 @@ Se jeter sur le premier prix, c'est souvent accepter un compromis sur la qualit�
 <table class="comparatif-table">
 <thead><tr><th>#</th><th>Produit</th><th>Prix</th><th>Score</th></tr></thead>
 <tbody>
-<tr><td>1</td><td><strong>Philips Essential Airfryer XL</strong></td><td>150€ - 200€</td><td><span class="score-sophie">★★★★<span class="demi-etoile">★</span></span></span> 4.8/5</td></tr>
-<tr><td>2</td><td><strong>Ninja Air Fryer Max</strong></td><td>120€ - 170€</td><td><span class="score-sophie">★★★★<span class="demi-etoile">★</span></span></span> 4.6/5</td></tr>
-<tr><td>3</td><td><strong>Proscenic T21 Smart Air Fryer</strong></td><td>100€ - 140€</td><td><span class="score-sophie">★★★★<span class="etoile-vide">☆</span></span></span> 4.3/5</td></tr>
-<tr><td>4</td><td><strong>Princess Aerofryer XXL</strong></td><td>80€ - 120€</td><td><span class="score-sophie">★★★★<span class="etoile-vide">☆</span></span></span> 4.0/5</td></tr>
-<tr><td>5</td><td><strong>Instant Pot Vortex Plus 6-en-1 Air Fryer</strong></td><td>150€ - 200€</td><td><span class="score-sophie">★★★★<span class="demi-etoile">★</span></span></span> 4.7/5</td></tr>
+<tr><td>1</td><td><strong>Philips Essential Airfryer XL</strong></td><td>150€ - 200€</td><td><span class="score-sophie">★★★★<span class="demi-etoile">★</span></span></span></span> 4.8/5</td></tr>
+<tr><td>2</td><td><strong>Ninja Air Fryer Max</strong></td><td>120€ - 170€</td><td><span class="score-sophie">★★★★<span class="demi-etoile">★</span></span></span></span> 4.6/5</td></tr>
+<tr><td>3</td><td><strong>Proscenic T21 Smart Air Fryer</strong></td><td>100€ - 140€</td><td><span class="score-sophie">★★★★<span class="demi-etoile">★</span></span> 4.3/5</td></tr>
+<tr><td>4</td><td><strong>Princess Aerofryer XXL</strong></td><td>80€ - 120€</td><td><span class="score-sophie">★★★★<span class="etoile-vide">☆</span></span></span></span> 4.0/5</td></tr>
+<tr><td>5</td><td><strong>Instant Pot Vortex Plus 6-en-1 Air Fryer</strong></td><td>150€ - 200€</td><td><span class="score-sophie">★★★★<span class="demi-etoile">★</span></span></span></span> 4.7/5</td></tr>
 </tbody></table></div>
 
 
