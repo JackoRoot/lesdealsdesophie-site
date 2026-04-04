@@ -99,7 +99,7 @@ Pour ceux qui veulent une couverture maximale, le Neato D10 est une valeur sûre
 
 ---
 
-## #4 — ILIFE A11 <span class="score-sophie">★★★<span class="demi-etoile">★</span> 3.5/5</span>
+## #4 — ILIFE A11 <span class="score-sophie">★★★<span class="demi-etoile">★</span><span class="etoile-vide">☆</span> 3.5/5</span>
 
 **Catégorie :** Budget Gem | **Prix :** 200€ - 300€
 
