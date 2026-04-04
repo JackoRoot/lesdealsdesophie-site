@@ -25,29 +25,25 @@ customCSS = ["css/sophie.css"]
 
 [menu]
   [[menu.main]]
-    name = "Tech"
-    url = "/categories/tech/"
-    weight = 1
-  [[menu.main]]
-    name = "Mode"
-    url = "/categories/mode/"
-    weight = 2
-  [[menu.main]]
     name = "Maison"
     url = "/categories/maison/"
-    weight = 3
+    weight = 1
   [[menu.main]]
-    name = "Musique"
-    url = "/categories/musique/"
-    weight = 4
+    name = "Cuisine"
+    url = "/categories/cuisine/"
+    weight = 2
+  [[menu.main]]
+    name = "High-Tech"
+    url = "/categories/high-tech/"
+    weight = 3
   [[menu.main]]
     name = "Guides d'achat"
     url = "/top-5/"
-    weight = 5
+    weight = 4
   [[menu.main]]
     name = "Telegram"
     url = "https://t.me/LesDealsdeSophie"
-    weight = 6
+    weight = 5
 
 [markup]
   [markup.goldmark]
