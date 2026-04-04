@@ -79,7 +79,7 @@ JBL a vraiment frappé un grand coup avec ces Tour Pro 2. Pour le prix, la rédu
 
 ---
 
-## #3 — Cambridge Audio Melomania 1+ <span class="score-sophie">★★★★<span class="demi-etoile">★</span> 4.2/5</span>
+## #3 — Cambridge Audio Melomania 1+ <span class="score-sophie">★★★★<span class="etoile-vide">☆</span> 4.2/5</span>
 
 **Catégorie :** Pépite Niche | **Prix :** 100€ - 130€
 

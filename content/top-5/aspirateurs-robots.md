@@ -122,7 +122,7 @@ Si votre budget est vraiment serré, l'ILIFE A11 est une option à considérer. 
 
 ---
 
-## #5 — iRobot Roomba s9+ <span class="score-sophie">★★★★<span class="demi-etoile">★</span> 4.2/5</span>
+## #5 — iRobot Roomba s9+ <span class="score-sophie">★★★★<span class="etoile-vide">☆</span> 4.2/5</span>
 
 **Catégorie :** Premium | **Prix :** 900€ - 1200€
 
