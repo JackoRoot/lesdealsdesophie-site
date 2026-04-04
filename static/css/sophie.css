@@ -45,7 +45,7 @@ img.loaded { opacity: 1; }
 
 /* Logo Playfair */
 .logo { margin-bottom: 60px; }
-.logo a { font-family: 'Playfair Display', serif; font-size: 34px; letter-spacing: -0.02em; font-weight: 700; }
+.logo a { font-family: 'Playfair Display', serif; font-size: 42px; letter-spacing: -0.02em; font-weight: 700; }
 
 /* Menu Telegram en brique */
 #menu a[href*="telegram"], #menu a[href*="t.me"] { color: #B35A5A; }
