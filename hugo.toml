@@ -53,3 +53,10 @@ customCSS = ["css/sophie.css"]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[minify]
+  minifyOutput = true
+
+[minify.tdewolff.html]
+  keepQuotes = true
+  keepDefaultAttrVals = true
