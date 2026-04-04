@@ -26,11 +26,11 @@ Dans la jungle des écouteurs sans fil, le bas de gamme est souvent synonyme de 
 <table class="comparatif-table">
 <thead><tr><th>#</th><th>Produit</th><th>Prix</th><th>Score</th></tr></thead>
 <tbody>
-<tr><td>1</td><td><strong>Sony WF-1000XM5</strong></td><td>250€ - 300€</td><td><span class="score-sophie">★★★★<span class="demi-etoile">★</span></span></span></span> 4.8/5</td></tr>
-<tr><td>2</td><td><strong>JBL Tour Pro 2</strong></td><td>180€ - 220€</td><td><span class="score-sophie">★★★★<span class="etoile-vide">☆</span></span></span></span> 4.3/5</td></tr>
-<tr><td>3</td><td><strong>Cambridge Audio Melomania 1+</strong></td><td>100€ - 130€</td><td><span class="score-sophie">★★★★<span class="etoile-vide">☆</span></span></span></span> 4.2/5</td></tr>
-<tr><td>4</td><td><strong>Anker Soundcore Liberty 4 NC</strong></td><td>80€ - 100€</td><td><span class="score-sophie">★★★★<span class="etoile-vide">☆</span></span></span></span> 4.0/5</td></tr>
-<tr><td>5</td><td><strong>Shokz OpenRun Pro</strong></td><td>150€ - 180€</td><td><span class="score-sophie">★★★★<span class="demi-etoile">★</span></span></span></span> 4.6/5</td></tr>
+<tr><td>1</td><td><strong>Sony WF-1000XM5</strong></td><td>250€ - 300€</td><td><span class="score-sophie">★★★★<span class="demi-etoile">★</span></span> 4.8/5</td></tr>
+<tr><td>2</td><td><strong>JBL Tour Pro 2</strong></td><td>180€ - 220€</td><td><span class="score-sophie">★★★★<span class="etoile-vide">☆</span></span> 4.3/5</td></tr>
+<tr><td>3</td><td><strong>Cambridge Audio Melomania 1+</strong></td><td>100€ - 130€</td><td><span class="score-sophie">★★★★<span class="etoile-vide">☆</span></span> 4.2/5</td></tr>
+<tr><td>4</td><td><strong>Anker Soundcore Liberty 4 NC</strong></td><td>80€ - 100€</td><td><span class="score-sophie">★★★★<span class="etoile-vide">☆</span></span> 4.0/5</td></tr>
+<tr><td>5</td><td><strong>Shokz OpenRun Pro</strong></td><td>150€ - 180€</td><td><span class="score-sophie">★★★★<span class="demi-etoile">★</span></span> 4.6/5</td></tr>
 </tbody></table></div>
 
 

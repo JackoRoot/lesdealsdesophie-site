@@ -24,12 +24,12 @@ On est d'accord, une chaise de bureau à 30€ dans le supermarché du coin, ça
 <table class="comparatif-table">
 <thead><tr><th>#</th><th>Produit</th><th>Prix</th><th>Score</th></tr></thead>
 <tbody>
-<tr><td>1</td><td><strong>Steelcase Gesture</strong></td><td>900€ - 1300€</td><td><span class="score-sophie">★★★★<span class="demi-etoile">★</span></span></span></span> 4.9/5</td></tr>
-<tr><td>2</td><td><strong>Steelcase Gesture</strong></td><td>900€ - 1300€</td><td><span class="score-sophie">★★★★<span class="demi-etoile">★</span></span></span></span> 4.5/5</td></tr>
-<tr><td>3</td><td><strong>Ergonofis Activa</strong></td><td>600€ - 900€</td><td><span class="score-sophie">★★★★<span class="demi-etoile">★</span></span></span></span> 4.7/5</td></tr>
-<tr><td>4</td><td><strong>Score Ergo 2000</strong></td><td>700€ - 1000€</td><td><span class="score-sophie">★★★★<span class="demi-etoile">★</span></span></span></span> 4.6/5</td></tr>
-<tr><td>5</td><td><strong>Dams Ergo 300</strong></td><td>200€ - 350€</td><td><span class="score-sophie">★★★<span class="demi-etoile">★</span><span class="etoile-vide">☆</span></span><span class="etoile-vide">☆</span></span><span class="etoile-vide">☆</span></span> 3.8/5</td></tr>
-<tr><td>6</td><td><strong>Backbone Ergonomic Office Chair</strong></td><td>400€ - 600€</td><td><span class="score-sophie">★★★★<span class="demi-etoile">★</span></span></span></span> 4.7/5</td></tr>
+<tr><td>1</td><td><strong>Steelcase Gesture</strong></td><td>900€ - 1300€</td><td><span class="score-sophie">★★★★<span class="demi-etoile">★</span></span> 4.9/5</td></tr>
+<tr><td>2</td><td><strong>Steelcase Gesture</strong></td><td>900€ - 1300€</td><td><span class="score-sophie">★★★★<span class="demi-etoile">★</span></span> 4.5/5</td></tr>
+<tr><td>3</td><td><strong>Ergonofis Activa</strong></td><td>600€ - 900€</td><td><span class="score-sophie">★★★★<span class="demi-etoile">★</span></span> 4.7/5</td></tr>
+<tr><td>4</td><td><strong>Score Ergo 2000</strong></td><td>700€ - 1000€</td><td><span class="score-sophie">★★★★<span class="demi-etoile">★</span></span> 4.6/5</td></tr>
+<tr><td>5</td><td><strong>Dams Ergo 300</strong></td><td>200€ - 350€</td><td><span class="score-sophie">★★★<span class="demi-etoile">★</span><span class="etoile-vide">☆</span></span> 3.8/5</td></tr>
+<tr><td>6</td><td><strong>Backbone Ergonomic Office Chair</strong></td><td>400€ - 600€</td><td><span class="score-sophie">★★★★<span class="demi-etoile">★</span></span> 4.7/5</td></tr>
 </tbody></table></div>
 
 
