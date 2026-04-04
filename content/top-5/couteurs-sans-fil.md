@@ -57,7 +57,7 @@ Soyons clairs, les Sony WF-1000XM5, c'est la Rolls des écouteurs sans fil. Le s
 
 ---
 
-## #2 — JBL Tour Pro 2 <span class="score-sophie">★★★★☆ 4.3/5</span>
+## #2 — JBL Tour Pro 2 <span class="score-sophie">★★★★<span class="demi-etoile">★</span> 4.3/5</span>
 
 **Catégorie :** Smart Choice | **Prix :** 180€ - 220€
 
@@ -79,7 +79,7 @@ JBL a vraiment frappé un grand coup avec ces Tour Pro 2. Pour le prix, la rédu
 
 ---
 
-## #3 — Cambridge Audio Melomania 1+ <span class="score-sophie">★★★★☆ 4.2/5</span>
+## #3 — Cambridge Audio Melomania 1+ <span class="score-sophie">★★★★<span class="demi-etoile">★</span> 4.2/5</span>
 
 **Catégorie :** Pépite Niche | **Prix :** 100€ - 130€
 
@@ -101,7 +101,7 @@ Cambridge Audio, ça ne vous dit peut-être rien si vous n'êtes pas un audiophi
 
 ---
 
-## #4 — Anker Soundcore Liberty 4 NC <span class="score-sophie">★★★★☆ 4.0/5</span>
+## #4 — Anker Soundcore Liberty 4 NC <span class="score-sophie">★★★★<span class="etoile-vide">☆</span> 4.0/5</span>
 
 **Catégorie :** Budget Gem | **Prix :** 80€ - 100€
 

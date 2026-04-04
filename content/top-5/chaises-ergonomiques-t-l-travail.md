@@ -122,7 +122,7 @@ Pour les puristes du réglage précis. La Ergo 2000, c'est une machine à ajuste
 
 ---
 
-## #5 — Dams Ergo 300 <span class="score-sophie">★★★<span class="demi-etoile">★</span>☆ 3.8/5</span>
+## #5 — Dams Ergo 300 <span class="score-sophie">★★★<span class="demi-etoile">★</span><span class="etoile-vide">☆</span> 3.8/5</span>
 
 **Catégorie :** Budget Gem | **Prix :** 200€ - 350€
 

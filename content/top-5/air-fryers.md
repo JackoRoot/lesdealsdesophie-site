@@ -77,7 +77,7 @@ Ninja a bâti sa réputation sur des appareils robustes et performants. Cet Air 
 
 ---
 
-## #3 — Proscenic T21 Smart Air Fryer <span class="score-sophie">★★★★☆ 4.3/5</span>
+## #3 — Proscenic T21 Smart Air Fryer <span class="score-sophie">★★★★<span class="demi-etoile">★</span> 4.3/5</span>
 
 **Catégorie :** Pépite Niche | **Prix :** 100€ - 140€
 
@@ -99,7 +99,7 @@ Pour les amateurs de technologie qui aiment avoir le contrôle, le Proscenic T21
 
 ---
 
-## #4 — Princess Aerofryer XXL <span class="score-sophie">★★★★☆ 4.0/5</span>
+## #4 — Princess Aerofryer XXL <span class="score-sophie">★★★★<span class="etoile-vide">☆</span> 4.0/5</span>
 
 **Catégorie :** Budget Gem | **Prix :** 80€ - 120€
 
