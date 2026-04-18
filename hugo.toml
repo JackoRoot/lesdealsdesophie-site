@@ -18,36 +18,37 @@ theme = "PaperMod"
   ShowReadingTime = false
   ShowShareButtons = false
   ShowPostNavLinks = false
-  accentColor = "#D4693A"
+  accentColor = "#B35A5A"
   defaultTheme = "light"
-disableThemeToggle = true
-customCSS = ["css/sophie.css"]
+  disableThemeToggle = true
+  customCSS = ["css/sophie.css"]
+
+  [params.profileMode]
+    enabled = true
+    title = "Les Deals de Sophie"
+    subtitle = "Je teste, j'analyse et je tranche. Votre guide cash pour acheter malin sans perdre de temps."
+    imageUrl = "images/sophie-avatar.png"
+    imageWidth = 120
+    imageHeight = 120
+    imageTitle = "Sophie"
 
 [menu]
   [[menu.main]]
-    name = "Tech"
-    url = "/categories/tech/"
+    name = "Cuisine"
+    url = "/categories/cuisine/"
     weight = 1
-  [[menu.main]]
-    name = "Mode"
-    url = "/categories/mode/"
-    weight = 2
   [[menu.main]]
     name = "Maison"
     url = "/categories/maison/"
+    weight = 2
+  [[menu.main]]
+    name = "Tech"
+    url = "/categories/tech/"
     weight = 3
   [[menu.main]]
-    name = "Musique"
-    url = "/categories/musique/"
+    name = "Vanlife"
+    url = "/categories/vanlife/"
     weight = 4
-  [[menu.main]]
-    name = "Guides d'achat"
-    url = "/top-5/"
-    weight = 5
-  [[menu.main]]
-    name = "Telegram"
-    url = "https://t.me/LesDealsdeSophie"
-    weight = 6
 
 [markup]
   [markup.goldmark]

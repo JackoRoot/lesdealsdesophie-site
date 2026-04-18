@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"C:/Users/pilip/Desktop/lesdealsdesophie-site\" submodule status)",
+      "Bash(hugo --templateMetrics)",
+      "Bash(git add *)",
+      "Bash(git commit *)"
+    ]
+  }
+}

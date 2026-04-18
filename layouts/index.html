@@ -1,4 +1,19 @@
 {{ define "main" }}
+{{- if site.Params.profileMode.enabled }}
+<div class="profile">
+  <div class="profile_inner">
+    {{- with site.Params.profileMode.imageUrl }}
+    <img loading="lazy" src="{{ . | absURL }}" alt="{{ site.Params.profileMode.imageTitle | default site.Title }}"
+         width="{{ site.Params.profileMode.imageWidth | default 120 }}"
+         height="{{ site.Params.profileMode.imageHeight | default 120 }}" />
+    {{- end }}
+    <div class="profile_text">
+      <h1 class="profile_title">Les Deals de <span class="profile_accent">Sophie</span></h1>
+      <span>{{ site.Params.profileMode.subtitle | markdownify }}</span>
+    </div>
+  </div>
+</div>
+{{- end }}
 <style>
 .sophie-page * { box-sizing: border-box; }
 .sophie-page {
@@ -6,12 +21,12 @@
   margin: 0 auto;
   padding: 20px;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  background: #1A1C23;
+  background: transparent;
 }
 
-/* Fond global off-white */
-body, body.list { background: #1A1C23 !important; }
-.list { background: #1A1C23 !important; }
+/* Fond global */
+body, body.list { background-color: #242731 !important; }
+.list { background-color: #242731 !important; }
 
 .s-banner {
   background: #F5EDE8;
@@ -44,19 +59,30 @@ body, body.list { background: #1A1C23 !important; }
   color: #999;
   text-transform: uppercase;
   letter-spacing: 0.1em;
-  margin-bottom: 14px;
+  margin-bottom: 1.5rem !important;
   padding-bottom: 8px;
-  border-bottom: 1px solid #2D323E;
+  display: inline-block;
+  position: relative;
+}
+.s-section-title::after {
+  content: '';
+  position: absolute;
+  bottom: -8px;
+  left: 0;
+  height: 1px;
+  width: calc(100% + 25px);
+  background-color: rgba(255, 255, 255, 0.20);
 }
 .s-top5-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 12px;
+  margin-top: 0.5rem !important;
   margin-bottom: 32px;
 }
 .s-top5-card {
   background: #242731;
-  border: 0.5px solid #2D323E;
+  border: 1px solid #2D323E;
   border-radius: 12px;
   padding: 14px;
   text-decoration: none !important;
@@ -81,7 +107,7 @@ body, body.list { background: #1A1C23 !important; }
   display: grid;
   grid-template-columns: 280px 1fr;
   background: #242731;
-  border: 0.5px solid #2D323E;
+  border: 1px solid #2D323E;
   border-radius: 12px;
   overflow: hidden;
   margin-bottom: 12px;
@@ -136,8 +162,8 @@ body, body.list { background: #1A1C23 !important; }
 .s-price { font-size: 16px; font-weight: 600; color: #E2E8F0; }
 .s-btn {
   font-size: 12px;
-  background: #1A1C23;
-  border: 0.5px solid #2D323E;
+  background: #242731;
+  border: 1px solid #2D323E;
   border-radius: 6px;
   padding: 5px 12px;
   color: #E2E8F0;
@@ -150,11 +176,12 @@ body, body.list { background: #1A1C23 !important; }
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 12px;
+  margin-top: 0.5rem !important;
   margin-bottom: 16px;
 }
 .s-card {
   background: #242731;
-  border: 0.5px solid #2D323E;
+  border: 1px solid #2D323E;
   border-radius: 12px;
   overflow: hidden;
   text-decoration: none !important;
@@ -207,7 +234,7 @@ body, body.list { background: #1A1C23 !important; }
   width: 100%;
   padding: 11px;
   background: #242731;
-  border: 0.5px solid #2D323E;
+  border: 1px solid #2D323E;
   border-radius: 12px;
   font-size: 13px;
   color: #A0AEC0;
@@ -219,6 +246,7 @@ body, body.list { background: #1A1C23 !important; }
 .s-load-more:hover { border-color: #B35A5A; color: #B35A5A; }
 </style>
 
+<div class="inner-wrapper">
 <div class="sophie-page">
 
   {{ $top5 := where .Site.RegularPages "Section" "top-5" }}
@@ -284,6 +312,7 @@ body, body.list { background: #1A1C23 !important; }
   {{ end }}
 
 </div>
+</div><!-- /inner-wrapper -->
 
 <script>
 let page = 1;
