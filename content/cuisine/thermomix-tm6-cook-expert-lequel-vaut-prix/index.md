@@ -26,7 +26,7 @@ Un tableau ne suffit pas. Voici ce que les chiffres signifient concrètement pou
 | **Système de chauffe** | Résistance (jusqu'à 120°C) | Induction (jusqu'à 160°C) |
 | **Prix indicatif** | 1 499 € | 1 200 € |
 
-La capacité supérieure du bol du Magimix vous permet de **cuisiner pour 6 à 8 personnes**, contre 4 à 5 pour le TM6. C'est un point décisif pour les familles nombreuses ou si vous aimez recevoir. Si vous n'êtes pas encore sûr qu'un robot cuiseur vous correspond, [Platine vinyle : Le guide pour choisir sans se tromper](/tech/platine-vinyle-guide-choisir-se-tromper/) pose les bases avant d'investir à ce niveau de prix.
+La capacité supérieure du bol du Magimix vous permet de **cuisiner pour 6 à 8 personnes**, contre 4 à 5 pour le TM6. C'est un point décisif pour les familles nombreuses ou si vous aimez recevoir.
 
 La cuisson par induction du Cook Expert monte plus haut en température (160°C). Cela vous donne la capacité de **saisir une viande ou de réaliser un caramel**, des tâches plus complexes avec la chauffe par résistance du TM6.
 
