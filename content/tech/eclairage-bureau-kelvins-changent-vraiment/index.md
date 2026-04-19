@@ -25,7 +25,7 @@ Le choix de la température de couleur pour un bureau est un arbitrage entre con
 
 À l'inverse, une lumière très froide, au-delà de 5300K, peut devenir agressive. Elle crée des reflets durs sur les écrans, accentue l'éblouissement et peut donner une sensation clinique et peu accueillante à votre espace. C'est une lumière souvent utilisée dans les laboratoires ou les ateliers qui demandent une précision extrême, mais elle est rarement confortable pour des journées de 8 heures.
 
-La solution se trouve dans le "blanc neutre", entre 4000K et 5000K. Cette plage imite la lumière naturelle du milieu de journée. Elle offre un excellent rendu des couleurs sans être fatigante. **Un éclairage à 4000K est un point de départ sûr et efficace** pour la majorité des tâches de bureau, offrant un équilibre parfait entre dynamisme et confort visuel. C'est un facteur clé pour limiter les troubles liés au travail prolongé sur ordinateur. Écrans PC et fatigue oculaire
+La solution se trouve dans le "blanc neutre", entre 4000K et 5000K. Cette plage imite la lumière naturelle du milieu de journée. Elle offre un excellent rendu des couleurs sans être fatigante. **Un éclairage à 4000K est un point de départ sûr et efficace** pour la majorité des tâches de bureau, offrant un équilibre parfait entre dynamisme et confort visuel. C'est un facteur clé pour limiter les troubles liés au travail prolongé sur ordinateur. [Écran PC anti-fatigue : L'erreur que font 90% des gens.](/tech/ecran-pc-anti-fatigue-erreur-font-90-gens/)
 
 ## Votre rythme circadien est dicté par les Kelvin
 
