@@ -44,7 +44,7 @@ Le bémol technique est son niveau sonore. Lors des fonctions de mixage ou de p�
 
 C'est le bon choix pour vous si vous cherchez une expérience de cuisine guidée totalement intégrée et une prise en main intuitive.
 
-[Voir sur Amazon](#)
+[Voir sur Amazon](https://www.amazon.fr/s?k=Thermomix+TM6)
 
 ## Magimix Cook Expert — Ce qu'il fait mieux
 
@@ -58,7 +58,7 @@ Le bémol est son expérience de cuisine connectée. Les recettes guidées ne s'
 
 C'est le bon choix pour vous si vous attendez de votre robot qu'il assure la préparation des ingrédients autant que la cuisson.
 
-[Voir sur Amazon](#)
+[Voir sur Amazon](https://www.amazon.fr/s?k=Magimix+Cook+Expert)
 
 ## Le verdict de Sophie
 

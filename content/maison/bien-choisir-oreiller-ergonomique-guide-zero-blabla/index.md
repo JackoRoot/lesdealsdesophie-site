@@ -34,7 +34,7 @@ Le bémol est sa ventilation, jugée moyenne par certains utilisateurs. Si vous 
 
 Pour qui : **Pour vous si vous cherchez un oreiller personnalisable sans vous ruiner et si votre position de sommeil varie.**
 
-[Voir sur Amazon](#)
+[Voir sur Amazon](https://www.amazon.fr/s?k=Oreiller+Emma+Original)
 
 ## #2 — Wopilo Plus — Le sur-mesure pour les cervicales
 
@@ -56,7 +56,7 @@ Son principal inconvénient est aussi sa force : sa fermeté. Il demande un temp
 
 Pour qui : **Pour vous si vous avez des douleurs chroniques et que vous cherchez un investissement santé validé par des années d'expérience.**
 
-[Voir sur Amazon](#)
+[Voir sur Amazon](https://www.amazon.fr/s?k=TEMPUR%C2%AE+Original)
 
 ## Comment choisir entre les 3
 
