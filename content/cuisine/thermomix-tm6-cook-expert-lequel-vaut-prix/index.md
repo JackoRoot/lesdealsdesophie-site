@@ -1,7 +1,7 @@
 ---
 title: "Thermomix TM6 vs Cook Expert : Lequel vaut son prix ?"
 description: "Comparatif détaillé du Thermomix TM6 et du Magimix Cook Expert. Découvrez leurs différences de prix, capacité, et fonctions pour faire le bon choix."
-date: "2026-04-20"
+date: "2026-04-19"
 draft: false
 slug: "thermomix-tm6-cook-expert-lequel-vaut-prix"
 categories: ["Cuisine"]

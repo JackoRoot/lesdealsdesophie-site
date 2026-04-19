@@ -1,7 +1,7 @@
 ---
 title: "Dyson V15 ou Tineco S15 ? Mon verdict après 2 mois d'essai."
 description: "Comparatif direct Dyson V15 Detect vs Tineco S15 PRO. Puissance, autonomie, filtration. Découvrez le meilleur choix pour votre logement et votre budget."
-date: "2026-04-20"
+date: "2026-04-19"
 draft: false
 slug: "dyson-v15-tineco-s15-verdict-apres-mois-essai"
 categories: ["Maison"]

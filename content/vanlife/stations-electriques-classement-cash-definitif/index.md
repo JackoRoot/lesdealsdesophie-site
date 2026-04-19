@@ -1,7 +1,7 @@
 ---
 title: "Stations Électriques : Mon classement cash et définitif."
 description: "Panne de courant ou vanlife ? On a torturé 5 stations électriques portables. Capacité réelle et sécurité : ne branchez pas vos appareils n'importe où."
-date: "2026-04-20"
+date: "2026-04-19"
 draft: false
 slug: "stations-electriques-classement-cash-definitif"
 categories: ["Vanlife"]

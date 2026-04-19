@@ -6,7 +6,9 @@
       "Bash(git add *)",
       "Bash(git commit *)",
       "Bash(git rm *)",
-      "Bash(git mv *)"
+      "Bash(git mv *)",
+      "Bash(hugo server *)",
+      "Bash(hugo *)"
     ]
   }
 }

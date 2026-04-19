@@ -1,7 +1,7 @@
 ---
 title: "Autoterm ou Webasto en van ? L'erreur à ne pas faire."
 description: "Duel des chauffages stationnaires : Autoterm Air 2D contre Webasto Air Top 2000 STC. Découvrez le verdict factuel pour votre budget et vos voyages."
-date: "2026-04-20"
+date: "2026-04-19"
 draft: false
 slug: "autoterm-webasto-van-erreur-ne-pas-faire"
 categories: ["Vanlife"]

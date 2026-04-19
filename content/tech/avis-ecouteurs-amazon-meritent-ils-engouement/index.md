@@ -1,7 +1,7 @@
 ---
 title: "Avis Écouteurs Amazon : Méritent-ils cet engouement ?"
 description: "Vous cherchez des écouteurs sans fil à moins de 80€ ? J'ai testé les best-sellers Amazon pour séparer les promesses marketing de la réalité. Verdict."
-date: "2026-04-20"
+date: "2026-04-19"
 draft: false
 slug: "avis-ecouteurs-amazon-meritent-ils-engouement"
 categories: ["Tech"]
