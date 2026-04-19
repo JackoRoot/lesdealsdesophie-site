@@ -1,7 +1,7 @@
 ---
 title: "La vérité sur l'Air Fryer : Le guide anti-marketing."
 description: "Vous hésitez sur quel Air Fryer acheter ? Capacité, puissance, nettoyage... Je décortique la fiche technique pour vous aider à choisir sans vous tromper."
-date: "2026-04-19"
+date: "2026-04-20"
 draft: false
 slug: "verite-air-fryer-guide-anti-marketing"
 categories: ["Cuisine"]

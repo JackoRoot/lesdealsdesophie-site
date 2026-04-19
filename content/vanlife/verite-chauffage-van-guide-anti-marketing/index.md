@@ -1,7 +1,7 @@
 ---
 title: "La vérité sur le chauffage van : Guide anti-marketing."
 description: "Webasto, Autoterm ou clone ? Sophie décortique la puissance, l'installation et la sécurité de votre chauffage diesel pour van. Évitez les erreurs."
-date: "2026-04-19"
+date: "2026-04-20"
 draft: false
 slug: "verite-chauffage-van-guide-anti-marketing"
 categories: ["Vanlife"]

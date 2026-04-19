@@ -1,7 +1,7 @@
 ---
 title: "Thermomix TM6 vs Cook Expert : Lequel vaut son prix ?"
 description: "Comparatif détaillé du Thermomix TM6 et du Magimix Cook Expert. Découvrez leurs différences de prix, capacité, et fonctions pour faire le bon choix."
-date: "2026-04-19"
+date: "2026-04-20"
 draft: false
 slug: "thermomix-tm6-cook-expert-lequel-vaut-prix"
 categories: ["Cuisine"]
@@ -44,7 +44,7 @@ Le bémol technique est son niveau sonore. Lors des fonctions de mixage ou de p�
 
 C'est le bon choix pour vous si vous cherchez une expérience de cuisine guidée totalement intégrée et une prise en main intuitive.
 
-[Voir sur Amazon](#)
+[Voir sur Amazon](https://www.amazon.fr/s?k=thermomix+tm6+cook+expert+lequel)
 
 ## Magimix Cook Expert — Ce qu'il fait mieux
 
@@ -58,7 +58,7 @@ Le bémol est son expérience de cuisine connectée. Les recettes guidées ne s'
 
 C'est le bon choix pour vous si vous attendez de votre robot qu'il assure la préparation des ingrédients autant que la cuisson.
 
-[Voir sur Amazon](#)
+[Voir sur Amazon](https://www.amazon.fr/s?k=thermomix+tm6+cook+expert+lequel)
 
 ## Le verdict de Sophie
 

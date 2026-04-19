@@ -1,7 +1,7 @@
 ---
 title: "Bien choisir son oreiller ergonomique : Guide zéro blabla."
 description: "Fatigué de vous réveiller avec des douleurs ? Sophie a analysé le marché. Voici les 3 seuls oreillers ergonomiques qui méritent votre attention."
-date: "2026-04-19"
+date: "2026-04-20"
 draft: false
 slug: "bien-choisir-oreiller-ergonomique-guide-zero-blabla"
 categories: ["Maison"]
@@ -34,7 +34,7 @@ Le bémol est sa ventilation, jugée moyenne par certains utilisateurs. Si vous 
 
 Pour qui : **Pour vous si vous cherchez un oreiller personnalisable sans vous ruiner et si votre position de sommeil varie.**
 
-[Voir sur Amazon](#)
+[Voir sur Amazon](https://www.amazon.fr/s?k=bien+choisir+oreiller+ergonomique+guide)
 
 ## #2 — Wopilo Plus — Le sur-mesure pour les cervicales
 
@@ -56,7 +56,7 @@ Son principal inconvénient est aussi sa force : sa fermeté. Il demande un temp
 
 Pour qui : **Pour vous si vous avez des douleurs chroniques et que vous cherchez un investissement santé validé par des années d'expérience.**
 
-[Voir sur Amazon](#)
+[Voir sur Amazon](https://www.amazon.fr/s?k=bien+choisir+oreiller+ergonomique+guide)
 
 ## Comment choisir entre les 3
 

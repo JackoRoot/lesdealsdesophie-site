@@ -1,7 +1,7 @@
 ---
 title: "Sony XM5 vs Bose QC Ultra : Oubliez la fiche technique."
 description: "Comparatif direct entre le Sony WH-1000XM5 et le Bose QC Ultra. Autonomie, réduction de bruit, confort : découvrez le casque fait pour votre usage."
-date: "2026-04-19"
+date: "2026-04-20"
 draft: false
 slug: "sony-xm5-bose-qc-ultra-oubliez-fiche-technique"
 categories: ["Tech"]
@@ -46,7 +46,7 @@ Le bémol technique est connu et documenté : sa conception. Plusieurs retours d
 
 Ce casque est pour vous si vous cherchez la performance technique maximale en matière de réduction de bruit et d'autonomie.
 
-[Voir sur Amazon](#)
+[Voir sur Amazon](https://www.amazon.fr/s?k=sony+xm5+bose+qc+ultra)
 
 ## Bose QC Ultra — Ce qu'il fait mieux
 
@@ -62,7 +62,7 @@ Son point faible est son autonomie de 24 heures. Bien que suffisante pour la plu
 
 Ce casque est pour vous si le confort sur la durée et une expérience sonore immersive priment sur l'autonomie brute.
 
-[Voir sur Amazon](#)
+[Voir sur Amazon](https://www.amazon.fr/s?k=sony+xm5+bose+qc+ultra)
 
 ## Le verdict de Sophie
 

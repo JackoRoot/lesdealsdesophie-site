@@ -1,7 +1,7 @@
 ---
 title: "Écran PC anti-fatigue : L'erreur que font 90% des gens."
 description: "Vos yeux brûlent après une journée de travail ? Découvrez les critères techniques (scintillement, PPI, dalle) pour choisir un écran PC qui préserve votre vue."
-date: "2026-04-19"
+date: "2026-04-20"
 draft: false
 slug: "ecran-pc-anti-fatigue-erreur-font-90-gens"
 categories: ["Tech"]

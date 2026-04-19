@@ -1,7 +1,7 @@
 ---
 title: "Dormir à 18°C : Ce que personne ne vous dit vraiment."
 description: "Pourquoi 18°C est la température idéale pour dormir ? Découvrez comment elle agit sur votre mélatonine, votre métabolisme et la qualité de votre sommeil."
-date: "2026-04-19"
+date: "2026-04-20"
 draft: false
 slug: "dormir-18-personne-ne-vous-dit-vraiment"
 categories: ["Maison"]

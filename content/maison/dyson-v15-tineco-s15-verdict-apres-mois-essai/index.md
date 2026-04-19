@@ -1,7 +1,7 @@
 ---
 title: "Dyson V15 ou Tineco S15 ? Mon verdict après 2 mois d'essai."
 description: "Comparatif direct Dyson V15 Detect vs Tineco S15 PRO. Puissance, autonomie, filtration. Découvrez le meilleur choix pour votre logement et votre budget."
-date: "2026-04-19"
+date: "2026-04-20"
 draft: false
 slug: "dyson-v15-tineco-s15-verdict-apres-mois-essai"
 categories: ["Maison"]
@@ -42,7 +42,7 @@ Le bémol technique est son autonomie en conditions réelles. Les 60 minutes ann
 
 C'est le bon choix **si vous priorisez la performance brute et un nettoyage visiblement plus complet.**
 
-[Voir sur Amazon](#)
+[Voir sur Amazon](https://www.amazon.fr/s?k=dyson+v15+tineco+s15+verdict)
 
 ## Tineco PURE ONE S15 PRO — Ce qu'il fait mieux
 
@@ -54,7 +54,7 @@ Le bémol technique est la capacité de son collecteur de 0,47 litre. C'est 40% 
 
 C'est le bon choix **si vous cherchez un appareil intelligent qui simplifie le nettoyage et le rangement.**
 
-[Voir sur Amazon](#)
+[Voir sur Amazon](https://www.amazon.fr/s?k=dyson+v15+tineco+s15+verdict)
 
 ## Le verdict de Sophie
 
