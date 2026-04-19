@@ -1,7 +1,7 @@
 ---
 title: "Acier des couteaux : Le grand mythe marketing décrypté."
 description: "Dureté HRC, acier carbone ou inox, ténacité... Comprenez la fiche technique de vos couteaux pour choisir une lame qui coupe vraiment et qui dure."
-date: "2026-04-20"
+date: "2026-04-19"
 draft: false
 slug: "acier-couteaux-grand-mythe-marketing-decrypte"
 categories: ["Cuisine"]

@@ -1,7 +1,7 @@
 ---
 title: "Bien choisir son oreiller ergonomique : Guide zéro blabla."
 description: "Fatigué de vous réveiller avec des douleurs ? Sophie a analysé le marché. Voici les 3 seuls oreillers ergonomiques qui méritent votre attention."
-date: "2026-04-20"
+date: "2026-04-19"
 draft: false
 slug: "bien-choisir-oreiller-ergonomique-guide-zero-blabla"
 categories: ["Maison"]

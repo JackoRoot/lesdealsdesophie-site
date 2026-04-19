@@ -1,7 +1,7 @@
 ---
 title: "Régulateur MPPT sans se tromper : le verdict Sophie."
 description: "Ne choisissez pas votre régulateur MPPT au hasard. Découvrez notre sélection de 3 modèles fiables pour van et tiny house, analysés sur leur performance."
-date: "2026-04-20"
+date: "2026-04-19"
 draft: false
 slug: "regulateur-mppt-se-tromper-verdict-sophie"
 categories: ["Vanlife"]
