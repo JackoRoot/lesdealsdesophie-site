@@ -33,7 +33,7 @@ Un robot qui nettoie, c'est bien. Un robot qui nettoie exactement où vous le d�
 
 Grâce à cette carte, l'application mobile vous permet de segmenter votre logement en pièces : cuisine, salon, chambre. Vous pouvez alors lancer un nettoyage ciblé d'une seule pièce. Envoyez-le nettoyer uniquement la cuisine après le repas, ou le couloir après être rentré de l'extérieur. Finis les cycles complets inutiles pour une petite zone à rafraîchir.
 
-Surtout, vous pouvez définir des "zones interdites" (no-go zones) et des "murs virtuels". D'un simple tracé du doigt sur la carte, vous empêchez le robot d'approcher la gamelle du chien, la zone de jeu des enfants au sol, ou le coin avec des câbles fragiles. **Vous avez un contrôle chirurgical sur le nettoyage**, sans avoir à poser des barrières physiques. C'est une flexibilité comparable à celle des Thermostats connectés qui gèrent le chauffage pièce par pièce.
+Surtout, vous pouvez définir des "zones interdites" (no-go zones) et des "murs virtuels". D'un simple tracé du doigt sur la carte, vous empêchez le robot d'approcher la gamelle du chien, la zone de jeu des enfants au sol, ou le coin avec des câbles fragiles. **Vous avez un contrôle chirurgical sur le nettoyage**, sans avoir à poser des barrières physiques.
 
 ## Les angles morts du LiDAR : ce que les marques ne disent pas
 

@@ -57,7 +57,7 @@ Certaines personnes essaient de dormir à 18°C et concluent que "ce n'est pas p
 
 Si vous avez froid, c'est que votre corps n'est pas isolé correctement. La solution n'est pas de monter le chauffage, mais d'ajuster votre couverture. Utilisez une couette adaptée à la saison ou ajoutez un simple drap. Vos pieds et vos mains, plus exposés au refroidissement, peuvent être protégés par des chaussettes légères. L'objectif est d'être dans une bulle de chaleur confortable, au sein d'une pièce à l'air frais et sain.
 
-L'autre erreur est de tout miser sur le thermostat. Utiliser des Thermostats connectés permet de programmer une baisse de température progressive le soir et une légère remontée juste avant le réveil, pour une sortie du lit plus confortable. **Vous devez adapter la température à votre physiologie, pas subir un dogme.** C'est en ajustant ces paramètres que vous trouverez le réglage qui vous convient parfaitement.
+L'autre erreur est de tout miser sur le thermostat. **Vous devez adapter la température à votre physiologie, pas subir un dogme.** C'est en ajustant ces paramètres que vous trouverez le réglage qui vous convient parfaitement.
 
 ### FAQ - Température de la chambre
 

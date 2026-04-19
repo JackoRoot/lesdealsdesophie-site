@@ -49,9 +49,9 @@ Le marché des DACs propose plusieurs formats, chacun adapté à un usage spéci
 
 Le premier format est le dongle DAC. C'est un petit adaptateur, souvent de la taille d'une clé USB, qui se branche directement sur le port USB-C ou Lightning de votre smartphone. Il contient une puce de conversion et souvent une petite amplification pour casque. C'est la solution idéale pour améliorer radicalement le son en déplacement.
 
-Le deuxième format est le DAC de bureau. Plus volumineux, il se connecte en USB à votre ordinateur et offre plus d'options de connectique (sorties RCA pour des enceintes, sorties casque plus puissantes). C'est le choix à privilégier pour une installation fixe. Il est souvent couplé à un amplificateur pour casque, ce qui est vital si vous possédez des modèles à haute impédance comme certains `Casques ANC` haut de gamme.
+Le deuxième format est le DAC de bureau. Plus volumineux, il se connecte en USB à votre ordinateur et offre plus d'options de connectique (sorties RCA pour des enceintes, sorties casque plus puissantes). C'est le choix à privilégier pour une installation fixe.
 
-Enfin, certains amplificateurs Hi-Fi ou `Barres de son — psychoacoustique` intègrent directement un DAC de qualité. Si vous construisez une chaîne audio complète pour votre salon, cette solution "tout-en-un" peut être très pertinente. **L'important est de choisir un appareil adapté à votre usage réel, sans payer pour des fonctions superflues.**
+Si vous construisez une chaîne audio complète pour votre salon, cette solution "tout-en-un" peut être très pertinente. **L'important est de choisir un appareil adapté à votre usage réel, sans payer pour des fonctions superflues.**
 
 ## Ce que les fiches techniques ne vous disent pas
 

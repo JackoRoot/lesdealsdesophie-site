@@ -41,7 +41,7 @@ La fatigue visuelle est intimement liée à votre posture. Un écran mal positio
 
 Le critère numéro un est la hauteur. Le bord supérieur de l'écran doit se situer juste au niveau de vos yeux, ou très légèrement en dessous. Cela vous oblige à regarder droit devant vous ou un peu vers le bas, une position naturelle pour le cou. Si votre écran est trop bas, vous allez vous voûter. S'il est trop haut, vous créerez une tension dans les cervicales.
 
-Vérifiez que le pied de l'écran permet au minimum un réglage en hauteur et en inclinaison. L'idéal est un pied qui autorise aussi la rotation (pivot). Si le pied d'origine est trop basique, assurez-vous que l'écran possède une compatibilité VESA (des trous de fixation standardisés à l'arrière). Cela vous permettra de le monter sur un bras articulé, pour une flexibilité maximale. **Une bonne posture peut réduire vos maux de tête de moitié**, bien avant de toucher aux réglages de l'image. Pensez aussi au Chaises ergonomiques pour compléter votre installation.
+Vérifiez que le pied de l'écran permet au minimum un réglage en hauteur et en inclinaison. L'idéal est un pied qui autorise aussi la rotation (pivot). Si le pied d'origine est trop basique, assurez-vous que l'écran possède une compatibilité VESA (des trous de fixation standardisés à l'arrière). Cela vous permettra de le monter sur un bras articulé, pour une flexibilité maximale. **Une bonne posture peut réduire vos maux de tête de moitié**, bien avant de toucher aux réglages de l'image.
 
 ## La dalle : IPS, VA, OLED, ce que ça change pour vous
 

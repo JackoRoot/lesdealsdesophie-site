@@ -25,7 +25,7 @@ Le marché propose des formes variées : vague, papillon, étoile, plat. Cette d
 
 Si vous dormez sur le côté, la distance entre votre oreille et le matelas doit être comblée. Il vous faut un oreiller assez épais, souvent avec une vague plus haute pour caler la nuque. Si vous dormez sur le dos, un oreiller plus bas est nécessaire pour éviter que votre tête ne bascule vers l'avant. La vague la plus basse d'un modèle cervical est généralement adaptée.
 
-Les dormeurs sur le ventre sont un cas à part. Cette position est déconseillée pour les cervicales. Si vous ne pouvez pas changer, optez pour un oreiller très fin, presque plat, ou une forme en étoile qui permet de glisser les bras. L'objectif est de limiter au maximum la torsion du cou. **Adapter la forme à votre habitude assure un soutien ciblé** et prévient la création de nouveaux points de pression. C'est un dialogue entre votre corps et votre literie. Chaises ergonomiques
+Les dormeurs sur le ventre sont un cas à part. Cette position est déconseillée pour les cervicales. Si vous ne pouvez pas changer, optez pour un oreiller très fin, presque plat, ou une forme en étoile qui permet de glisser les bras. L'objectif est de limiter au maximum la torsion du cou. **Adapter la forme à votre habitude assure un soutien ciblé** et prévient la création de nouveaux points de pression. C'est un dialogue entre votre corps et votre literie.
 
 ## La densité de la mousse, le secret de la longévité
 
@@ -33,7 +33,7 @@ Vous avez investi dans un oreiller ergonomique qui s'est aplati en six mois. Le 
 
 Une mousse de faible densité (moins de 40 kg/m³) s'affaissera rapidement sous le poids de votre tête. Les cellules de la matière se dégradent et perdent leur capacité à reprendre leur forme initiale. Le soutien disparaît, et les douleurs reviennent. C'est un mauvais calcul économique et physique.
 
-Pour un usage quotidien, visez une densité supérieure à 45-50 kg/m³. Cette mousse plus compacte résistera mieux à la compression nuit après nuit. Le bénéfice est double : **votre oreiller conserve ses propriétés ergonomiques pendant des années** et votre investissement est rentable. C'est le critère technique le plus important, bien avant la mention "ferme" ou "souple" sur l'emballage. Le principe est le même pour un bon Matelas mémoire de forme.
+Pour un usage quotidien, visez une densité supérieure à 45-50 kg/m³. Cette mousse plus compacte résistera mieux à la compression nuit après nuit. Le bénéfice est double : **votre oreiller conserve ses propriétés ergonomiques pendant des années** et votre investissement est rentable. C'est le critère technique le plus important, bien avant la mention "ferme" ou "souple" sur l'emballage.
 
 ## Thermorégulation : ne plus jamais retourner son oreiller
 
@@ -49,7 +49,7 @@ Votre visage est en contact direct avec votre oreiller pendant environ huit heur
 
 Pour vous protéger, fiez-vous aux certifications. Le label Oeko-Tex Standard 100 est le plus connu. Il garantit que chaque composant du produit, du fil à la mousse, a été testé et est exempt de substances nocives. Pour les mousses, le label CertiPUR-US assure qu'elles sont fabriquées sans phtalates, sans formaldéhyde et avec de faibles émissions de COV.
 
-Choisir un oreiller certifié est une sécurité. **Vous dormez dans un environnement plus sain, limitant les risques d'allergies cutanées ou respiratoires**. C'est particulièrement important pour les personnes sensibles ou asthmatiques. N'oubliez pas les housses : privilégiez des matières hypoallergéniques et lavables en machine pour éliminer régulièrement les acariens et les bactéries. Pour un environnement de sommeil optimal, pensez aussi à des solutions comme les Couvertures lestées — DPS.
+Choisir un oreiller certifié est une sécurité. **Vous dormez dans un environnement plus sain, limitant les risques d'allergies cutanées ou respiratoires**. C'est particulièrement important pour les personnes sensibles ou asthmatiques. N'oubliez pas les housses : privilégiez des matières hypoallergéniques et lavables en machine pour éliminer régulièrement les acariens et les bactéries.
 
 ## Période d'essai : le critère que vous oubliez toujours
 

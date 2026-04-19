@@ -49,7 +49,7 @@ Vous pensez faire une affaire sur des sacs lisses premier prix, mais votre machi
 
 Ces sacs possèdent une face lisse et une face avec une structure en relief, comme un nid d'abeille. Ces micro-canaux sont des autoroutes pour que l'air puisse s'échapper du sac jusqu'à la pompe. Sans eux, les deux faces lisses du sac se plaqueraient l'une contre l'autre dès le début de l'aspiration, emprisonnant l'air au fond. Les sacs lisses sont réservés aux machines à cloche.
 
-Au-delà de la structure, vérifiez l'épaisseur (mesurée en microns) et la composition. **Choisir des sacs certifiés sans Bisphénol A (BPA) ni phtalates est essentiel pour la sécurité alimentaire**, surtout si vous prévoyez de les utiliser pour la Cuisson Sous-Vide. Les rouleaux sont souvent plus économiques : vous coupez la longueur exacte dont vous avez besoin, ce qui réduit le gaspillage de plastique.
+Au-delà de la structure, vérifiez l'épaisseur (mesurée en microns) et la composition. Les rouleaux sont souvent plus économiques : vous coupez la longueur exacte dont vous avez besoin, ce qui réduit le gaspillage de plastique.
 
 ## Les usages avancés pour rentabiliser votre machine
 
