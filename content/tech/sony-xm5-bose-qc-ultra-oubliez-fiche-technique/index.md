@@ -1,7 +1,7 @@
 ---
 title: "Sony XM5 vs Bose QC Ultra : Oubliez la fiche technique."
 description: "Comparatif direct entre le Sony WH-1000XM5 et le Bose QC Ultra. Autonomie, réduction de bruit, confort : découvrez le casque fait pour votre usage."
-date: "2026-04-20"
+date: "2026-04-19"
 draft: false
 slug: "sony-xm5-bose-qc-ultra-oubliez-fiche-technique"
 categories: ["Tech"]

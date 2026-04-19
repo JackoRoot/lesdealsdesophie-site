@@ -1,7 +1,7 @@
 ---
 title: "La vérité sur les bruits blancs : Guide anti-marketing."
 description: "Le bruit blanc peut masquer les nuisances sonores et améliorer votre sommeil. Découvrez comment choisir la bonne machine et éviter les pièges des apps."
-date: "2026-04-20"
+date: "2026-04-19"
 draft: false
 slug: "verite-bruits-blancs-guide-anti-marketing"
 categories: ["Maison"]
