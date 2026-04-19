@@ -41,7 +41,7 @@ La sensation de devoir retourner son oreiller pour trouver un coin frais vous es
 
 Les fabricants ont développé plusieurs solutions pour contrer ce phénomène. La plus courante est la mousse infusée de particules de gel, qui aident à dissiper la chaleur. D'autres modèles présentent des perforations ou des canaux de ventilation qui favorisent la circulation de l'air. Les housses en fibres de bambou ou en Tencel sont aussi d'excellentes alliées grâce à leurs propriétés respirantes.
 
-Le latex naturel est une alternative intéressante. Sa structure alvéolaire ouverte le rend nativement plus respirant que la plupart des mousses synthétiques. **Vous bénéficiez d'une température de sommeil plus stable**, ce qui limite les micro-réveils et la transpiration. C'est un facteur clé pour un sommeil profond et ininterrompu, surtout si vous avez tendance à avoir chaud la nuit. Une bonne Physiologie température 18°C dans la chambre ne fait pas tout.
+Le latex naturel est une alternative intéressante. Sa structure alvéolaire ouverte le rend nativement plus respirant que la plupart des mousses synthétiques. **Vous bénéficiez d'une température de sommeil plus stable**, ce qui limite les micro-réveils et la transpiration. C'est un facteur clé pour un sommeil profond et ininterrompu, surtout si vous avez tendance à avoir chaud la nuit. Une bonne [Dormir à 18°C : Ce que personne ne vous dit vraiment.](/maison/dormir-18-personne-ne-vous-dit-vraiment/) dans la chambre ne fait pas tout.
 
 ## Matériaux et certifications : un gage de sommeil sain
 

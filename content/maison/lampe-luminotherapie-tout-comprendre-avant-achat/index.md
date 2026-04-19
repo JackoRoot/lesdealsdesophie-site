@@ -51,7 +51,7 @@ La lumière est le synchronisateur le plus important, mais ce n'est pas le seul.
 
 L'heure de vos repas joue un rôle. Manger à des heures régulières chaque jour aide à rythmer votre métabolisme. Un petit-déjeuner pris peu après votre séance de luminothérapie renforce le signal de début de journée. Un dîner léger pris au moins 3 heures avant le coucher évite de perturber le processus de repos.
 
-L'activité physique est un autre synchronisateur de choix. Une séance de sport le matin ou en début d'après-midi augmente la température corporelle et le cortisol, renforçant l'état d'éveil. Il est préférable d'éviter les activités intenses le soir, qui peuvent retarder l'endormissement. Enfin, la température de votre chambre a un impact direct, comme expliqué dans notre guide sur la Physiologie température 18°C. **Votre corps a besoin de se refroidir légèrement pour bien dormir.**
+L'activité physique est un autre synchronisateur de choix. Une séance de sport le matin ou en début d'après-midi augmente la température corporelle et le cortisol, renforçant l'état d'éveil. Il est préférable d'éviter les activités intenses le soir, qui peuvent retarder l'endormissement. Enfin, la température de votre chambre a un impact direct, comme expliqué dans notre guide sur la [Dormir à 18°C : Ce que personne ne vous dit vraiment.](/maison/dormir-18-personne-ne-vous-dit-vraiment/). **Votre corps a besoin de se refroidir légèrement pour bien dormir.**
 
 ## Sécurité et contre-indications : ce que l'on ne vous dit pas
 
