@@ -33,7 +33,7 @@ Vous dormez huit heures mais vous vous réveillez avec une sensation de brouilla
 
 La production de mélatonine est très sensible à deux facteurs : la lumière et la température. Une obscurité totale est connue pour être nécessaire, mais l'impact de la chaleur l'est moins. Des études montrent qu'un environnement frais et stable favorise une sécrétion de mélatonine plus robuste et prolongée tout au long de la nuit.
 
-Une meilleure diffusion de mélatonine signifie des phases de sommeil paradoxal (REM) et de sommeil lent profond de meilleure qualité. C'est durant ces phases que votre cerveau trie les informations, consolide votre mémoire et procède à ses réparations cellulaires. **Dormir au frais optimise la chimie de votre sommeil pour un réveil plus alerte et une meilleure clarté mentale.** Cette gestion de votre horloge interne est un pilier de votre bien-être, au même titre que la [Lampe de luminothérapie : Tout comprendre avant l'achat.](/maison/lampe-luminotherapie-tout-comprendre-avant-achat/).
+Une meilleure diffusion de mélatonine signifie des phases de sommeil paradoxal (REM) et de sommeil lent profond de meilleure qualité. C'est durant ces phases que votre cerveau trie les informations, consolide votre mémoire et procède à ses réparations cellulaires. **Dormir au frais optimise la chimie de votre sommeil pour un réveil plus alerte et une meilleure clarté mentale.** Cette gestion de votre horloge interne est un pilier de votre bien-être, au même titre que la Lampe de luminothérapie : Tout comprendre avant l'achat..
 
 ## Froid et métabolisme : l'effet sur la graisse brune
 
@@ -57,7 +57,7 @@ Certaines personnes essaient de dormir à 18°C et concluent que "ce n'est pas p
 
 Si vous avez froid, c'est que votre corps n'est pas isolé correctement. La solution n'est pas de monter le chauffage, mais d'ajuster votre couverture. Utilisez une couette adaptée à la saison ou ajoutez un simple drap. Vos pieds et vos mains, plus exposés au refroidissement, peuvent être protégés par des chaussettes légères. L'objectif est d'être dans une bulle de chaleur confortable, au sein d'une pièce à l'air frais et sain.
 
-L'autre erreur est de tout miser sur le thermostat. Utiliser des [Thermostat connecté : La réalité après 6 mois de terrain.](/maison/thermostat-connecte-realite-apres-mois-terrain/) permet de programmer une baisse de température progressive le soir et une légère remontée juste avant le réveil, pour une sortie du lit plus confortable. **Vous devez adapter la température à votre physiologie, pas subir un dogme.** C'est en ajustant ces paramètres que vous trouverez le réglage qui vous convient parfaitement.
+L'autre erreur est de tout miser sur le thermostat. Utiliser des Thermostats connectés permet de programmer une baisse de température progressive le soir et une légère remontée juste avant le réveil, pour une sortie du lit plus confortable. **Vous devez adapter la température à votre physiologie, pas subir un dogme.** C'est en ajustant ces paramètres que vous trouverez le réglage qui vous convient parfaitement.
 
 ### FAQ - Température de la chambre
 

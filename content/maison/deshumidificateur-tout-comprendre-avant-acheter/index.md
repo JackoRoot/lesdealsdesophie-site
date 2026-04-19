@@ -53,7 +53,7 @@ Au-delà de la capacité d'extraction, certaines options transforment un apparei
 
 J'avais acheté mon premier appareil à compresseur pour une cave un peu trop humide. Efficace, mais sans plus. Un jour de pluie continue, impossible de faire sécher une machine. Par réflexe, je l'ai installé dans la buanderie avec le linge étendu. Révélation : en 4 heures, tout était sec, sans l'odeur de moisi du séchage lent. Depuis, sa fonction principale, c'est ça. **Le gain de temps est colossal** et ça évite de relancer un sèche-linge énergivore.
 
-Une autre option très pratique est le drainage continu. Vider un bac de 4 litres deux fois par jour est vite lassant. La plupart des modèles à compresseur disposent d'une sortie à l'arrière où brancher un simple tuyau vers une évacuation (lavabo, siphon). C'est idéal pour un usage intensif en sous-sol. Enfin, certains appareils intègrent un filtre à poussière ou à charbon actif, agissant comme de modestes [Purificateur d'air : Mon classement cash et définitif.](/maison/purificateur-air-classement-cash-definitif/). C'est un plus, mais pas un critère de choix principal.
+Une autre option très pratique est le drainage continu. Vider un bac de 4 litres deux fois par jour est vite lassant. La plupart des modèles à compresseur disposent d'une sortie à l'arrière où brancher un simple tuyau vers une évacuation (lavabo, siphon). C'est idéal pour un usage intensif en sous-sol. Enfin, certains appareils intègrent un filtre à poussière ou à charbon actif, agissant comme de modestes Purificateurs d'air. C'est un plus, mais pas un critère de choix principal.
 
 ## Entretenir son déshumidificateur pour qu'il dure
 

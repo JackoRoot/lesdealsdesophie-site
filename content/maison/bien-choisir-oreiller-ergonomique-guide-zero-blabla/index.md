@@ -9,7 +9,7 @@ categories: ["Maison"]
 
 ## Pourquoi 3 modèles et pas 10
 
-Le marché de l'oreiller est saturé de promesses. La réalité, c'est que la plupart des modèles "ergonomiques" sont des blocs de mousse fixes qui ne s'adaptent à personne. Pour comprendre ce qui différencie un vrai oreiller ergonomique d'un simple bloc de mousse, [Oreiller ergonomique : L'erreur que font 90% des acheteurs.](/maison/oreiller-ergonomique-erreur-font-90-acheteurs/) décortique les critères techniques. Le critère qui élimine 99% de l'offre est simple : l'ajustabilité.
+Le marché de l'oreiller est saturé de promesses. La réalité, c'est que la plupart des modèles "ergonomiques" sont des blocs de mousse fixes qui ne s'adaptent à personne. Pour comprendre ce qui différencie un vrai oreiller ergonomique d'un simple bloc de mousse, Oreiller ergonomique : L'erreur que font 90% des acheteurs. décortique les critères techniques. Le critère qui élimine 99% de l'offre est simple : l'ajustabilité.
 
 {{snippet-bait}}
 Voici les 3 oreillers ergonomiques qui se distinguent par leur conception personnalisable en hauteur et fermeté :
@@ -34,7 +34,7 @@ Le bémol est sa ventilation, jugée moyenne par certains utilisateurs. Si vous 
 
 Pour qui : **Pour vous si vous cherchez un oreiller personnalisable sans vous ruiner et si votre position de sommeil varie.**
 
-[Voir sur Amazon](https://www.amazon.fr/s?k=bien+choisir+oreiller+ergonomique+guide)
+[Voir sur Amazon](#)
 
 ## #2 — Wopilo Plus — Le sur-mesure pour les cervicales
 
@@ -56,11 +56,11 @@ Son principal inconvénient est aussi sa force : sa fermeté. Il demande un temp
 
 Pour qui : **Pour vous si vous avez des douleurs chroniques et que vous cherchez un investissement santé validé par des années d'expérience.**
 
-[Voir sur Amazon](https://www.amazon.fr/s?k=bien+choisir+oreiller+ergonomique+guide)
+[Voir sur Amazon](#)
 
 ## Comment choisir entre les 3
 
-Votre profil de dormeur et votre budget sont les deux seuls critères à considérer pour faire le bon choix. Si vous cherchez aussi à améliorer votre literie au-delà de l'oreiller, [La couverture lestée : Comment ça marche vraiment ?](/maison/couverture-lestee-comment-ca-marche-vraiment/) est la prochaine étape logique.
+Votre profil de dormeur et votre budget sont les deux seuls critères à considérer pour faire le bon choix. Si vous cherchez aussi à améliorer votre literie au-delà de l'oreiller, La couverture lestée : Comment ça marche vraiment ? est la prochaine étape logique.
 
 *   **Pour un budget maîtrisé et une grande polyvalence :** L'**Emma Original** est le choix le plus logique. Sa modularité par couches vous permet de tester différentes hauteurs facilement.
 *   **Pour un soulagement ciblé des cervicales :** Le **Wopilo Plus** offre une personnalisation plus poussée. Le choix du cœur et l'ajustement du garnissage permettent un réglage très fin.

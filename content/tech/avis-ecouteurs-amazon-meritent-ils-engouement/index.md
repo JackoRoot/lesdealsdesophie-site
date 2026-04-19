@@ -41,7 +41,7 @@ Aucun produit n'est sans défaut, surtout à ce prix. Les compromis sont réels 
 
 Leur plus gros point faible est le microphone pour les appels. Dans un bureau calme, votre voix est audible. Mais dès que vous êtes dans la rue ou un open space bruyant, **votre interlocuteur aura du mal à vous entendre distinctement**. C'est une limite bloquante si vous passez vos journées en appels.
 
-Le son, ensuite. La technologie BassUp renforce bien les basses, ce qui donne un son énergique et plaisant pour du hip-hop ou de l'électro. Mais cela se fait au détriment de la précision. **Les médiums sont en retrait et les aigus manquent de clarté**. Si vous écoutez du classique ou du jazz et que chaque instrument compte, ces écouteurs vous frustreront. Pour comprendre pourquoi la qualité audio varie autant d'un modèle à l'autre, [Audio Numérique & DAC : Le Guide pour un Son Clair et Net](/tech/audio-numerique-dac-guide-clair-net/) explique les mécanismes.
+Le son, ensuite. La technologie BassUp renforce bien les basses, ce qui donne un son énergique et plaisant pour du hip-hop ou de l'électro. Mais cela se fait au détriment de la précision. **Les médiums sont en retrait et les aigus manquent de clarté**. Si vous écoutez du classique ou du jazz et que chaque instrument compte, ces écouteurs vous frustreront. Pour comprendre pourquoi la qualité audio varie autant d'un modèle à l'autre, Audio Numérique & DAC : Le Guide pour un Son Clair et Net explique les mécanismes.
 
 ## Le verdict final
 
@@ -55,13 +55,13 @@ Après plusieurs semaines d'utilisation, le bilan est clair. Ces Soundcore P40i 
 *   Qualité du Micro : 5/10
 
 Pour une autonomie imbattable à moins de 50€, les **Soundcore P40i by Anker** sont le choix le plus malin. Vous ne trouverez pas mieux sur ce critère précis.
-[Voir sur Amazon](https://www.amazon.fr/s?k=avis+ecouteurs+amazon+meritent+ils)
+[Voir sur Amazon](#)
 
 Si votre budget est un peu plus élevé et que la qualité audio est votre critère numéro un, regardez plutôt les **Xiaomi Redmi Buds 5 Pro**. Leur certification Hi-Res Audio et le support du codec LDAC offrent un son bien plus détaillé pour environ 70€.
-[Voir sur Amazon](https://www.amazon.fr/s?k=avis+ecouteurs+amazon+meritent+ils)
+[Voir sur Amazon](#)
 
 Enfin, si vous voulez une réduction de bruit plus performante et un design qui sort du lot, les **Nothing Ear (a)** sont une option sérieuse. Leur ANC est plus efficace en milieu bruyant, mais le prix monte aux alentours de 80€.
-[Voir sur Amazon](https://www.amazon.fr/s?k=avis+ecouteurs+amazon+meritent+ils)
+[Voir sur Amazon](#)
 
 ## FAQ
 

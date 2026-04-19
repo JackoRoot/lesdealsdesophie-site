@@ -49,7 +49,7 @@ Les tableaux de bord des Air Fryers se remplissent de pictogrammes : frites, pou
 
 Concentrez-vous sur les fonctions qui ont un réel impact. La fonction "Shake Reminder", par exemple, est très utile. Elle émet un bip à mi-cuisson pour vous rappeler de secouer le panier. C'est essentiel pour **assurer une cuisson uniforme de tous les côtés**. Certains appareils plus avancés proposent des tiroirs doubles avec cuisson synchronisée, ce qui vous permet de cuire deux aliments différents en même temps.
 
-Ignorez les fonctions connectées en Wi-Fi qui alourdissent la facture sans réel bénéfice. La précision du thermostat et la qualité de la ventilation sont bien plus importantes. Un bon appareil doit vous offrir un contrôle manuel précis de la température (souvent de 80°C à 200°C) et de la minuterie. C'est tout ce dont vous avez besoin, comme pour les [Plaques à induction : L'erreur que font 90% des gens.](/cuisine/plaques-induction-erreur-font-90-gens/) où la maîtrise de la puissance est la clé.
+Ignorez les fonctions connectées en Wi-Fi qui alourdissent la facture sans réel bénéfice. La précision du thermostat et la qualité de la ventilation sont bien plus importantes. Un bon appareil doit vous offrir un contrôle manuel précis de la température (souvent de 80°C à 200°C) et de la minuterie. C'est tout ce dont vous avez besoin, comme pour les Plaques à induction où la maîtrise de la puissance est la clé.
 
 ## Santé : moins de gras, mais attention à l'acrylamide
 

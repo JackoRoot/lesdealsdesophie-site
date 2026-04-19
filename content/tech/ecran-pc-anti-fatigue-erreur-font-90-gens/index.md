@@ -41,7 +41,7 @@ La fatigue visuelle est intimement liée à votre posture. Un écran mal positio
 
 Le critère numéro un est la hauteur. Le bord supérieur de l'écran doit se situer juste au niveau de vos yeux, ou très légèrement en dessous. Cela vous oblige à regarder droit devant vous ou un peu vers le bas, une position naturelle pour le cou. Si votre écran est trop bas, vous allez vous voûter. S'il est trop haut, vous créerez une tension dans les cervicales.
 
-Vérifiez que le pied de l'écran permet au minimum un réglage en hauteur et en inclinaison. L'idéal est un pied qui autorise aussi la rotation (pivot). Si le pied d'origine est trop basique, assurez-vous que l'écran possède une compatibilité VESA (des trous de fixation standardisés à l'arrière). Cela vous permettra de le monter sur un bras articulé, pour une flexibilité maximale. **Une bonne posture peut réduire vos maux de tête de moitié**, bien avant de toucher aux réglages de l'image. Pensez aussi au [Chaise ergonomique : Tout comprendre avant d'acheter.](/tech/chaise-ergonomique-tout-comprendre-avant-acheter/) pour compléter votre installation.
+Vérifiez que le pied de l'écran permet au minimum un réglage en hauteur et en inclinaison. L'idéal est un pied qui autorise aussi la rotation (pivot). Si le pied d'origine est trop basique, assurez-vous que l'écran possède une compatibilité VESA (des trous de fixation standardisés à l'arrière). Cela vous permettra de le monter sur un bras articulé, pour une flexibilité maximale. **Une bonne posture peut réduire vos maux de tête de moitié**, bien avant de toucher aux réglages de l'image. Pensez aussi au Chaises ergonomiques pour compléter votre installation.
 
 ## La dalle : IPS, VA, OLED, ce que ça change pour vous
 
@@ -56,7 +56,7 @@ Posséder un bon écran ne suffit pas, il faut aussi le régler correctement. Le
 
 La règle est simple : la luminosité de votre écran doit correspondre à la luminosité ambiante. Il ne doit pas être une source de lumière qui vous éblouit. Prenez une feuille de papier blanche et placez-la à côté de votre écran affichant une page blanche. Si l'écran est beaucoup plus lumineux que la feuille, baissez sa luminosité. Pour un bureau normalement éclairé, une valeur entre 120 et 150 cd/m² est un excellent point de départ.
 
-Le second réglage clé est la température de couleur, mesurée en Kelvin. Un réglage autour de 6500K correspond à la lumière du jour et est considéré comme neutre. Le soir, il est judicieux de passer à une température plus chaude (entre 4000K et 5000K) pour réduire la part de lumière bleue. La plupart des systèmes d'exploitation proposent un "mode nuit" qui fait ce travail automatiquement. **Vous limitez l'éblouissement et aidez votre cerveau à se préparer au sommeil.** Pour aller plus loin, l'article sur l'[Éclairage bureau : Ce que les Kelvins changent vraiment.](/tech/eclairage-bureau-kelvins-changent-vraiment/) vous donnera des clés.
+Le second réglage clé est la température de couleur, mesurée en Kelvin. Un réglage autour de 6500K correspond à la lumière du jour et est considéré comme neutre. Le soir, il est judicieux de passer à une température plus chaude (entre 4000K et 5000K) pour réduire la part de lumière bleue. La plupart des systèmes d'exploitation proposent un "mode nuit" qui fait ce travail automatiquement. **Vous limitez l'éblouissement et aidez votre cerveau à se préparer au sommeil.** Pour aller plus loin, l'article sur l'Éclairage bureau : Ce que les Kelvins changent vraiment. vous donnera des clés.
 
 ## Questions fréquentes (FAQ)
 

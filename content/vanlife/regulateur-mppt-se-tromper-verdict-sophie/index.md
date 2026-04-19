@@ -36,7 +36,7 @@ Son bémol est thermique. Lorsqu'il fonctionne à sa capacité maximale de 30A p
 
 C'est le choix pour vous si vous voulez un contrôle total et des données précises sur votre installation solaire, directement sur votre téléphone.
 
-[Voir sur Amazon](https://www.amazon.fr/s?k=regulateur+mppt+se+tromper+verdict)
+[Voir sur Amazon](#)
 
 ## #2 — Renogy Rover Li 40A MPPT — La puissance brute au juste prix
 
@@ -48,7 +48,7 @@ La limite de ce modèle est sa connectivité. La consultation des données via B
 
 Il est fait pour vous si **votre priorité est la puissance de charge maximale pour un budget contenu**, et que le suivi via smartphone est secondaire.
 
-[Voir sur Amazon](https://www.amazon.fr/s?k=regulateur+mppt+se+tromper+verdict)
+[Voir sur Amazon](#)
 
 ## #3 — EPEVER Tracer 4210AN — Le choix robuste et économique
 
@@ -60,7 +60,7 @@ Son point faible est son interface utilisateur. L'écran LCD intégré est basiq
 
 C'est le régulateur pour vous si vous cherchez une **solution éprouvée, durable et économique**, sans avoir besoin d'une interface de suivi avancée.
 
-[Voir sur Amazon](https://www.amazon.fr/s?k=regulateur+mppt+se+tromper+verdict)
+[Voir sur Amazon](#)
 
 ## Comment choisir entre les 3
 

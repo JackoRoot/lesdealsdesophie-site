@@ -44,7 +44,7 @@ Le bémol technique est son niveau sonore. Lors des fonctions de mixage ou de p�
 
 C'est le bon choix pour vous si vous cherchez une expérience de cuisine guidée totalement intégrée et une prise en main intuitive.
 
-[Voir sur Amazon](https://www.amazon.fr/s?k=thermomix+tm6+cook+expert+lequel)
+[Voir sur Amazon](#)
 
 ## Magimix Cook Expert — Ce qu'il fait mieux
 
@@ -58,7 +58,7 @@ Le bémol est son expérience de cuisine connectée. Les recettes guidées ne s'
 
 C'est le bon choix pour vous si vous attendez de votre robot qu'il assure la préparation des ingrédients autant que la cuisson.
 
-[Voir sur Amazon](https://www.amazon.fr/s?k=thermomix+tm6+cook+expert+lequel)
+[Voir sur Amazon](#)
 
 ## Le verdict de Sophie
 
@@ -66,7 +66,7 @@ Le gagnant dépend de votre profil d'utilisateur. Il n'y a pas de réponse uniqu
 
 *   **Pour le débutant ou l'utilisateur pressé :** Le **Thermomix TM6**. Son interface Cookidoo intégrée élimine toute charge mentale. Vous suivez les instructions à l'écran et le succès est quasiment assuré.
 *   **Pour la famille nombreuse :** Le **Magimix Cook Expert**. Son bol de 3,5 litres fait une vraie différence au quotidien pour préparer des plats en grande quantité.
-*   **Pour le cuisinier polyvalent :** Le **Magimix Cook Expert**. Il remplace à la fois un robot cuiseur et un robot multifonction, offrant un gain de place et d'argent. Pour aller plus loin dans l'organisation de votre cuisine, [Machine sous-vide : La réalité après 6 mois de terrain.](/cuisine/machine-sous-vide-realite-apres-mois-terrain/) complète parfaitement l'arsenal d'un cuisinier exigeant.
+*   **Pour le cuisinier polyvalent :** Le **Magimix Cook Expert**. Il remplace à la fois un robot cuiseur et un robot multifonction, offrant un gain de place et d'argent. Pour aller plus loin dans l'organisation de votre cuisine, Machine sous-vide : La réalité après 6 mois de terrain. complète parfaitement l'arsenal d'un cuisinier exigeant.
 
 La situation où le TM6 bat clairement le Cook Expert est celle où vous voulez une assistance logicielle sans faille. Si vous détestez jongler avec un téléphone en cuisinant et que vous voulez une expérience "zéro friction", le Thermomix est pour vous.
 
