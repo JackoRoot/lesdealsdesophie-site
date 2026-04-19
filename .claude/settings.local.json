@@ -11,7 +11,8 @@
       "Bash(hugo *)",
       "Bash(python dev/publication_hugo.py --mode bigbang --dry-run)",
       "Bash(git -C /c/Users/pilip/Desktop/lesdealsdesophie-site add -A)",
-      "Bash(git -C /c/Users/pilip/Desktop/lesdealsdesophie-site commit -m \"Big Bang — 15 articles publication initiale\")"
+      "Bash(git -C /c/Users/pilip/Desktop/lesdealsdesophie-site commit -m \"Big Bang — 15 articles publication initiale\")",
+      "Bash(python dev/publication_hugo.py --mode bigbang --no-push)"
     ]
   }
 }
