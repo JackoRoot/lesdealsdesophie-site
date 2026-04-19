@@ -1,11 +1,19 @@
 {{ define "main" }}
 <style>
-:root { --accent: #D4693A; --accent-light: #FAECE7; --accent-dark: #712B13; }
+:root {
+  --bg: #12141a;
+  --card: #242731;
+  --border: #2D323E;
+  --text: #E2E8F0;
+  --muted: #A0AEC0;
+  --subtle: #718096;
+  --accent: #B35A5A;
+}
 
 .list-container { max-width: 900px; margin: 0 auto; padding: 20px; }
 .list-header { margin-bottom: 24px; }
-.list-title { font-size: 22px; font-weight: 500; color: #111; margin-bottom: 4px; }
-.list-count { font-size: 13px; color: #888; }
+.list-title { font-size: 22px; font-weight: 500; color: var(--text); margin-bottom: 4px; }
+.list-count { font-size: 13px; color: var(--subtle); }
 
 .deals-grid {
   display: grid;
@@ -13,21 +21,21 @@
   gap: 12px;
 }
 .deal-card {
-  background: white;
-  border: 0.5px solid #e5e5e5;
+  background: var(--card);
+  border: 1px solid var(--border);
   border-radius: 12px;
   overflow: hidden;
   text-decoration: none;
   display: block;
   transition: border-color 0.15s;
 }
-.deal-card:hover { border-color: #ccc; }
+.deal-card:hover { border-color: var(--accent); }
 .card-img {
   width: 100%;
   aspect-ratio: 4/3;
   overflow: hidden;
   position: relative;
-  background: #f5f5f5;
+  background: #1a1d25;
 }
 .card-img img { width: 100%; height: 100%; object-fit: cover; }
 .card-badge {
@@ -41,12 +49,12 @@
   padding: 2px 8px;
   border-radius: 6px;
 }
-.card-body { padding: 12px; }
-.card-source { font-size: 11px; color: #888; margin-bottom: 4px; }
+.card-body { padding: 14px; }
+.card-source { font-size: 11px; color: var(--subtle); margin-bottom: 4px; }
 .card-title {
   font-size: 13px;
   font-weight: 500;
-  color: #111;
+  color: var(--text);
   line-height: 1.4;
   margin-bottom: 6px;
   display: -webkit-box;
@@ -54,15 +62,26 @@
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
-.card-footer { display: flex; align-items: center; justify-content: space-between; margin-top: 8px; }
-.card-price { font-size: 15px; font-weight: 500; color: #111; }
+.card-desc {
+  font-size: 12px;
+  color: var(--muted);
+  font-style: italic;
+  line-height: 1.5;
+  margin: 4px 0 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.card-footer { display: flex; align-items: center; justify-content: space-between; margin-top: 10px; }
+.card-price { font-size: 15px; font-weight: 500; color: var(--text); }
 .card-btn {
   font-size: 12px;
-  background: #f5f5f5;
-  border: 0.5px solid #ddd;
+  background: var(--card);
+  border: 1px solid var(--border);
   border-radius: 6px;
-  padding: 4px 10px;
-  color: #333;
+  padding: 5px 12px;
+  color: var(--text);
 }
 
 .pagination {
@@ -73,13 +92,13 @@
 }
 .pagination a {
   padding: 6px 12px;
-  border: 0.5px solid #ddd;
+  border: 1px solid var(--border);
   border-radius: 6px;
   font-size: 13px;
-  color: #333;
+  color: var(--muted);
   text-decoration: none;
 }
-.pagination a:hover { background: #f5f5f5; }
+.pagination a:hover { border-color: var(--accent); color: var(--accent); }
 </style>
 
 <div class="list-container">
@@ -95,16 +114,19 @@
   <div class="deals-grid">
     {{ range .Pages }}
     <a href="{{ .Permalink }}" class="deal-card">
+      {{ with .Params.image }}
       <div class="card-img">
-        {{ with .Params.image }}<img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" />{{ end }}
-        {{ with .Params.discount }}<div class="card-badge">{{ . }}</div>{{ end }}
+        <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" />
+        {{ with $.Params.discount }}<div class="card-badge">{{ . }}</div>{{ end }}
       </div>
+      {{ end }}
       <div class="card-body">
-        <div class="card-source">{{ .Params.source | title }}</div>
+        {{ with .Params.source }}<div class="card-source">{{ . | title }}</div>{{ end }}
         <div class="card-title">{{ .Title }}</div>
+        {{ with .Description }}<p class="card-desc">{{ . }}</p>{{ end }}
         <div class="card-footer">
-          <span class="card-price">{{ .Params.price }}</span>
-          <span class="card-btn">Voir</span>
+          {{ with .Params.price }}<span class="card-price">{{ . }}</span>{{ end }}
+          <span class="card-btn">Lire</span>
         </div>
       </div>
     </a>

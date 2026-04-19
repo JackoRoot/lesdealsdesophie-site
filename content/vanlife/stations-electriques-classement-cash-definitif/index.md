@@ -4,7 +4,7 @@ description: "Panne de courant ou vanlife ? On a torturé 5 stations électrique
 date: "2026-04-20"
 draft: false
 slug: "stations-electriques-classement-cash-definitif"
-categories: ["Guides"]
+categories: ["Vanlife"]
 ---
 
 

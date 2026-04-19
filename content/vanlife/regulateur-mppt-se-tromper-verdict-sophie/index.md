@@ -4,7 +4,7 @@ description: "Ne choisissez pas votre régulateur MPPT au hasard. Découvrez not
 date: "2026-04-20"
 draft: false
 slug: "regulateur-mppt-se-tromper-verdict-sophie"
-categories: ["Guides"]
+categories: ["Vanlife"]
 ---
 
 ## Pourquoi 3 modèles et pas 10

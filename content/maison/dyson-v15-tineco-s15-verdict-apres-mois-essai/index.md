@@ -4,7 +4,7 @@ description: "Comparatif direct Dyson V15 Detect vs Tineco S15 PRO. Puissance, a
 date: "2026-04-20"
 draft: false
 slug: "dyson-v15-tineco-s15-verdict-apres-mois-essai"
-categories: ["Guides"]
+categories: ["Maison"]
 ---
 
 ## Pourquoi ce duel mérite votre attention

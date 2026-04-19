@@ -4,7 +4,7 @@ description: "Pourquoi 18°C est la température idéale pour dormir ? Découvre
 date: "2026-04-20"
 draft: false
 slug: "dormir-18-personne-ne-vous-dit-vraiment"
-categories: ["Sommeil"]
+categories: ["Maison"]
 ---
 
 ## Pourquoi une chambre fraîche facilite l'endormissement

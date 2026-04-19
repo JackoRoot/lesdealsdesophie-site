@@ -4,7 +4,7 @@ description: "Duel des chauffages stationnaires : Autoterm Air 2D contre Webasto
 date: "2026-04-20"
 draft: false
 slug: "autoterm-webasto-van-erreur-ne-pas-faire"
-categories: ["Guides"]
+categories: ["Vanlife"]
 ---
 
 ## Pourquoi ce duel mérite votre attention

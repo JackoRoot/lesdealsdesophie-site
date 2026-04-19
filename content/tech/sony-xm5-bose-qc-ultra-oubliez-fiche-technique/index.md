@@ -4,7 +4,7 @@ description: "Comparatif direct entre le Sony WH-1000XM5 et le Bose QC Ultra. Au
 date: "2026-04-20"
 draft: false
 slug: "sony-xm5-bose-qc-ultra-oubliez-fiche-technique"
-categories: ["Guides"]
+categories: ["Tech"]
 ---
 
 ## Pourquoi ce duel mérite votre attention

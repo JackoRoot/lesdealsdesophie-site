@@ -4,7 +4,7 @@ description: "Fatigué de vous réveiller avec des douleurs ? Sophie a analysé 
 date: "2026-04-20"
 draft: false
 slug: "bien-choisir-oreiller-ergonomique-guide-zero-blabla"
-categories: ["Guides"]
+categories: ["Maison"]
 ---
 
 ## Pourquoi 3 modèles et pas 10

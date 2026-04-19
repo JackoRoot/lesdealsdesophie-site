@@ -4,7 +4,9 @@
       "Bash(git -C \"C:/Users/pilip/Desktop/lesdealsdesophie-site\" submodule status)",
       "Bash(hugo --templateMetrics)",
       "Bash(git add *)",
-      "Bash(git commit *)"
+      "Bash(git commit *)",
+      "Bash(git rm *)",
+      "Bash(git mv *)"
     ]
   }
 }

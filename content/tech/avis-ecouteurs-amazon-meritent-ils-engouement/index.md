@@ -4,7 +4,7 @@ description: "Vous cherchez des écouteurs sans fil à moins de 80€ ? J'ai tes
 date: "2026-04-20"
 draft: false
 slug: "avis-ecouteurs-amazon-meritent-ils-engouement"
-categories: ["Guides"]
+categories: ["Tech"]
 ---
 
 ## Pourquoi j'ai testé ce produit

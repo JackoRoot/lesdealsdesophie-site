@@ -4,7 +4,7 @@ description: "Vos yeux brûlent après une journée de travail ? Découvrez les 
 date: "2026-04-20"
 draft: false
 slug: "ecran-pc-anti-fatigue-erreur-font-90-gens"
-categories: ["Bureau"]
+categories: ["Tech"]
 ---
 
 ## La lumière bleue, ce faux coupable ?
