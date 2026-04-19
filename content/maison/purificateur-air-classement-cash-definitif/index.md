@@ -25,7 +25,7 @@ Pour choisir un purificateur d'air fiable, vérifiez toujours le CADR (Clean Air
 
 ### Dyson Purifier Big+Quiet Formaldehyde BP04 — Le destructeur de formaldéhyde
 
-**Le Pitch :** Ce modèle détruit les composés organiques volatils. Son filtre à oxydation catalytique sélective transforme le formaldéhyde en eau et CO₂, sans jamais exiger de remplacement. Ses 7 capteurs (PM2,5, PM10, CO₂, humidité, température, NO₂) pilotent un HEPA H13 scellé fonctionnant à seulement 18 dB. Pour comprendre ce que mesurent ces capteurs, Capteur de qualité d'air : Ce que les marques cachent. fait le tour des polluants intérieurs.
+**Le Pitch :** Ce modèle détruit les composés organiques volatils. Son filtre à oxydation catalytique sélective transforme le formaldéhyde en eau et CO₂, sans jamais exiger de remplacement. Ses 7 capteurs (PM2,5, PM10, CO₂, humidité, température, NO₂) pilotent un HEPA H13 scellé fonctionnant à seulement 18 dB. Pour comprendre ce que mesurent ces capteurs, [Capteur de qualité d'air : Ce que les marques cachent.](/maison/capteur-qualite-air-marques-cachent/) fait le tour des polluants intérieurs.
 
 **Le Bémol :** Un tarif indicatif de 699 à 950€. Sans formaldéhyde avéré dans votre logement, ce surcoût n'est pas techniquement justifié par rapport à un appareil de milieu de gamme.
 

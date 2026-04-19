@@ -41,7 +41,7 @@ Aucun produit n'est sans défaut, surtout à ce prix. Les compromis sont réels 
 
 Leur plus gros point faible est le microphone pour les appels. Dans un bureau calme, votre voix est audible. Mais dès que vous êtes dans la rue ou un open space bruyant, **votre interlocuteur aura du mal à vous entendre distinctement**. C'est une limite bloquante si vous passez vos journées en appels.
 
-Le son, ensuite. La technologie BassUp renforce bien les basses, ce qui donne un son énergique et plaisant pour du hip-hop ou de l'électro. Mais cela se fait au détriment de la précision. **Les médiums sont en retrait et les aigus manquent de clarté**. Si vous écoutez du classique ou du jazz et que chaque instrument compte, ces écouteurs vous frustreront. Pour comprendre pourquoi la qualité audio varie autant d'un modèle à l'autre, Audio Numérique & DAC : Le Guide pour un Son Clair et Net explique les mécanismes.
+Le son, ensuite. La technologie BassUp renforce bien les basses, ce qui donne un son énergique et plaisant pour du hip-hop ou de l'électro. Mais cela se fait au détriment de la précision. **Les médiums sont en retrait et les aigus manquent de clarté**. Si vous écoutez du classique ou du jazz et que chaque instrument compte, ces écouteurs vous frustreront. Pour comprendre pourquoi la qualité audio varie autant d'un modèle à l'autre, [Audio Numérique & DAC : Le Guide pour un Son Clair et Net](/tech/audio-numerique-dac-guide-clair-net/) explique les mécanismes.
 
 ## Le verdict final
 

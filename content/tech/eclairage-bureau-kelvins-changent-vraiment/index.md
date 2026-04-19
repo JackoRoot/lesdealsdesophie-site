@@ -33,7 +33,7 @@ La lumière que vous recevez n'éclaire pas seulement votre bureau, elle program
 
 Un éclairage de bureau avec une température de couleur élevée (plus de 5000K) est riche en lumière bleue. Cette lumière envoie un signal fort à votre cerveau pour stopper la production de mélatonine, l'hormone du sommeil. C'est utile pour rester alerte entre 9h et 17h, mais cela devient un problème si vous travaillez tard le soir.
 
-Utiliser une lumière trop froide en soirée peut perturber votre endormissement et dégrader la qualité de votre sommeil. Inversement, travailler toute la journée sous une lumière trop chaude (moins de 3300K) peut induire une sensation de somnolence. **Choisir la bonne température Kelvin vous aide à rester performant la journée et à préserver votre sommeil la nuit**, un enjeu de santé fondamental. Lampe de luminothérapie : Tout comprendre avant l'achat.
+Utiliser une lumière trop froide en soirée peut perturber votre endormissement et dégrader la qualité de votre sommeil. Inversement, travailler toute la journée sous une lumière trop chaude (moins de 3300K) peut induire une sensation de somnolence. **Choisir la bonne température Kelvin vous aide à rester performant la journée et à préserver votre sommeil la nuit**, un enjeu de santé fondamental. [Lampe de luminothérapie : Tout comprendre avant l'achat.](/maison/lampe-luminotherapie-tout-comprendre-avant-achat/)
 
 ## Ne confondez pas Kelvin et Lumens
 

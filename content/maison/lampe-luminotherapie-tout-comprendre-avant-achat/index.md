@@ -25,7 +25,7 @@ Toutes les lumières ne se valent pas. Une lampe de bureau classique ne pourra j
 
 L'intensité lumineuse se mesure en lux. Pour avoir un effet biologique et stopper la production de mélatonine, une exposition à 10 000 lux est le standard validé. Pour vous donner une idée, un bureau bien éclairé atteint péniblement 500 lux. Une journée ensoleillée en extérieur dépasse les 50 000 lux. **C'est cette forte intensité qui reprogramme votre cerveau.**
 
-La température de couleur, mesurée en Kelvin (K), est le second critère. Elle décrit la "couleur" de la lumière, de chaude (jaune-orangé, <3000K) à froide (blanche-bleutée, >5000K). La lumière du matin est riche en bleu, donc froide. **Vous devez viser une lampe avec une température d'au moins 5000K, idéalement autour de 6500K**, pour mimer ce signal naturel. Vous trouverez des informations complémentaires sur ce sujet dans le guide Éclairage bureau : Ce que les Kelvins changent vraiment..
+La température de couleur, mesurée en Kelvin (K), est le second critère. Elle décrit la "couleur" de la lumière, de chaude (jaune-orangé, <3000K) à froide (blanche-bleutée, >5000K). La lumière du matin est riche en bleu, donc froide. **Vous devez viser une lampe avec une température d'au moins 5000K, idéalement autour de 6500K**, pour mimer ce signal naturel. Vous trouverez des informations complémentaires sur ce sujet dans le guide [Éclairage bureau : Ce que les Kelvins changent vraiment.](/tech/eclairage-bureau-kelvins-changent-vraiment/).
 
 ## Le bon timing : quand et comment utiliser votre lampe
 

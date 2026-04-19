@@ -31,7 +31,7 @@ Concrètement, organisez votre réfrigérateur par zones de température : le po
 
 Vous avez ouvert un paquet de café en grains ou de noix, et quelques jours plus tard, le goût est plat, presque rance. Le coupable est l'oxygène. L'oxydation est une réaction en chaîne qui s'attaque aux molécules de vos aliments, en particulier les acides gras. Elle dégrade le goût, l'odeur et la valeur nutritionnelle.
 
-La solution la plus directe est de supprimer le comburant : l'air. C'est le principe de la Machine sous-vide : La réalité après 6 mois de terrain.. En aspirant 90 à 99% de l'air d'un emballage avant de le sceller, vous créez un environnement hostile à l'oxydation. Les graisses ne rancissent plus, les pigments des viandes rouges conservent leur couleur et les arômes volatils du café restent piégés.
+La solution la plus directe est de supprimer le comburant : l'air. C'est le principe de la [Machine sous-vide : La réalité après 6 mois de terrain.](/cuisine/machine-sous-vide-realite-apres-mois-terrain/). En aspirant 90 à 99% de l'air d'un emballage avant de le sceller, vous créez un environnement hostile à l'oxydation. Les graisses ne rancissent plus, les pigments des viandes rouges conservent leur couleur et les arômes volatils du café restent piégés.
 
 Cette technique combat aussi les micro-organismes dits "aérobies", qui ont besoin d'oxygène pour vivre. Attention, elle est inefficace contre les bactéries anaérobies, qui prospèrent sans air. C'est pourquoi la mise sous vide doit souvent être combinée au froid. Pour vous, l'investissement dans une machine simple se traduit par **une durée de conservation multipliée par 3 à 5 pour de nombreux produits**.
 

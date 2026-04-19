@@ -13,7 +13,7 @@ Vous remplissez votre congélateur, mais quelques mois plus tard, la viande est 
 
 La mise sous vide s'attaque directement à la cause. En aspirant 90% à 99% de l'air contenu dans un sachet, la machine prive ces processus de leur carburant. Le développement bactérien aérobie est stoppé net et l'oxydation est considérablement ralentie.
 
-Concrètement, la durée de conservation de vos aliments est multipliée par 3 à 5, au réfrigérateur comme au congélateur. **Vos aliments conservent leur texture, leurs nutriments et leur goût bien plus longtemps.** C'est la différence entre un steak savoureux après six mois et un morceau de viande sec et sans saveur. La Conservation des aliments : Ce que les marques cachent. appliquée à votre cuisine.
+Concrètement, la durée de conservation de vos aliments est multipliée par 3 à 5, au réfrigérateur comme au congélateur. **Vos aliments conservent leur texture, leurs nutriments et leur goût bien plus longtemps.** C'est la différence entre un steak savoureux après six mois et un morceau de viande sec et sans saveur. La [Conservation des aliments : Ce que les marques cachent.](/cuisine/conservation-aliments-marques-cachent/) appliquée à votre cuisine.
 
 {{snippet-bait}}
 Une machine sous vide prolonge la durée de vie de vos aliments jusqu'à 5 fois. En retirant l'air, elle bloque l'oxydation et la brûlure de congélation. Concrètement, cela signifie moins de gaspillage, des saveurs préservées et des économies sur vos courses. Un bon appareil se définit par sa puissance de dépression (au moins -700 mbar).

@@ -33,7 +33,7 @@ Vous dormez huit heures mais vous vous réveillez avec une sensation de brouilla
 
 La production de mélatonine est très sensible à deux facteurs : la lumière et la température. Une obscurité totale est connue pour être nécessaire, mais l'impact de la chaleur l'est moins. Des études montrent qu'un environnement frais et stable favorise une sécrétion de mélatonine plus robuste et prolongée tout au long de la nuit.
 
-Une meilleure diffusion de mélatonine signifie des phases de sommeil paradoxal (REM) et de sommeil lent profond de meilleure qualité. C'est durant ces phases que votre cerveau trie les informations, consolide votre mémoire et procède à ses réparations cellulaires. **Dormir au frais optimise la chimie de votre sommeil pour un réveil plus alerte et une meilleure clarté mentale.** Cette gestion de votre horloge interne est un pilier de votre bien-être, au même titre que la Lampe de luminothérapie : Tout comprendre avant l'achat..
+Une meilleure diffusion de mélatonine signifie des phases de sommeil paradoxal (REM) et de sommeil lent profond de meilleure qualité. C'est durant ces phases que votre cerveau trie les informations, consolide votre mémoire et procède à ses réparations cellulaires. **Dormir au frais optimise la chimie de votre sommeil pour un réveil plus alerte et une meilleure clarté mentale.** Cette gestion de votre horloge interne est un pilier de votre bien-être, au même titre que la [Lampe de luminothérapie : Tout comprendre avant l'achat.](/maison/lampe-luminotherapie-tout-comprendre-avant-achat/).
 
 ## Froid et métabolisme : l'effet sur la graisse brune
 

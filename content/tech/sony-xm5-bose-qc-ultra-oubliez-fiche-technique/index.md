@@ -30,7 +30,7 @@ Un tableau vaut mieux qu'un long discours. Voici les quatre points qui créent u
 
 L'autonomie est un critère factuel. Avec 30 heures, le Sony vous offre **une journée de travail complète en plus** avant de devoir le recharger. C'est un avantage concret pour les voyageurs ou les oublieux.
 
-Côté audio, les approches divergent. Sony propose le codec LDAC, qui garantit **une meilleure qualité sonore sans fil** si votre source est compatible (la plupart des téléphones Android). Bose répond avec son Audio Immersif, qui crée une scène sonore plus large et donne l'impression que la musique ne vient pas des écouteurs, pour **une immersion plus poussée**. Pour comprendre pourquoi la chaîne numérique en amont fait autant de différence que le casque lui-même, Audio Numérique & DAC : Le Guide pour un Son Clair et Net pose les bases.
+Côté audio, les approches divergent. Sony propose le codec LDAC, qui garantit **une meilleure qualité sonore sans fil** si votre source est compatible (la plupart des téléphones Android). Bose répond avec son Audio Immersif, qui crée une scène sonore plus large et donne l'impression que la musique ne vient pas des écouteurs, pour **une immersion plus poussée**. Pour comprendre pourquoi la chaîne numérique en amont fait autant de différence que le casque lui-même, [Audio Numérique & DAC : Le Guide pour un Son Clair et Net](/tech/audio-numerique-dac-guide-clair-net/) pose les bases.
 
 Enfin, la réduction de bruit. Sony affiche sa force avec deux processeurs dédiés et huit microphones. Cela se traduit par une **meilleure annulation des fréquences moyennes et hautes**, comme les voix humaines dans un open space.
 

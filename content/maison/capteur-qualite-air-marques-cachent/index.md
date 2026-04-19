@@ -47,7 +47,7 @@ La plupart des bons appareils fonctionnent avec des seuils de couleur (vert, ora
 
 L'intérêt est de pouvoir agir au bon moment, et juste le temps nécessaire. Une alerte vous signale un pic de PM2.5 pendant que vous cuisinez ? Vous savez qu'il faut allumer la hotte à pleine puissance ou ouvrir la fenêtre. Le taux de COV augmente dans la chambre après avoir monté un meuble ? Vous savez qu'il faut aérer cette pièce en priorité pendant 48 heures.
 
-L'étape suivante est l'automatisation. Un capteur de qualité peut communiquer avec d'autres appareils. Si le taux de PM2.5 dépasse un certain seuil, il peut automatiquement démarrer votre Purificateurs d'air. **Vous ne gérez plus les problèmes, vous les prévenez avant même qu'ils n'affectent votre bien-être.**
+L'étape suivante est l'automatisation. Un capteur de qualité peut communiquer avec d'autres appareils. Si le taux de PM2.5 dépasse un certain seuil, il peut automatiquement démarrer votre [Purificateur d'air : Mon classement cash et définitif.](/maison/purificateur-air-classement-cash-definitif/). **Vous ne gérez plus les problèmes, vous les prévenez avant même qu'ils n'affectent votre bien-être.**
 
 ## Connectivité et écosystème : l'erreur du capteur isolé
 
