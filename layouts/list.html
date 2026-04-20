@@ -127,11 +127,11 @@
     <p class="list-count">{{ len .Pages }} articles</p>
   </div>
 
-  {{ $catImgs := dict "Cuisine" "/images/categorie-cuisine.png" "Maison" "/images/categorie-maison.png" "Tech" "/images/categorie-tech.png" "Vanlife" "/images/categorie-vanlife.png" }}
-  {{ $catPos := dict "Cuisine" "center 70%" "Maison" "center 70%" "Tech" "center 35%" "Vanlife" "center 50%" }}
-  {{ $img := index $catImgs (.Title | title) }}
+  {{ $catImgs := dict "cuisine" "/images/categorie-cuisine.png" "maison" "/images/categorie-maison.png" "tech" "/images/categorie-tech.png" "vanlife" "/images/categorie-vanlife.png" }}
+  {{ $catPos := dict "cuisine" "center 70%" "maison" "center 70%" "tech" "center 35%" "vanlife" "center 50%" }}
+  {{ $img := index $catImgs (.Title | lower) }}
   {{ if $img }}
-  {{ $pos := index $catPos (.Title | title) }}
+  {{ $pos := index $catPos (.Title | lower) }}
   <div class="cat-banner">
     <img src="{{ $img }}" alt="{{ .Title }}" loading="lazy" style="object-position: {{ $pos }};" />
   </div>
