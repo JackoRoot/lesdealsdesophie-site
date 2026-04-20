@@ -170,8 +170,12 @@ body { overflow-x: hidden; }
   .s-featured-img { height: 180px !important; aspect-ratio: 16/9 !important; }
   .s-grid { grid-template-columns: 1fr !important; }
   .s-top5-grid { grid-template-columns: 1fr !important; }
+  .s-cat-grid { grid-template-columns: 1fr !important; }
+  .s-cat-featured { grid-template-columns: 1fr !important; height: auto !important; }
+  .s-cat-featured-img { height: 180px !important; }
   .s-featured-body h2 { font-size: 16px !important; }
   .sophie-page { padding: 10px !important; }
+  .s-banner { flex-direction: column !important; }
 }
 
 
