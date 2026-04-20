@@ -173,18 +173,6 @@ body { overflow-x: hidden; }
   .sophie-page { padding: 10px !important; }
 }
 
-/* Fix menu mobile overflow */
-@media (max-width: 768px) {
-  #menu {
-    overflow-x: auto !important;
-    white-space: nowrap !important;
-    justify-content: flex-start !important;
-    padding-bottom: 4px !important;
-    scrollbar-width: none !important;
-  }
-  #menu::-webkit-scrollbar { display: none !important; }
-  .nav { overflow: hidden !important; }
-}
 
 /* ===== HERO PROFILE ===== */
 .main { padding-top: 0 !important; }
@@ -262,22 +250,19 @@ body { overflow-x: hidden; }
   background: #9A4444 !important;
 }
 
-/* Fix titre centré + menu mobile */
-@media (max-width: 768px) {
-  .nav { overflow: visible !important; }
-  .logo { text-align: center !important; width: 100% !important; justify-content: center !important; }
-  #menu {
-    flex-wrap: wrap !important;
-    justify-content: center !important;
-    white-space: normal !important;
-    overflow-x: visible !important;
-  }
-}
-
 /* ===== HAMBURGER MENU ===== */
 .hamburger { display: none; }
 
+.site-title-bar {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 @media (max-width: 768px) {
+  .site-title-bar { justify-content: center; padding: 0 16px; }
+
   .hamburger {
     display: flex;
     flex-direction: column;
@@ -288,7 +273,7 @@ body { overflow-x: hidden; }
     padding: 8px;
     position: absolute;
     right: 16px;
-    top: 55px;
+    bottom: 6px;
   }
   .hamburger span {
     display: block;
@@ -309,7 +294,7 @@ body { overflow-x: hidden; }
     background: #242731 !important;
     border-radius: 12px !important;
     padding: 12px !important;
-    margin-top: 8px !important;
+    margin-top: 4px !important;
     gap: 4px !important;
   }
   #menu.menu-open { display: flex !important; }
@@ -321,5 +306,5 @@ body { overflow-x: hidden; }
     border-radius: 8px !important;
   }
   #menu a:hover { background: #2D323E !important; }
-  .nav { position: relative !important; flex-wrap: wrap !important; }
+  .nav { position: relative !important; flex-wrap: wrap !important; overflow: visible !important; }
 }

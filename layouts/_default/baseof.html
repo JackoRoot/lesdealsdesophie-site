@@ -25,6 +25,9 @@
         <div class="logo">
             {{- partial "logo.html" . }}
         </div>
+        <button class="hamburger" id="hamburger" onclick="toggleMenu()" aria-label="Menu">
+            <span></span><span></span><span></span>
+        </button>
     </div>
     <div class="master-wrapper">
         {{ partialCached "header.html" . .Page -}}

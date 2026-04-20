@@ -93,10 +93,11 @@ body, body.list { background-color: #242731 !important; }
   display: inline-block;
   font-size: 10px;
   font-weight: 600;
-  background: #F5EDE8;
-  color: #7A3030;
+  background: transparent;
+  color: #ffffff;
+  border: 1px solid #B35A5A;
   padding: 2px 8px;
-  border-radius: 6px;
+  border-radius: 4px;
   margin-bottom: 8px;
 }
 .s-top5-card h3 { font-size: 13px; font-weight: 500; color: #E2E8F0; line-height: 1.4; margin: 0 0 4px; }
@@ -256,11 +257,11 @@ body, body.list { background-color: #242731 !important; }
   {{ $transac = sort $transac "Date" "desc" }}
 
   {{ if or $piliers $transac }}
-  <div class="s-section-title">Les guides de Sophie</div>
+  <div class="s-section-title">Les dossiers de Sophie</div>
   <div class="s-top5-grid">
     {{ range first 3 $piliers }}
     <a href="{{ .Permalink }}" class="s-top5-card">
-      <div class="s-top5-badge">Pilier</div>
+      <div class="s-top5-badge">Dossier</div>
       <h3>{{ .Title }}</h3>
       <p>{{ .Description | default "Guide de fond Sophie" }}</p>
     </a>
