@@ -5,6 +5,7 @@ date: "2026-04-19"
 draft: false
 slug: "ecran-pc-anti-fatigue-erreur-font-90-gens"
 categories: ["Tech"]
+articleType: "pilier"
 ---
 
 ## La lumière bleue, ce faux coupable ?

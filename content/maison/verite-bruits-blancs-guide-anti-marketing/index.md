@@ -5,6 +5,7 @@ date: "2026-04-19"
 draft: false
 slug: "verite-bruits-blancs-guide-anti-marketing"
 categories: ["Maison"]
+articleType: "pilier"
 ---
 
 ## Le bruit blanc, c'est quoi au juste ?

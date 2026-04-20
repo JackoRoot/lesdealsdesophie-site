@@ -5,6 +5,7 @@ date: "2026-04-19"
 draft: false
 slug: "dyson-v15-tineco-s15-verdict-apres-mois-essai"
 categories: ["Maison"]
+articleType: "transactionnel"
 ---
 
 ## Pourquoi ce duel mérite votre attention

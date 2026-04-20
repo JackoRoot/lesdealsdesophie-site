@@ -5,6 +5,7 @@ date: "2026-04-19"
 draft: false
 slug: "deshumidificateur-tout-comprendre-avant-acheter"
 categories: ["Maison"]
+articleType: "pilier"
 ---
 
 ## L'humidité relative : le chiffre à maîtriser chez vous

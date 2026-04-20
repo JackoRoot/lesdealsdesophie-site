@@ -5,6 +5,7 @@ date: "2026-04-19"
 draft: false
 slug: "dormir-18-personne-ne-vous-dit-vraiment"
 categories: ["Maison"]
+articleType: "pilier"
 ---
 
 ## Pourquoi une chambre fraîche facilite l'endormissement

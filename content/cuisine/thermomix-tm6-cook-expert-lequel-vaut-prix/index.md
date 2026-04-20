@@ -5,6 +5,7 @@ date: "2026-04-19"
 draft: false
 slug: "thermomix-tm6-cook-expert-lequel-vaut-prix"
 categories: ["Cuisine"]
+articleType: "transactionnel"
 ---
 
 ## Pourquoi ce duel mérite votre attention

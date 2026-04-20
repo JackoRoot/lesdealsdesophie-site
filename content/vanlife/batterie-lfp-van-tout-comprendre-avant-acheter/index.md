@@ -5,6 +5,7 @@ date: "2026-04-19"
 draft: false
 slug: "batterie-lfp-van-tout-comprendre-avant-acheter"
 categories: ["Vanlife"]
+articleType: "pilier"
 ---
 
 ## La sécurité d'abord : pourquoi le LFP domine

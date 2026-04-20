@@ -5,6 +5,7 @@ date: "2026-04-19"
 draft: false
 slug: "panneau-solaire-van-tout-comprendre-avant-acheter"
 categories: ["Vanlife"]
+articleType: "pilier"
 ---
 
 ## Le rendement : la course aux watts sur un toit limité

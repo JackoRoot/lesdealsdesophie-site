@@ -5,6 +5,7 @@ date: "2026-04-19"
 draft: false
 slug: "avis-ecouteurs-amazon-meritent-ils-engouement"
 categories: ["Tech"]
+articleType: "transactionnel"
 ---
 
 ## Pourquoi j'ai testé ce produit

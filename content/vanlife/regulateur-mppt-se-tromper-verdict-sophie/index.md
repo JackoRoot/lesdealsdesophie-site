@@ -5,6 +5,7 @@ date: "2026-04-19"
 draft: false
 slug: "regulateur-mppt-se-tromper-verdict-sophie"
 categories: ["Vanlife"]
+articleType: "transactionnel"
 ---
 
 ## Pourquoi 3 modèles et pas 10

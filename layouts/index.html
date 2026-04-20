@@ -249,17 +249,35 @@ body, body.list { background-color: #242731 !important; }
 <div class="inner-wrapper">
 <div class="sophie-page">
 
-  {{ $top5 := where .Site.RegularPages "Section" "top-5" }}
-  {{ if $top5 }}
+  {{ $allArticles := where .Site.RegularPages "Section" "in" (slice "cuisine" "maison" "tech" "vanlife") }}
+  {{ $piliers := where $allArticles "Params.articleType" "pilier" }}
+  {{ $piliers = sort $piliers "Date" "desc" }}
+  {{ $transac := where $allArticles "Params.articleType" "transactionnel" }}
+  {{ $transac = sort $transac "Date" "desc" }}
+
+  {{ if or $piliers $transac }}
   <div class="s-section-title">Les guides de Sophie</div>
   <div class="s-top5-grid">
-    {{ range first 3 $top5 }}
+    {{ range first 3 $piliers }}
     <a href="{{ .Permalink }}" class="s-top5-card">
+      <div class="s-top5-badge">Pilier</div>
       <h3>{{ .Title }}</h3>
-      <p>{{ .Description | default "Guide d'achat Sophie" }}</p>
+      <p>{{ .Description | default "Guide de fond Sophie" }}</p>
     </a>
     {{ end }}
   </div>
+  {{ if $transac }}
+  <div class="s-section-title" style="margin-top:24px;">Sélections &amp; comparatifs</div>
+  <div class="s-top5-grid">
+    {{ range first 3 $transac }}
+    <a href="{{ .Permalink }}" class="s-top5-card">
+      <div class="s-top5-badge">{{ index .Params.categories 0 }}</div>
+      <h3>{{ .Title }}</h3>
+      <p>{{ .Description | default "Comparatif Sophie" }}</p>
+    </a>
+    {{ end }}
+  </div>
+  {{ end }}
   {{ end }}
 
   {{ $deals := where .Site.RegularPages "Section" "deals" }}

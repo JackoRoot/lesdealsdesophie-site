@@ -5,6 +5,7 @@ date: "2026-04-19"
 draft: false
 slug: "sony-xm5-bose-qc-ultra-oubliez-fiche-technique"
 categories: ["Tech"]
+articleType: "transactionnel"
 ---
 
 ## Pourquoi ce duel mérite votre attention

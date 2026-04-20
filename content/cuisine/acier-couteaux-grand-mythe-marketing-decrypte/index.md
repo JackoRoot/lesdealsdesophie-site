@@ -5,6 +5,7 @@ date: "2026-04-19"
 draft: false
 slug: "acier-couteaux-grand-mythe-marketing-decrypte"
 categories: ["Cuisine"]
+articleType: "pilier"
 ---
 
 ## La dureté Rockwell (HRC) : le secret d'un tranchant qui dure

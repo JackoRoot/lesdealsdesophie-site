@@ -5,6 +5,7 @@ date: "2026-04-19"
 draft: false
 slug: "verite-air-fryer-guide-anti-marketing"
 categories: ["Cuisine"]
+articleType: "pilier"
 ---
 
 ## Comprendre la convection forcée à haute vitesse

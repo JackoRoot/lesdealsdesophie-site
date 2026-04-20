@@ -5,6 +5,7 @@ date: "2026-04-19"
 draft: false
 slug: "verite-chauffage-van-guide-anti-marketing"
 categories: ["Vanlife"]
+articleType: "pilier"
 ---
 
 ## Le fonctionnement : un air chaud, sûr et sec

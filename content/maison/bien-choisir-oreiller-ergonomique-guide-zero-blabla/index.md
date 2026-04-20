@@ -5,6 +5,7 @@ date: "2026-04-19"
 draft: false
 slug: "bien-choisir-oreiller-ergonomique-guide-zero-blabla"
 categories: ["Maison"]
+articleType: "transactionnel"
 ---
 
 ## Pourquoi 3 modèles et pas 10
