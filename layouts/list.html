@@ -127,9 +127,11 @@
     <p class="list-count">{{ len .Pages }} articles</p>
   </div>
 
+  <!-- DEBUG_TITLE: {{ .Title }} | lower: {{ .Title | lower }} -->
   {{ $catImgs := dict "cuisine" "/images/categorie-cuisine.png" "maison" "/images/categorie-maison.png" "tech" "/images/categorie-tech.png" "vanlife" "/images/categorie-vanlife.png" }}
   {{ $catPos := dict "cuisine" "center 70%" "maison" "center 70%" "tech" "center 35%" "vanlife" "center 50%" }}
   {{ $img := index $catImgs (.Title | lower) }}
+  <!-- DEBUG_IMG: {{ $img }} -->
   {{ if $img }}
   {{ $pos := index $catPos (.Title | lower) }}
   <div class="cat-banner">
