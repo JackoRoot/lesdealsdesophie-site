@@ -31,6 +31,18 @@
     </div>
     <div class="master-wrapper">
         {{ partialCached "header.html" . .Page -}}
+        {{- if eq .Kind "term" }}
+        {{ $catImgs := dict "cuisine" "/images/categorie-cuisine.png" "maison" "/images/categorie-maison.png" "tech" "/images/categorie-tech.png" "vanlife" "/images/categorie-vanlife.png" }}
+        {{ $catPos  := dict "cuisine" "center 70%" "maison" "center 70%" "tech" "center 35%" "vanlife" "center 50%" }}
+        {{ $img := index $catImgs (.Title | lower) }}
+        {{ if $img }}
+        {{ $pos := index $catPos (.Title | lower) }}
+        <style>.cat-banner{width:100%;height:320px;overflow:hidden;margin-bottom:24px;border:1px solid #2D323E;border-radius:12px;}.cat-banner img{width:100%;height:100%;object-fit:cover;display:block;}</style>
+        <div style="max-width:900px;margin:0 auto;padding:0 20px;">
+          <div class="cat-banner"><img src="{{ $img }}" alt="{{ .Title }}" loading="lazy" style="object-position:{{ $pos }};" /></div>
+        </div>
+        {{ end }}
+        {{- end }}
         <main class="main">
             {{- block "main" . }}{{ end }}
         </main>
