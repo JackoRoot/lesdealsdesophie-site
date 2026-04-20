@@ -11,9 +11,25 @@
 }
 
 .list-container { max-width: 900px; margin: 0 auto; padding: 20px; }
-.list-header { margin-bottom: 24px; }
+.list-header { margin-bottom: 16px; }
 .list-title { font-size: 22px; font-weight: 500; color: var(--text); margin-bottom: 4px; }
 .list-count { font-size: 13px; color: var(--subtle); }
+
+.cat-banner {
+  width: 100%;
+  height: 320px;
+  border-radius: 12px;
+  overflow: hidden;
+  margin-bottom: 24px;
+  border: 1px solid var(--border);
+}
+.cat-banner img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 70%;
+  display: block;
+}
 
 .deals-grid {
   display: grid;
@@ -110,6 +126,16 @@
     </h1>
     <p class="list-count">{{ len .Pages }} articles</p>
   </div>
+
+  {{ $catImgs := dict "Cuisine" "/images/categorie-cuisine.png" "Maison" "/images/categorie-maison.png" "Tech" "/images/categorie-tech.png" "Vanlife" "/images/categorie-vanlife.png" }}
+  {{ $catPos := dict "Cuisine" "center 70%" "Maison" "center 70%" "Tech" "center 35%" "Vanlife" "center 50%" }}
+  {{ $img := index $catImgs .Title }}
+  {{ if $img }}
+  {{ $pos := index $catPos .Title }}
+  <div class="cat-banner">
+    <img src="{{ $img }}" alt="{{ .Title }}" loading="lazy" style="object-position: {{ $pos }};" />
+  </div>
+  {{ end }}
 
   <div class="deals-grid">
     {{ range .Pages }}

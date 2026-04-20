@@ -119,7 +119,7 @@ img.loaded { opacity: 1; }
 }
 
 /* overflow-x body */
-body { overflow-x: hidden; }
+body { overflow-x: hidden; zoom: 1.15; }
 
 /* Images 4:3 */
 .s-card-img { aspect-ratio: 4/3; }
