@@ -273,7 +273,7 @@ body { overflow-x: hidden; }
     padding: 8px;
     position: absolute;
     right: 16px;
-    bottom: 6px;
+    bottom: 0;
   }
   .hamburger span {
     display: block;
