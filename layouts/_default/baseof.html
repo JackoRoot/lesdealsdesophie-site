@@ -32,7 +32,7 @@
     <div class="master-wrapper">
         {{ partialCached "header.html" . .Page -}}
         {{- if eq .Kind "term" }}
-        {{ $catImgs := dict "cuisine" "/images/categorie-cuisine.png" "maison" "/images/categorie-maison.png" "tech" "/images/categorie-tech.png" "vanlife" "/images/categorie-vanlife.png" }}
+        {{ $catImgs := dict "cuisine" "/images/categorie-cuisine.webp" "maison" "/images/categorie-maison.webp" "tech" "/images/categorie-tech.webp" "vanlife" "/images/categorie-vanlife.webp" }}
         {{ $catPos  := dict "cuisine" "center 70%" "maison" "center 70%" "tech" "center 35%" "vanlife" "center 50%" }}
         {{ $img := index $catImgs (.Title | lower) }}
         {{ if $img }}

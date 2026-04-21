@@ -286,7 +286,7 @@ body, body.list { background-color: #242731 !important; }
 
   {{ if or $piliers $transac }}
   <div class="s-section-title">Les dossiers de Sophie</div>
-  {{ $catImgs := dict "Cuisine" "/images/categorie-cuisine.png" "Maison" "/images/categorie-maison.png" "Tech" "/images/categorie-tech.png" "Vanlife" "/images/categorie-vanlife.png" }}
+  {{ $catImgs := dict "Cuisine" "/images/categorie-cuisine.webp" "Maison" "/images/categorie-maison.webp" "Tech" "/images/categorie-tech.webp" "Vanlife" "/images/categorie-vanlife.webp" }}
   {{ with index $piliers 0 }}
     {{ $cat := index .Params.categories 0 }}
     {{ $img := index $catImgs $cat }}

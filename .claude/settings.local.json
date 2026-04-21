@@ -14,7 +14,9 @@
       "Bash(git -C /c/Users/pilip/Desktop/lesdealsdesophie-site commit -m \"Big Bang — 15 articles publication initiale\")",
       "Bash(python dev/publication_hugo.py --mode bigbang --no-push)",
       "Bash(git *)",
-      "Bash(python dev/generate_docs.py)"
+      "Bash(python dev/generate_docs.py)",
+      "Bash(python *)",
+      "Bash(pip install *)"
     ]
   }
 }
