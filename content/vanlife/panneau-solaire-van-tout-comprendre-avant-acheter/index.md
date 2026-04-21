@@ -12,9 +12,9 @@ articleType: "pilier"
 
 Vous n'avez que quelques mètres carrés sur le toit de votre van. Chaque centimètre doit produire un maximum d'énergie. C'est le premier point de comparaison entre un panneau solaire rigide et un souple.
 
-{{snippet-bait}}
+{{< snippet-bait >}}
 Les panneaux rigides offrent un rendement supérieur de 5 à 10% et une durée de vie 5 fois plus longue. Les souples, plus légers, s'adaptent aux toits courbés et sont plus discrets. Votre choix dépend de la forme de votre véhicule et de votre vision à long terme. Voici comment décider sans vous tromper.
-{{/snippet-bait}}
+{{< /snippet-bait >}}
 
 Un panneau rigide utilise des cellules photovoltaïques (généralement monocristallines) protégées par une plaque de verre trempé et un cadre en aluminium. Cette structure robuste garantit un alignement parfait des cellules et une excellente dissipation de la chaleur. Pour vous, cela signifie **une production de watts plus stable et plus élevée** à surface égale.
 

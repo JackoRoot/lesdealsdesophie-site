@@ -15,9 +15,9 @@ Imaginez un morceau de métal que l'on chauffe. Il devient d'abord rouge, puis o
 
 Cette information est cruciale pour votre espace de travail. Choisir la mauvaise température de couleur n'est pas une question de goût, mais d'impact direct sur votre bien-être et votre productivité. C'est la différence entre un bureau où vous êtes alerte et un salon où vous avez envie de vous assoupir.
 
-{{snippet-bait}}
+{{< snippet-bait >}}
 Pour un bureau, visez entre 4000 et 5000 Kelvin. En dessous, la lumière est trop chaude et favorise la détente, pas la concentration. Au-dessus, elle devient agressive, proche de la lumière d'un bloc opératoire, et peut causer des maux de tête. Cette plage de "blanc neutre" **améliore votre concentration et réduit la fatigue visuelle**.
-{{/snippet-bait}}
+{{< /snippet-bait >}}
 
 ## La plage Kelvin idéale pour travailler sur écran
 

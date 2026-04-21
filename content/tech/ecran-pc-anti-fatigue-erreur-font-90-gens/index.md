@@ -20,9 +20,9 @@ Le vrai problème est souvent plus sournois. La fatigue oculaire est un cocktail
 
 Votre écran vous semble parfaitement stable. Pourtant, il y a de fortes chances qu'il clignote plusieurs centaines de fois par seconde. C'est un phénomène appelé PWM (Pulse-Width Modulation), ou modulation de largeur d'impulsion. Pour faire simple, au lieu de baisser réellement la puissance des LED du rétroéclairage pour réduire la luminosité, beaucoup d'écrans bas de gamme les allument et les éteignent à très haute fréquence.
 
-{{snippet-bait}}
+{{< snippet-bait >}}
 La fatigue oculaire face à un écran n'est pas une fatalité. Les deux coupables principaux sont le scintillement invisible (PWM) et une densité de pixels trop faible. Cherchez la certification "Flicker-Free" (DC Dimming) et visez une résolution QHD (1440p) au minimum pour un écran de 27 pouces. **Vos yeux vous remercieront en fin de journée.**
-{{/snippet-bait}}
+{{< /snippet-bait >}}
 
 Votre œil conscient ne le voit pas, mais votre pupille, elle, réagit. Elle tente de s'adapter en permanence à ces micro-variations de lumière. C'est un effort musculaire constant et épuisant pour votre iris. À la fin de la journée, vos muscles oculaires sont aussi fatigués qu'après un marathon. C'est une des causes majeures des maux de tête et de la sécheresse oculaire.
 

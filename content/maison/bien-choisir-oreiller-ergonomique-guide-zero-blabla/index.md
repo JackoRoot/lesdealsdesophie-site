@@ -12,12 +12,12 @@ articleType: "transactionnel"
 
 Le marché de l'oreiller est saturé de promesses. La réalité, c'est que la plupart des modèles "ergonomiques" sont des blocs de mousse fixes qui ne s'adaptent à personne. Pour comprendre ce qui différencie un vrai oreiller ergonomique d'un simple bloc de mousse, [Oreiller ergonomique : L'erreur que font 90% des acheteurs.](/maison/oreiller-ergonomique-erreur-font-90-acheteurs/) décortique les critères techniques. Le critère qui élimine 99% de l'offre est simple : l'ajustabilité.
 
-{{snippet-bait}}
+{{< snippet-bait >}}
 Voici les 3 oreillers ergonomiques qui se distinguent par leur conception personnalisable en hauteur et fermeté :
 *   **Emma Original :** pour sa modularité à couches.
 *   **Wopilo Plus :** pour son cœur interchangeable et son garnissage sur mesure.
 *   **TEMPUR® Original :** pour son soutien cervical précis et ses tailles adaptées à votre morphologie.
-{{/snippet-bait}}
+{{< /snippet-bait >}}
 
 ## Ce qui élimine 90% du marché
 

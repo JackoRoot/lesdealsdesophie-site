@@ -16,9 +16,9 @@ La dureté d'une lame se mesure sur l'échelle Rockwell C, notée HRC. C'est un 
 
 Concrètement, un couteau allemand classique, comme ceux en acier X50CrMoV15, se situe autour de 56-58 HRC. C'est un bon compromis, mais son tranchant s'émousse assez vite. À l'inverse, un couteau japonais en acier VG-10 ou SG2 grimpe facilement à 60-63 HRC. La différence n'est pas un détail. Un couteau à 62 HRC **conserve son fil de coupe plusieurs semaines, voire des mois**, avec un usage domestique normal. Celui à 57 HRC demandera un coup de fusil ou de pierre toutes les semaines pour rester performant. Votre choix dépend donc de votre patience face à l'entretien.
 
-{{snippet-bait}}
+{{< snippet-bait >}}
 Un couteau dur (60 HRC et plus) garde son fil des semaines. Un acier plus tendre (56-58 HRC) pardonne les chocs mais demande un affûtage régulier. Votre choix dépend de votre usage et de votre patience. La dureté n'est pas tout : un acier qui ne rouille pas et ne s'écaille pas est aussi important.
-{{/snippet-bait}}
+{{< /snippet-bait >}}
 
 Attention, la dureté a un revers. Un acier très dur est aussi plus cassant, comme du verre. Si vous tapez sur un os ou un noyau de fruit, une lame à 63 HRC risque de présenter une micro-écaille (un "chip") sur le fil. La lame à 57 HRC, plus "molle", aura tendance à se tordre légèrement, un défaut plus facile à corriger.
 

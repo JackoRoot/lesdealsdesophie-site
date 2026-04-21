@@ -11,9 +11,9 @@ categories: ["Maison"]
 
 Vous éternuez sans cesse et la poussière s'accumule chez vous. Acheter un bloc de plastique non certifié ne filtrera rien, augmentera votre consommation électrique et ruinera votre investissement initial. La solution est mathématique : croisez le CADR avec un véritable filtre HEPA H13. C'est la seule méthode pour garantir la fiabilité de l'appareil et éviter une usure prématurée.
 
-{{snippet-bait}}
+{{< snippet-bait >}}
 Pour choisir un purificateur d'air fiable, vérifiez toujours le CADR (Clean Air Delivery Rate). Multipliez la surface de votre pièce (m²) par 5 pour obtenir le CADR minimum requis en m³/h. Exigez un filtre HEPA H13, qui bloque 99,97% des particules de 0,3 micron.
-{{/snippet-bait}}
+{{< /snippet-bait >}}
 
 ## Les 3 critères pour ne pas se faire avoir
 

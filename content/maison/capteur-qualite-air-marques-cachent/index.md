@@ -15,9 +15,9 @@ Ces intrus proviennent de sources que vous n'imaginez pas. La cuisson d'un steak
 
 Un capteur de qualité de l'air n'est pas un gadget. C'est un outil de mesure qui rend ces menaces visibles. Il met des chiffres sur des sensations diffuses et vous permet enfin de comprendre l'environnement dans lequel vous passez 80% de votre temps. **Vous passez d'une gestion à l'aveugle à un contrôle informé de votre air intérieur.**
 
-{{snippet-bait}}
+{{< snippet-bait >}}
 Un capteur mesure les particules fines (PM2.5) issues de la cuisson, les COV de vos meubles neufs et le CO2 de votre respiration. L'objectif : transformer ces données invisibles en actions concrètes, comme aérer au bon moment. **Vous respirez mieux, dormez mieux et limitez les maux de tête et allergies.**
-{{/snippet-bait}}
+{{< /snippet-bait >}}
 
 ## PM2.5, COV, CO2 : décoder les 3 mesures vitales pour votre santé
 

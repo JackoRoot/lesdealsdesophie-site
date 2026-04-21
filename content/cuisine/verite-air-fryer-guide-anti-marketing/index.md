@@ -16,9 +16,9 @@ Imaginez un vortex de chaleur qui enveloppe instantanément vos aliments. Un ven
 
 Pour vous, cela signifie deux choses. D'abord, **un temps de cuisson réduit de 20 à 50% par rapport à un four traditionnel**. Ensuite, vous obtenez une texture qui imite la friture, ce qu'un four ne peut pas faire. C'est la physique de l'effet Maillard, accélérée par la vitesse de l'air.
 
-{{snippet-bait}}
+{{< snippet-bait >}}
 Un Air Fryer utilise une convection forcée 10 fois plus rapide qu'un four traditionnel. Résultat : des aliments croustillants à l'extérieur et moelleux à l'intérieur avec 80% de matières grasses en moins. La clé n'est pas la chaleur, mais la vitesse de l'air qui saisit la surface de vos aliments.
-{{/snippet-bait}}
+{{< /snippet-bait >}}
 
 ## La puissance : le critère non négociable
 

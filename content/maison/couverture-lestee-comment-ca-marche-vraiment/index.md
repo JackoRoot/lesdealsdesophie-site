@@ -17,9 +17,9 @@ Concrètement, cette stimulation aide à réduire la production de cortisol, l'h
 
 Je me souviens d'une nuit particulièrement difficile, après une semaine de travail intense qui avait mal fini. Il était 3 heures du matin, mon cœur battait la chamade, impossible de stopper le flot de pensées. J'ai attrapé ma couverture lestée, que j'utilisais alors de manière sporadique. En quelques minutes sous son poids, j'ai senti un changement physique. La pression a forcé mon attention à se détourner de mon anxiété pour se concentrer sur mes sensations corporelles. Ce n'était pas une solution au problème, mais c'était un disjoncteur. Elle a brisé le cycle de panique, me donnant l'ancrage nécessaire pour retrouver une respiration normale et finalement m'endormir.
 
-{{snippet-bait}}
+{{< snippet-bait >}}
 Une couverture lestée efficace pèse 8 à 12 % de votre poids corporel. Ses microbilles de verre, silencieuses et denses, sont réparties dans de petits compartiments pour une pression homogène. Le résultat : une baisse du cortisol et une stimulation de la sérotonine, favorisant un endormissement plus rapide et un sommeil plus profond.
-{{/snippet-bait}}
+{{< /snippet-bait >}}
 
 ## Choisir le poids idéal : la règle des 10 %
 

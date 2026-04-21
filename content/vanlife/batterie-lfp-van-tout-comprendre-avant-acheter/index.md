@@ -16,9 +16,9 @@ La structure chimique du LiFePO4 est fondamentalement plus stable. Les liaisons 
 
 Contrairement aux batteries au plomb qui peuvent dégager de l'hydrogène lors de la charge, une batterie LFP est scellée et ne produit aucune émission. Vous pouvez donc l'installer à l'intérieur de votre habitacle sans aucun danger pour votre santé. C'est un point essentiel souvent oublié. Choisir une LFP, c'est avant tout choisir de dormir sur vos deux oreilles.
 
-{{snippet-bait}}
+{{< snippet-bait >}}
 Une batterie LFP offre plus de 3000 cycles de charge contre 300 pour une batterie plomb-acide (AGM). Vous pouvez utiliser 90% de sa capacité sans l'endommager, contre 50% pour une AGM. Concrètement, pour le même poids, vous obtenez presque le double d'autonomie et une durée de vie dix fois supérieure.
-{{/snippet-bait}}
+{{< /snippet-bait >}}
 
 ## Le vrai calcul : coût par cycle, pas par euro
 

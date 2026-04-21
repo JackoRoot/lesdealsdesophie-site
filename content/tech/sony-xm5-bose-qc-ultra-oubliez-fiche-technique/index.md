@@ -14,9 +14,9 @@ Choisir un casque à réduction de bruit haut de gamme vous mène souvent à ce 
 
 L'un mise sur la performance brute et l'endurance. L'autre parie sur l'expérience utilisateur et l'immersion. Votre choix dépendra de ce que vous valorisez le plus au quotidien.
 
-{{snippet-bait}}
+{{< snippet-bait >}}
 Le Sony WH-1000XM5 l'emporte pour sa supériorité technique : une réduction de bruit plus efficace sur les voix et une autonomie supérieure de 6 heures. Si votre priorité est d'isoler le monde extérieur le plus longtemps possible avec une qualité audio haute résolution, il représente le choix le plus rationnel.
-{{/snippet-bait}}
+{{< /snippet-bait >}}
 
 ## Les specs qui comptent vraiment
 

@@ -15,9 +15,9 @@ Cette approche archaïque est la cause directe d'une couverture de nettoyage inc
 
 La navigation laser LiDAR change complètement la donne. Au lieu de subir son environnement, le robot l'analyse et le comprend en temps réel. Le résultat est **un nettoyage systématique, qui n'oublie aucune zone** et optimise chaque déplacement. Votre aspirateur ne passe plus trois fois au même endroit : il suit un trajet logique et retourne à sa base une fois le travail terminé.
 
-{{snippet-bait}}
+{{< snippet-bait >}}
 La technologie LiDAR permet à un aspirateur robot de cartographier votre logement avec une précision millimétrique grâce à un laser rotatif. Le bénéfice direct pour vous ? Un nettoyage deux à trois fois plus rapide, une couverture de 100% des surfaces accessibles et la possibilité de définir des zones de nettoyage précises depuis votre smartphone.
-{{/snippet-bait}}
+{{< /snippet-bait >}}
 
 ## Le LiDAR décodé : un radar laser pour votre sol
 

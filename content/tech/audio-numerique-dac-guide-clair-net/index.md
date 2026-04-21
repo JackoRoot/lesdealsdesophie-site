@@ -15,9 +15,9 @@ Chaque appareil capable de jouer du son en possède un. Son rôle est de traduir
 
 Un DAC externe est un boîtier dédié à cette unique tâche. En sortant cette fonction critique de l'environnement "bruyant" de votre ordinateur, vous isolez le processus de conversion. **Le résultat est un son plus propre, avec une scène sonore mieux définie et des détails que vous n'aviez jamais entendus.** C'est la première étape, et la plus importante, pour améliorer votre écoute.
 
-{{snippet-bait}}
+{{< snippet-bait >}}
 Le son de votre ordinateur ou smartphone vous déçoit ? Le coupable est souvent son convertisseur (DAC) intégré, sacrifié sur l'autel des coûts. Un DAC externe, même abordable, isole le traitement audio des interférences. Vous gagnez immédiatement en clarté, en détail et en dynamique, redécouvrant vos morceaux préférés.
-{{/snippet-bait}}
+{{< /snippet-bait >}}
 
 ## Qu'est-ce qu'un DAC ? Le traducteur du numérique
 

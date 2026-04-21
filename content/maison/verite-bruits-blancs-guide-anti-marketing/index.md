@@ -16,9 +16,9 @@ Le bruit blanc n'est pas un silence, c'est son contraire. Imaginez un son qui co
 
 Concrètement, les bruits perturbateurs comme les aboiements ou les discussions des voisins viennent se noyer dans ce flux sonore continu. Votre cerveau, au lieu de sursauter à chaque nouvelle information sonore, s'habitue au bruit blanc et ignore les autres. **Le bénéfice est un sommeil plus stable et profond**, car vous réduisez drastiquement le nombre de micro-réveils dont vous n'avez même pas conscience.
 
-{{snippet-bait}}
+{{< snippet-bait >}}
 Le bruit blanc n'est pas un son apaisant, mais un outil physique. Il combine toutes les fréquences audibles pour créer un "mur" qui masque les bruits dérangeants (circulation, voisins). **Le bénéfice concret : votre cerveau ignore les interruptions, vous offrant un sommeil plus profond et continu sans vous abîmer les oreilles.**
-{{/snippet-bait}}
+{{< /snippet-bait >}}
 
 ## Bruit blanc, rose, brun : choisir votre couleur de son
 

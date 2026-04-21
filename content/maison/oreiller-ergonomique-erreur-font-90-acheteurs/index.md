@@ -15,9 +15,9 @@ Votre tête, votre cou et votre colonne doivent former une ligne droite. Si votr
 
 Le bénéfice est direct : **vous offrez un repos complet à vos muscles cervicaux**. Ils ne luttent plus toute la nuit pour compenser une mauvaise posture. Vous vous levez sans cette sensation de blocage, avec une meilleure mobilité dès les premières minutes de la journée. C'est la base d'un sommeil réellement réparateur.
 
-{{snippet-bait}}
+{{< snippet-bait >}}
 Un oreiller ergonomique n'est pas un gadget. Sa densité, mesurée en kg/m³, garantit un soutien durable. Sa forme, souvent en vague, doit combler l'espace entre votre nuque et le matelas. L'objectif : maintenir votre colonne vertébrale parfaitement droite pour **éliminer les douleurs cervicales et améliorer la qualité de votre sommeil.**
-{{/snippet-bait}}
+{{< /snippet-bait >}}
 
 ## Forme et position : à chaque dormeur son oreiller
 

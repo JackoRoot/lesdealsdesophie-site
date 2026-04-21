@@ -16,9 +16,9 @@ Dans une pièce surchauffée à 21°C ou 22°C, votre organisme lutte pour évac
 
 Elle facilite cette baisse de température naturelle. L'air frais au contact de votre peau accélère l'échange thermique. **Vous envoyez un signal clair et direct à votre cerveau : il est l'heure de dormir.** Votre corps n'a plus à se battre contre un environnement chaud. L'endormissement devient plus rapide, plus instinctif. C'est de la pure physiologie, pas une question de confort subjectif.
 
-{{snippet-bait}}
+{{< snippet-bait >}}
 Une chambre à 18-19°C n'est pas un simple confort. C'est un signal biologique qui accélère votre endormissement en aidant votre corps à baisser sa température centrale. Résultat : moins de temps à chercher le sommeil, et des cycles de sommeil profond plus longs et plus réparateurs dès le début de la nuit.
-{{/snippet-bait}}
+{{< /snippet-bait >}}
 
 ## Le lien entre température et sommeil profond
 

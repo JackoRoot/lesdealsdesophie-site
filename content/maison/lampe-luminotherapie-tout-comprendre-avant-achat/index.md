@@ -15,9 +15,9 @@ Ce cycle d'environ 24 heures régule presque tout dans votre corps : sommeil, fa
 
 La lumière vive du matin, captée par des photorécepteurs dans votre rétine, envoie un signal clair à votre cerveau : stoppe la production de mélatonine et lance celle de cortisol. C'est le véritable bouton "ON" de votre journée. Comprendre ce mécanisme est la première étape pour reprendre le contrôle de votre énergie.
 
-{{snippet-bait}}
+{{< snippet-bait >}}
 Une lampe de luminothérapie efficace doit fournir 10 000 lux pour stopper la production de mélatonine. La température de couleur, mesurée en Kelvin, doit être supérieure à 5000K pour imiter la lumière du jour. Ces deux chiffres sont les seuls qui comptent pour resynchroniser votre horloge biologique et retrouver de l'énergie.
-{{/snippet-bait}}
+{{< /snippet-bait >}}
 
 ## Lux et Kelvin : les deux chiffres à ne jamais ignorer
 

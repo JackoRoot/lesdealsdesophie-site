@@ -16,9 +16,9 @@ Le taux idéal se situe entre 40 % et 60 %. Au-delà de 60 %, les problèmes com
 
 Un simple hygromètre, qui coûte une dizaine d'euros, vous donnera une lecture précise. C'est le point de départ de toute action saine. Si vous dépassez régulièrement les 60-65 %, un déshumidificateur n'est pas un gadget, c'est un outil de préservation de votre santé et de votre bâti. Il s'attaque à la cause, pas seulement aux conséquences comme les
 
-{{snippet-bait}}
+{{< snippet-bait >}}
 Un déshumidificateur bien choisi maintient l'humidité sous 60 %, stoppant la prolifération des moisissures et des acariens. Pour une chambre de 20 m², un modèle de 10L/jour suffit. Pour une cave de 50 m², visez 30L/jour. **Vous protégez votre santé et la structure de votre maison.**
-{{/snippet-bait}}
+{{< /snippet-bait >}}
 
 ## Déshumidificateur à compresseur ou à effet Peltier ?
 

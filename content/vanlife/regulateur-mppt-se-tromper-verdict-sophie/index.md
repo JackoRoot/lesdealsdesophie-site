@@ -14,12 +14,12 @@ Le marché des régulateurs de charge MPPT est saturé. Des dizaines de référe
 
 Seuls les modèles avec un historique solide et des retours utilisateurs constants sont retenus. Vous ne trouverez ici que des appareils qui ont fait leurs preuves.
 
-{{snippet-bait}}
+{{< snippet-bait >}}
 Voici les 3 régulateurs MPPT retenus pour leur performance et leur durabilité :
 *   **Victron SmartSolar 100/30 :** Pour sa connectivité sans faille.
 *   **Renogy Rover 40A :** Pour son rapport puissance/prix.
 *   **EPEVER Tracer 4210AN :** Pour sa robustesse à budget maîtrisé.
-{{/snippet-bait}}
+{{< /snippet-bait >}}
 
 ## Ce qui élimine 90% du marché
 

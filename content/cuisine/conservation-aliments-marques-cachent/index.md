@@ -15,9 +15,9 @@ L'oxygène est le premier coupable. Il provoque l'oxydation, un processus chimiq
 
 Comprendre ce trio, c'est détenir la clé. Chaque technique de conservation, de la plus ancienne à la plus moderne, ne fait que neutraliser un ou plusieurs de ces ennemis. Vous n'avez pas besoin d'un laboratoire, juste de comprendre contre quoi vous vous battez. Maîtriser ces bases vous permettra de choisir la bonne méthode pour chaque aliment, et **d'arrêter de jeter votre argent à la poubelle**.
 
-{{snippet-bait}}
+{{< snippet-bait >}}
 L'oxygène oxyde, l'humidité nourrit les bactéries, la chaleur accélère leur croissance. Maîtriser ces trois facteurs est la seule méthode fiable pour stopper le gaspillage. Pour vous, cela signifie des économies directes et des aliments qui conservent leur goût et leurs nutriments, sans gadget superflu.
-{{/snippet-bait}}
+{{< /snippet-bait >}}
 
 ## Le froid : ralentir, pas arrêter
 

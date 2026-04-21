@@ -14,9 +14,9 @@ Le Dyson V15 et le Tineco S15 représentent deux visions du nettoyage haut de ga
 
 Choisir entre les deux, c'est décider si vous préférez la performance maximale ou une expérience utilisateur plus assistée. Ce comparatif va droit au but pour vous aider à investir dans le bon appareil, celui qui correspond à vos besoins réels et non au discours marketing.
 
-{{snippet-bait}}
+{{< snippet-bait >}}
 Le Dyson V15 Detect Absolute l'emporte pour sa puissance d'aspiration brute (240 Airwatts) et sa brosse lumineuse qui traque la poussière invisible. Si vous cherchez la performance maximale sans compromis pour un nettoyage en profondeur, c'est votre aspirateur. Le Tineco S15 Pro se défend avec son intelligence, mais cède sur la force pure.
-{{/snippet-bait}}
+{{< /snippet-bait >}}
 
 ## Les specs qui comptent vraiment
 

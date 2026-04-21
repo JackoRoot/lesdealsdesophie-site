@@ -16,9 +16,9 @@ Son principe est simple. L'appareil aspire de l'air frais depuis l'extérieur de
 
 La chaleur produite est transférée via un échangeur de chaleur à un second circuit d'air. Ce circuit aspire l'air de votre habitacle, le réchauffe au contact de l'échangeur, puis le souffle à nouveau à l'intérieur. Les gaz d'échappement, eux, sont évacués à l'extérieur par un tuyau dédié. **Vous obtenez un air chaud, sec et totalement propre**, sans aucun risque d'intoxication au monoxyde de carbone si l'installation est correcte.
 
-{{snippet-bait}}
+{{< snippet-bait >}}
 Un chauffage diesel bien installé sépare l'air de combustion de l'air que vous respirez. L'échangeur de chaleur garantit zéro monoxyde de carbone à l'intérieur. Le vrai bénéfice : un air chaud, sec et sûr, qui combat la condensation et vous offre une chaleur constante, même par des températures négatives.
-{{/snippet-bait}}
+{{< /snippet-bait >}}
 
 ## Choisir la bonne puissance : le piège du "trop"
 

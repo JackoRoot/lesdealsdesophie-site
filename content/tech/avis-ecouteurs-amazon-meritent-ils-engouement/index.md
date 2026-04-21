@@ -14,9 +14,9 @@ Mes écouteurs principaux, ceux à 200€, m'ont lâchée. Batterie à plat, jus
 
 Mon plan de départ : une simple solution de dépannage, le temps de faire réparer les autres. Le résultat de ce test improvisé a été bien différent. Ces écouteurs sont restés dans mes oreilles bien plus longtemps que prévu.
 
-{{snippet-bait}}
+{{< snippet-bait >}}
 **Mon Verdict (8/10) :** Les Soundcore P40i prouvent qu'on peut avoir une autonomie monstre et un son correct pour moins de 50€. Ils sont faits pour vous si votre priorité absolue est de ne jamais tomber en panne de batterie, que ce soit pour vos trajets quotidiens ou vos longues sessions de travail.
-{{/snippet-bait}}
+{{< /snippet-bait >}}
 
 ## Ce que la fiche technique ne dit pas
 

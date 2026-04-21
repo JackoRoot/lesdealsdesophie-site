@@ -12,9 +12,9 @@ articleType: "transactionnel"
 
 Le Thermomix TM6 et le Magimix Cook Expert dominent le marché des robots cuiseurs haut de gamme. L'un mise tout sur son écosystème de cuisine guidée, l'autre sur sa polyvalence et sa robustesse. Choisir entre les deux revient à définir votre priorité en cuisine : l'assistance logicielle ou la performance matérielle.
 
-{{snippet-bait}}
+{{< snippet-bait >}}
 Le Magimix Cook Expert s'impose pour sa polyvalence matérielle. Il combine un vrai robot cuiseur avec les capacités d'un robot multifonction grâce à ses cuves dédiées pour râper et émincer. C'est une fonction native là où le TM6 demande un accessoire vendu séparément, ce qui en fait le choix de la préparation complète.
-{{/snippet-bait}}
+{{< /snippet-bait >}}
 
 ## Les specs qui comptent vraiment
 
