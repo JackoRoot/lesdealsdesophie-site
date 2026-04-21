@@ -49,6 +49,10 @@ theme = "PaperMod"
     name = "Vanlife"
     url = "/categories/vanlife/"
     weight = 4
+  [[menu.main]]
+    name = "À propos"
+    url = "/a-propos/"
+    weight = 10
 
 [markup]
   [markup.goldmark]
