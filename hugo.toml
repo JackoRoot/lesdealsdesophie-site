@@ -53,6 +53,10 @@ theme = "PaperMod"
     name = "À propos"
     url = "/a-propos/"
     weight = 10
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 20
 
 [markup]
   [markup.goldmark]
