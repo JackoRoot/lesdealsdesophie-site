@@ -246,16 +246,19 @@ body { overflow-x: hidden; }
 /* ===== BOUTONS AMAZON ===== */
 .post-content a[href*="amazon"] {
   display: inline-block;
-  background: #B35A5A !important;
-  color: #ffffff !important;
-  padding: 10px 20px;
-  border-radius: 8px;
+  background: transparent !important;
+  color: #B35A5A !important;
+  border: 1px solid #B35A5A;
+  padding: 5px 12px;
+  border-radius: 6px;
+  font-size: 12px;
   font-weight: 600;
   text-decoration: none !important;
-  transition: background 0.2s;
+  transition: background 0.2s, color 0.2s;
 }
 .post-content a[href*="amazon"]:hover {
-  background: #9A4444 !important;
+  background: #B35A5A !important;
+  color: #ffffff !important;
 }
 
 /* ===== HAMBURGER MENU ===== */
