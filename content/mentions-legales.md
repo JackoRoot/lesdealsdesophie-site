@@ -11,7 +11,7 @@ Ce site est édité à titre personnel par :
 
 **Sophie Vidal**  
 Champigny-sur-Marne, 94500, France  
-Contact : valora.edge@gmail.com
+Contact : contact@lesdealsdesophie.fr
 
 ## Hébergement
 
@@ -64,7 +64,7 @@ Ces cookies sont déposés uniquement lorsque vous cliquez sur un lien affilié.
 
 ### Vos droits
 
-Conformément au RGPD, vous disposez d'un droit d'accès, de rectification et de suppression de vos données. Pour toute demande : valora.edge@gmail.com
+Conformément au RGPD, vous disposez d'un droit d'accès, de rectification et de suppression de vos données. Pour toute demande : contact@lesdealsdesophie.fr
 
 ---
 
