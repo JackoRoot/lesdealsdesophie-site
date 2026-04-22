@@ -118,6 +118,15 @@ img.loaded { opacity: 1; }
   border-radius: 12px !important;
 }
 
+/* Hover bordeaux + transition — toutes cartes */
+.s-card, .s-featured, .s-top5-card, .s-cat-featured, .deal-card {
+  transition: border-color 0.2s ease;
+}
+.s-card:hover, .s-featured:hover, .s-top5-card:hover,
+.s-cat-featured:hover, .deal-card:hover {
+  border-color: #B35A5A !important;
+}
+
 /* overflow-x body */
 html { zoom: 1.15; }
 body { overflow-x: hidden; }
