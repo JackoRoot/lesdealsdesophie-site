@@ -119,11 +119,11 @@ img.loaded { opacity: 1; }
 }
 
 /* Hover bordeaux + transition — toutes cartes */
-.s-card, .s-featured, .s-top5-card, .s-cat-featured, .deal-card {
+.s-card, .s-featured, .s-top5-card, .s-cat-featured, .deal-card, .post-entry {
   transition: border-color 0.2s ease;
 }
 .s-card:hover, .s-featured:hover, .s-top5-card:hover,
-.s-cat-featured:hover, .deal-card:hover {
+.s-cat-featured:hover, .deal-card:hover, .post-entry:hover {
   border-color: #B35A5A !important;
 }
 
