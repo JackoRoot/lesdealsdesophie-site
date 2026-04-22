@@ -246,7 +246,7 @@ body { overflow-x: hidden; }
 /* ===== BOUTONS AMAZON ===== */
 .post-content a[href*="amazon"] {
   display: inline-block;
-  background: #B35A5A !important;
+  background: #7A2535 !important;
   color: #ffffff !important;
   border: none;
   padding: 5px 12px;
@@ -257,7 +257,7 @@ body { overflow-x: hidden; }
   transition: background 0.2s;
 }
 .post-content a[href*="amazon"]:hover {
-  background: #9A4444 !important;
+  background: #5C1A27 !important;
 }
 
 /* ===== HAMBURGER MENU ===== */
