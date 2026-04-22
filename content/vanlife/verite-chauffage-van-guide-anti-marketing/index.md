@@ -50,7 +50,7 @@ Les chauffages chinois sont une loterie. Certains fonctionnent des années sans 
 
 En payant pour une marque reconnue, vous achetez plusieurs choses. D'abord, la constance de la qualité et des tests rigoureux sur chaque unité. Ensuite, un réseau de distribution et de réparation. Si une pièce casse, vous pouvez la commander et la remplacer facilement. Enfin, vous payez pour la recherche et le développement, comme les kits altitude qui ajustent automatiquement la combustion lorsque vous grimpez en montagne. **Vous payez pour la certitude que votre chauffage démarrera par -10°C à 2000 mètres.**
 
-Le choix dépend de votre profil. Pour un usage occasionnel et si vous êtes prêt à mettre les mains dans le cambouis, un modèle chinois peut être une option économique. Pour un voyage au long cours ou si la fiabilité est votre priorité numéro un, l'investissement dans une marque est largement justifié.
+Le choix dépend de votre profil. Pour un usage occasionnel et si vous êtes prêt à mettre les mains dans le cambouis, un modèle chinois peut être une option économique. Pour un voyage au long cours ou si la fiabilité est votre priorité numéro un, l'investissement dans une marque est largement justifié. Un van bien équipé est aussi un van qu'on laisse garé sans l'œil dessus — [LIEN INTERNE : Alarmes et trackers GPS pour van — mes 3 choix] détaille les 3 modèles discrets et fiables pour surveiller votre véhicule à distance.
 
 ## L'entretien et l'usage en altitude : les détails qui changent tout
 

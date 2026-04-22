@@ -69,7 +69,7 @@ Ce casque est pour vous si le confort sur la durée et une expérience sonore im
 
 Le choix final dépend de votre profil d'utilisateur. Il n'y a pas un gagnant absolu, mais un meilleur outil pour un usage donné. Voici comment vous décider simplement.
 
-*   **Pour le nomade exigeant et l'utilisateur en open space : le Sony WH-1000XM5.** Sa réduction de bruit supérieure sur les voix et son autonomie étendue en font le choix le plus pragmatique pour s'isoler efficacement et longtemps.
+*   **Pour le nomade exigeant et l'utilisateur en open space : le Sony WH-1000XM5.** Sa réduction de bruit supérieure sur les voix et son autonomie étendue en font le choix le plus pragmatique pour s'isoler efficacement et longtemps. Pour un test terrain du WH-1000XM5 seul en conditions de télétravail réel, [LIEN INTERNE : Sony WH-1000XM5 — vraiment le meilleur casque pour le télétravail ?] entre dans le détail des usages quotidiens.
 *   **Pour le télétravailleur ou l'utilisateur longue durée : le Bose QC Ultra.** Son confort inégalé permet de le porter toute une journée sans fatigue. C'est le casque que vous oublierez sur votre tête. Pour les nuits agitées, une approche complémentaire vaut le détour : [La vérité sur les bruits blancs : Guide anti-marketing.](/maison/verite-bruits-blancs-guide-anti-marketing/) explique pourquoi le masquage sonore sans casque reste l'option la plus reposante.
 *   **Pour l'amateur de films et de musique live : le Bose QC Ultra.** Son mode Immersive Audio offre une expérience plus enveloppante et spectaculaire qui justifie son positionnement.
 

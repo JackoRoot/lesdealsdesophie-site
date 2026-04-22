@@ -16,7 +16,9 @@
       "Bash(git *)",
       "Bash(python dev/generate_docs.py)",
       "Bash(python *)",
-      "Bash(pip install *)"
+      "Bash(pip install *)",
+      "Bash(xargs sed *)",
+      "Bash(python3 *)"
     ]
   }
 }
