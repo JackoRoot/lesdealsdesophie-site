@@ -49,10 +49,8 @@ Le marché des DACs propose plusieurs formats, chacun adapté à un usage spéci
 
 Le premier format est le dongle DAC. C'est un petit adaptateur, souvent de la taille d'une clé USB, qui se branche directement sur le port USB-C ou Lightning de votre smartphone. Il contient une puce de conversion et souvent une petite amplification pour casque. C'est la solution idéale pour améliorer radicalement le son en déplacement.
 
-Le deuxième format est le DAC de bureau. Plus volumineux, il se connecte en USB à votre ordinateur et offre plus d'options de connectique (sorties RCA pour des enceintes, sorties casque plus puissantes). C'est le choix à privilégier pour une installation fixe. Si vous cherchez une enceinte connectée pour exploiter ces sorties, [LIEN INTERNE : Sonos Era 100 vs Bose Home Speaker 500 : lequel vaut son prix ?] compare les deux références du moment sans langue de bois.
-
-Si vous construisez une chaîne audio complète pour votre salon, cette solution "tout-en-un" peut être très pertinente. **L'important est de choisir un appareil adapté à votre usage réel, sans payer pour des fonctions superflues.** Avant d'y ajouter une barre de son d'entrée de gamme, [LIEN INTERNE : Barres de son à moins de 100€ — ce qu'on ne vous dit pas] détaille ce que le marketing vous cache dans cette catégorie.
-
+Le deuxième format est le DAC de bureau. Plus volumineux, il se connecte en USB à votre ordinateur et offre plus d'options de connectique (sorties RCA pour des enceintes, sorties casque plus puissantes). C'est le choix à privilégier pour une installation fixe.
+Si vous construisez une chaîne audio complète pour votre salon, cette solution "tout-en-un" peut être très pertinente. **L'important est de choisir un appareil adapté à votre usage réel, sans payer pour des fonctions superflues.**
 ## Ce que les fiches techniques ne vous disent pas
 
 Se focaliser uniquement sur le modèle de la puce de conversion (les fameuses puces Sabre, AKM, ou Cirrus Logic) est une erreur courante. Une puce DAC, même très performante, n'est rien sans une excellente implémentation autour d'elle. C'est comme mettre un moteur de Formule 1 dans un châssis de voiture sans permis : le résultat sera décevant.
