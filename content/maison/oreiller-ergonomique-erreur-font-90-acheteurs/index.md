@@ -1,5 +1,5 @@
 ---
-title: "Oreiller ergonomique : L'erreur que font 90% des acheteurs."
+title: "Oreiller ergonomique : Densité, forme, position — choisir le bon."
 description: "Fini le mal de cou. Apprenez à choisir votre oreiller ergonomique selon sa densité, sa forme et votre position de sommeil. Un guide direct pour un vrai repos."
 date: "2026-04-19"
 draft: false

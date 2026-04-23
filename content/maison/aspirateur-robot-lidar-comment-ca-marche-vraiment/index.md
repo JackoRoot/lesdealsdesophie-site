@@ -1,5 +1,5 @@
 ---
-title: "Aspirateur Robot LiDAR : Comment ça marche vraiment ?"
+title: "Aspirateur Robot LiDAR : La technologie qui change tout au nettoyage."
 description: "Fini les robots qui se cognent partout. Découvrez comment la technologie LiDAR assure un nettoyage complet et intelligent de votre logement. Gagnez du temps."
 date: "2026-04-19"
 draft: false

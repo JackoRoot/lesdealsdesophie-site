@@ -1,5 +1,5 @@
 ---
-title: "Machine sous-vide : La réalité après 6 mois de terrain."
+title: "Machine sous-vide : Puissance, sacs, prix — ce qui compte vraiment."
 description: "Ne jetez plus. Découvrez comment une machine de mise sous vide préserve vos aliments et votre argent. Le guide pour choisir la puissance et les sacs adaptés."
 date: "2026-04-19"
 draft: false

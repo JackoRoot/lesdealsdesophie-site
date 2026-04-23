@@ -1,5 +1,5 @@
 ---
-title: "Déshumidificateur : Tout comprendre avant d'acheter."
+title: "Déshumidificateur : Stop à la condensation et aux moisissures."
 description: "Stop la condensation et les moisissures. Apprenez à choisir le bon déshumidificateur pour votre surface et votre budget. Conseils clairs et directs."
 date: "2026-04-19"
 draft: false

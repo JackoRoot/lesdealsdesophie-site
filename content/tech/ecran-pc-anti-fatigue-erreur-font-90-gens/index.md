@@ -1,5 +1,5 @@
 ---
-title: "Écran PC anti-fatigue : L'erreur que font 90% des gens."
+title: "Écran PC : Scintillement, PPI, dalle — sauvez vos yeux."
 description: "Vos yeux brûlent après une journée de travail ? Découvrez les critères techniques (scintillement, PPI, dalle) pour choisir un écran PC qui préserve votre vue."
 date: "2026-04-19"
 draft: false

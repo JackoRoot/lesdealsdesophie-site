@@ -1,5 +1,5 @@
 ---
-title: "Panneau solaire van : Tout comprendre avant d'acheter."
+title: "Panneau solaire van : Souple ou rigide — rendement, durée, prix."
 description: "Panneau souple ou rigide pour votre van ? Analyse du rendement, de la durabilité et du coût réel. Prenez la bonne décision pour votre autonomie électrique."
 date: "2026-04-19"
 draft: false

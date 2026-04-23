@@ -1,5 +1,5 @@
 ---
-title: "Lampe de luminothérapie : Tout comprendre avant l'achat."
+title: "Lampe de luminothérapie et rythme circadien : le vrai guide."
 description: "Votre énergie est à plat ? Découvrez comment la luminothérapie et le rythme circadien fonctionnent. Le guide pour choisir la bonne lampe et l'utiliser."
 date: "2026-04-19"
 draft: false

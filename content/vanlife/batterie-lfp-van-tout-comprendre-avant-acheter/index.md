@@ -1,5 +1,5 @@
 ---
-title: "Batterie LFP en van : Tout comprendre avant d'acheter."
+title: "Batterie LFP en van : Coût, sécurité, autonomie — le vrai verdict."
 description: "La batterie LFP (LiFePO4) est-elle le bon choix pour votre van ? Analyse du coût, de la sécurité et de l'autonomie réelle pour faire le meilleur choix."
 date: "2026-04-19"
 draft: false

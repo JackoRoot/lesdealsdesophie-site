@@ -1,5 +1,5 @@
 ---
-title: "La couverture lestée : Comment ça marche vraiment ?"
+title: "Couverture lestée : Poids, tissu — le guide sans blabla."
 description: "Votre couverture lestée est-elle efficace ? Apprenez à choisir le bon poids, le bon tissu et le bon remplissage pour un sommeil profond et réparateur."
 date: "2026-04-19"
 draft: false
