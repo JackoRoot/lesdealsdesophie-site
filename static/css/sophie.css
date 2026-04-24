@@ -232,14 +232,15 @@ body { overflow-x: hidden; }
 }
 @media (max-width: 768px) {
   .profile_inner {
-    flex-direction: column !important;
-    text-align: center !important;
-    padding: 12px 16px 16px !important;
+    flex-direction: row !important;
+    text-align: left !important;
+    padding: 10px 14px 12px !important;
     gap: 14px !important;
+    align-items: center !important;
   }
-  .profile_text { text-align: center; }
-  .profile img { width: 100px !important; height: 125px !important; }
-  .profile_title { font-size: 20px; }
+  .profile_text { text-align: left; }
+  .profile img { width: 64px !important; height: 88px !important; }
+  .profile_title { font-size: 18px; }
 }
 
 /* ===== SNIPPET BAIT ===== */
