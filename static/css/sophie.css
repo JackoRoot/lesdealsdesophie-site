@@ -128,7 +128,7 @@ img.loaded { opacity: 1; }
 }
 
 /* overflow-x body */
-html { zoom: 1.15; }
+html { zoom: 1.15; overflow-x: hidden; }
 body { overflow-x: hidden; }
 
 /* Images 4:3 */
@@ -314,7 +314,6 @@ body { overflow-x: hidden; }
     margin-top: 4px !important;
     gap: 4px !important;
   }
-  .master-wrapper { overflow-x: hidden !important; }
   #menu.menu-open { display: flex !important; }
   #menu li { margin: 0 !important; }
   #menu a {
