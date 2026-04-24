@@ -307,6 +307,7 @@ body { overflow-x: hidden; }
     display: none !important;
     flex-direction: column !important;
     width: 100% !important;
+    box-sizing: border-box !important;
     background: #242731 !important;
     border-radius: 12px !important;
     padding: 12px !important;
