@@ -323,3 +323,31 @@ body { overflow-x: hidden; }
   #menu a:hover { background: #2D323E !important; }
   .nav { position: relative !important; flex-wrap: wrap !important; overflow: visible !important; }
 }
+
+/* ===== SCHÉMAS TECHNIQUES ===== */
+.post-content img[src*="schema-"] {
+  display: block;
+  max-width: 70%;
+  margin: 1.5rem auto;
+  border-radius: 8px;
+  cursor: zoom-in;
+}
+@media (max-width: 768px) {
+  .post-content img[src*="schema-"] { max-width: 100%; cursor: default; }
+}
+.schema-lightbox {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.88);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+  cursor: zoom-out;
+}
+.schema-lightbox img {
+  max-width: 85vw;
+  max-height: 85vh;
+  border-radius: 8px;
+  box-shadow: 0 8px 40px rgba(0, 0, 0, 0.7);
+}

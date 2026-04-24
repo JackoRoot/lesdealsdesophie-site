@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/css/sophie.css?v=14">
+<link rel="stylesheet" href="/css/sophie.css?v=15">
 <style>
 body.list, .list { background: #1A1C23 !important; }
 .nav { flex-direction: column !important; align-items: center !important; padding: 16px 0 4px 0 !important; }
@@ -11,3 +11,19 @@ body.list, .list { background: #1A1C23 !important; }
 .post-title { color: #E2E8F0 !important; }
 .post-meta { color: #A0AEC0 !important; }
 </style>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.post-content img[src*="schema-"]').forEach(function(img) {
+    img.addEventListener('click', function() {
+      var overlay = document.createElement('div');
+      overlay.className = 'schema-lightbox';
+      var big = document.createElement('img');
+      big.src = img.src;
+      big.alt = img.alt;
+      overlay.appendChild(big);
+      overlay.addEventListener('click', function() { overlay.remove(); });
+      document.body.appendChild(overlay);
+    });
+  });
+});
+</script>
