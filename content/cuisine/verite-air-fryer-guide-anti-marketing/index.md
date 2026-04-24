@@ -20,6 +20,8 @@ Pour vous, cela signifie deux choses. D'abord, **un temps de cuisson réduit de 
 Un Air Fryer utilise une convection forcée 10 fois plus rapide qu'un four traditionnel. Résultat : des aliments croustillants à l'extérieur et moelleux à l'intérieur avec 80% de matières grasses en moins. La clé n'est pas la chaleur, mais la vitesse de l'air qui saisit la surface de vos aliments.
 {{< /snippet-bait >}}
 
+![Schéma explicatif du fonctionnement par convection forcée d'un Air Fryer avec circulation d'air chaud - Les Deals de Sophie](schema-convection-air-fryer-circulation-chaleur-sophie.webp)
+
 ## La puissance : le critère non négociable
 
 Vous voyez des modèles à 800W et d'autres à 2000W. Cette différence de puissance n'est pas un détail, c'est le cœur du réacteur. Une puissance faible signifie un temps de préchauffage long et une incapacité à maintenir la température quand vous ajoutez des aliments froids. C'est la recette pour des résultats décevants.
