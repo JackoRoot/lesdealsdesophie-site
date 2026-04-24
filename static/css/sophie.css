@@ -306,7 +306,7 @@ body { overflow-x: hidden; }
   #menu {
     display: none !important;
     flex-direction: column !important;
-    width: 100% !important;
+    width: calc(100% / 1.15) !important;
     box-sizing: border-box !important;
     background: #242731 !important;
     border-radius: 12px !important;
