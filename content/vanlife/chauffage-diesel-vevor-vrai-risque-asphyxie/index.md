@@ -8,7 +8,6 @@ categories: ["Vanlife"]
 articleType: "transactionnel"
 ---
 
-Le problème que personne ne dit
 Je dormais dans mon van équipé d'un chauffage Vevor quand mon détecteur de monoxyde de carbone s'est mis à hurler en pleine nuit. J'ai aéré en urgence et démonté l'appareil pour découvrir que la chaleur avait fait fondre le plastique autour du corps de chauffe.
 
 {{< snippet-bait >}}
