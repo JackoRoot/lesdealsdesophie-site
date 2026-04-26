@@ -11,7 +11,7 @@ articleType: "transactionnel"
 Je dormais dans mon van équipé d'un chauffage Vevor quand mon détecteur de monoxyde de carbone s'est mis à hurler en pleine nuit. J'ai aéré en urgence et démonté l'appareil pour découvrir que la chaleur avait fait fondre le plastique autour du corps de chauffe.
 
 {{< snippet-bait >}}
-Les chauffages diesel Vevor et leurs clones souffrent de joints d'échappement poreux et de plastiques inadaptés aux hautes températures. Ces défauts de fabrication provoquent des fuites directes de monoxyde de carbone, un gaz mortel et indétectable, dans l'habitacle de votre véhicule.
+Les chauffages diesel Vevor et leurs clones souffrent de joints d'échappement poreux et de plastiques inadaptés aux hautes températures. Ces défauts de fabrication peuvent provoquer provoquent des fuites directes de monoxyde de carbone, un gaz mortel et indétectable, dans l'habitacle de votre véhicule.
 {{< /snippet-bait >}}
 
 Ce que le marketing cache
