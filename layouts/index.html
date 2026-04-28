@@ -279,22 +279,21 @@ body, body.list { background-color: #242731 !important; }
 <div class="sophie-page">
 
   {{ $allArticles := where .Site.RegularPages "Section" "in" (slice "cuisine" "maison" "tech" "vanlife") }}
+  {{ $allArticles = sort $allArticles "Date" "desc" }}
   {{ $piliers := where $allArticles "Params.articleType" "pilier" }}
-  {{ $piliers = sort $piliers "Date" "desc" }}
   {{ $transac := where $allArticles "Params.articleType" "transactionnel" }}
-  {{ $transac = sort $transac "Date" "desc" }}
 
   {{ if or $piliers $transac }}
-  <div class="s-section-title">Les dossiers de Sophie</div>
   {{ $catImgs := dict "Cuisine" "/images/categorie-cuisine.webp" "Maison" "/images/categorie-maison.webp" "Tech" "/images/categorie-tech.webp" "Vanlife" "/images/categorie-vanlife.webp" }}
-  {{ with index $piliers 0 }}
+  {{ $featured := index $allArticles 0 }}
+  {{ with $featured }}
     {{ $cat := index .Params.categories 0 }}
     {{ $img := index $catImgs $cat }}
     <div class="s-cat-section">
       <a href="{{ .Permalink }}" class="s-cat-featured">
         <div class="s-cat-featured-body">
           <div>
-            <div class="s-top5-badge" style="margin-bottom:12px;">Dossier</div>
+            <div class="s-top5-badge" style="margin-bottom:12px;">{{ if eq .Params.articleType "transactionnel" }}{{ $cat }}{{ else }}Dossier{{ end }}</div>
             <h2>{{ .Title }}</h2>
             <p class="s-cat-featured-desc">{{ .Description }}</p>
           </div>
@@ -305,9 +304,12 @@ body, body.list { background-color: #242731 !important; }
       </a>
     </div>
   {{ end }}
-  {{ if gt (len $piliers) 1 }}
+  <div class="s-section-title">Les dossiers de Sophie</div>
+  {{ $piliersGrid := $piliers }}
+  {{ if eq $featured.Params.articleType "pilier" }}{{ $piliersGrid = after 1 $piliers }}{{ end }}
+  {{ if gt (len $piliersGrid) 0 }}
   <div class="s-cat-grid" style="margin-bottom:32px;">
-    {{ range first 3 (after 1 $piliers) }}
+    {{ range first 3 $piliersGrid }}
     <a href="{{ .Permalink }}" class="s-top5-card">
       <div class="s-top5-badge">Dossier</div>
       <h3>{{ .Title }}</h3>
@@ -316,10 +318,12 @@ body, body.list { background-color: #242731 !important; }
     {{ end }}
   </div>
   {{ end }}
-  {{ if $transac }}
+  {{ $transacGrid := $transac }}
+  {{ if eq $featured.Params.articleType "transactionnel" }}{{ $transacGrid = after 1 $transac }}{{ end }}
+  {{ if $transacGrid }}
   <div class="s-section-title" style="margin-top:24px;">À ACHETER (OU À FUIR)</div>
   <div class="s-top5-grid">
-    {{ range first 6 $transac }}
+    {{ range first 6 $transacGrid }}
     <a href="{{ .Permalink }}" class="s-top5-card">
       <div class="s-top5-badge">{{ index .Params.categories 0 }}</div>
       <h3>{{ .Title }}</h3>
