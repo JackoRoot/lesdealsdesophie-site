@@ -299,7 +299,7 @@ body, body.list { background-color: #242731 !important; }
           </div>
         </div>
         <div class="s-cat-featured-img">
-          <img src="{{ $img }}" alt="{{ $cat }}" loading="lazy" />
+          <img src="{{ $img }}" alt="{{ $cat }}" loading="lazy" {{ if eq $cat "Vanlife" }}style="object-position: right 40%;"{{ end }} />
         </div>
       </a>
     </div>
