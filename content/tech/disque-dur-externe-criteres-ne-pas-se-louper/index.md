@@ -1,7 +1,7 @@
 ---
 title: "Disque dur externe : Les critères pour ne pas se louper."
 description: "Ne perdez plus vos données. Découvrez 3 disques durs externes robustes et fiables, filtrés pour leur durabilité. Lequel choisir pour vos besoins ?"
-date: "2026-04-26"
+date: "2026-04-29"
 draft: false
 slug: "disque-dur-externe-criteres-ne-pas-se-louper"
 categories: ["Tech"]
