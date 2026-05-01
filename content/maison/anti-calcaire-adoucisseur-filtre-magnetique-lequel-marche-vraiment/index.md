@@ -1,7 +1,7 @@
 ---
 title: "Anti-calcaire : Adoucisseur, filtre ou magnétique — lequel marche vraiment ?"
 description: "Adoucisseur, filtre, système magnétique ? Décryptez les solutions anti-calcaire pour protéger vos appareils et canalisations sans vous tromper."
-date: "2026-04-26"
+date: "2026-05-01"
 draft: false
 slug: "anti-calcaire-adoucisseur-filtre-magnetique-lequel-marche-vraiment"
 categories: ["Maison"]
