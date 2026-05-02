@@ -31,7 +31,6 @@ Pour choisir un purificateur d'air fiable, vérifiez toujours le CADR (Clean Air
 
 **Pour qui ? :** Logements neufs ou tout juste rénovés (peintures, meubles récents) et allergiques sévères dans de grands espaces (100 m²).
 
-[Voir sur Amazon](https://www.amazon.fr/Dyson-Purificateur-Quiet-Formald%C3%A9hyde-BP03/dp/B0CDQVR4G9)
 
 ### Philips Série 3000i AC3033/10 — Le haut débit pour grands volumes
 
@@ -41,7 +40,6 @@ Pour choisir un purificateur d'air fiable, vérifiez toujours le CADR (Clean Air
 
 **Pour qui ? :** Grands salons ou appartements ouverts nécessitant un brassage d'air massif.
 
-[Voir sur Amazon](https://www.amazon.fr/Philips-AC3033-10-purificateur-dair/dp/B07VV4NZW5)
 
 ### Coway AP-1512HH Mighty — L'endurance certifiée
 
@@ -51,7 +49,6 @@ Pour choisir un purificateur d'air fiable, vérifiez toujours le CADR (Clean Air
 
 **Pour qui ? :** Chambres ou salons de 20 à 33 m², pour les propriétaires d'animaux cherchant une machine testée sur la durée.
 
-[Voir sur Amazon](https://www.amazon.fr/Purificateur-Wirecutter-Ioniseur-Particules-Ap-1512hh/dp/B06ZY1JMNW)
 
 ### Xiaomi Smart Air Purifier 4 — L'alternative connectée économique
 
@@ -61,7 +58,6 @@ Pour choisir un purificateur d'air fiable, vérifiez toujours le CADR (Clean Air
 
 **Pour qui ? :** Utilisateurs équipés en domotique avec un budget serré mais exigeant des spécifications techniques solides.
 
-[Voir sur Amazon](https://www.amazon.fr/Xiaomi-Smart-Air-Purifiers-Antibact%C3%A9rien/dp/B09GVLPVCM)
 
 ### Levoit Core 300S — Le format compact silencieux
 
@@ -71,7 +67,6 @@ Pour choisir un purificateur d'air fiable, vérifiez toujours le CADR (Clean Air
 
 **Pour qui ? :** Bureaux et petites chambres nécessitant un fonctionnement nocturne ultra-discret.
 
-[Voir sur Amazon](https://www.amazon.fr/LEVOIT-Purificateur-Intelligent-Core-300S/dp/B0FDL66FYH)
 
 ## 🔴 Le Carton Rouge : Ne jetez pas votre argent par les fenêtres
 

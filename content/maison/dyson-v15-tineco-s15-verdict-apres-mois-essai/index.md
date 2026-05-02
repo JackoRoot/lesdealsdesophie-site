@@ -43,7 +43,6 @@ Le bémol technique est son autonomie en conditions réelles. Les 60 minutes ann
 
 C'est le bon choix **si vous priorisez la performance brute et un nettoyage visiblement plus complet.**
 
-[Voir sur Amazon](https://www.amazon.fr/s?k=Dyson+V15+Detect%E2%84%A2+Absolute)
 
 ## Tineco PURE ONE S15 PRO — Ce qu'il fait mieux
 
@@ -55,7 +54,6 @@ Le bémol technique est la capacité de son collecteur de 0,47 litre. C'est 40% 
 
 C'est le bon choix **si vous cherchez un appareil intelligent qui simplifie le nettoyage et le rangement.**
 
-[Voir sur Amazon](https://www.amazon.fr/s?k=Tineco+PURE+ONE+S15+PRO)
 
 ## Le verdict de Sophie
 

@@ -47,7 +47,6 @@ Le bémol technique est connu et documenté : sa conception. Plusieurs retours d
 
 Ce casque est pour vous si vous cherchez la performance technique maximale en matière de réduction de bruit et d'autonomie.
 
-[Voir sur Amazon](https://www.amazon.fr/s?k=Sony+WH-1000XM5)
 
 ## Bose QC Ultra — Ce qu'il fait mieux
 
@@ -63,7 +62,6 @@ Son point faible est son autonomie de 24 heures. Bien que suffisante pour la plu
 
 Ce casque est pour vous si le confort sur la durée et une expérience sonore immersive priment sur l'autonomie brute.
 
-[Voir sur Amazon](https://www.amazon.fr/s?k=Bose+QC+Ultra)
 
 ## Le verdict de Sophie
 
