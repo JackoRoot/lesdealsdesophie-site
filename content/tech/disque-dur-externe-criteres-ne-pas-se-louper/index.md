@@ -32,7 +32,6 @@ Le bémol technique est sa vitesse. En tant que HDD, il est environ 8 fois plus 
 
 Ce modèle est pour vous si vous cherchez une **capacité de stockage maximale à bas prix** et que la robustesse prime sur la vitesse de transfert.
 
-[Voir sur Amazon](https://www.amazon.fr/s?k=LaCie+Rugged+Mini)
 
 ## #2 — SanDisk Extreme Portable SSD V2 — La Vitesse de Poche
 
@@ -44,7 +43,6 @@ La limite constatée par certains utilisateurs est un ralentissement des perform
 
 Ce modèle est pour vous si vous avez besoin d'un **disque de travail rapide, léger et résistant** pour éditer des fichiers en déplacement.
 
-[Voir sur Amazon](https://www.amazon.fr/s?k=SanDisk+Extreme+Portable+SSD+V2)
 
 ## #3 — Samsung T7 Shield — Le Coffre-Fort Tout-Terrain
 
@@ -56,7 +54,6 @@ Le bémol est logiciel. Pour utiliser le chiffrement matériel, le logiciel Sams
 
 Ce modèle est pour vous si vous travaillez dans des **conditions exigeantes et que la protection maximale de vos données** est votre priorité absolue, sans sacrifier la vitesse.
 
-[Voir sur Amazon](https://www.amazon.fr/s?k=Samsung+T7+Shield)
 
 ## Comment choisir entre les 3
 
