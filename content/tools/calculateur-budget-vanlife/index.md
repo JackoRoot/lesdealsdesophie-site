@@ -25,4 +25,4 @@ Chaque poste a une valeur par défaut correspondant au profil "nomade équilibr�
 
 **Copier mon budget** génère un lien URL avec tous vos paramètres — sauvegardez-le ou partagez-le avec votre partenaire de voyage.
 
-[Méthodologie complète : sources, données terrain, hypothèses](/tools/calculateur-budget-vanlife/methodologie/)
+[Méthodologie complète : sources, données terrain, hypothèses](/tools/methodologie-budget-vanlife/)

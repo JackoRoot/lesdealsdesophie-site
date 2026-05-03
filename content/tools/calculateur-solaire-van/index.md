@@ -29,4 +29,4 @@ Mode profils rapides pour une estimation en 30 secondes. Mode équipements réel
 
 **3 configurations** : Minimum, Recommandé, Confort. Choisissez selon votre budget et votre style de vie.
 
-[Méthodologie complète : sources PVGIS, formules, données équipements](/tools/calculateur-solaire-van/methodologie/)
+[Méthodologie complète : sources PVGIS, formules, données équipements](/tools/methodologie-solaire-van/)
