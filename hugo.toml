@@ -22,6 +22,7 @@ theme = "PaperMod"
   defaultTheme = "light"
   disableThemeToggle = true
   customCSS = ["css/sophie.css"]
+  mainSections = ["cuisine", "maison", "tech", "vanlife"]
 
   [params.profileMode]
     enabled = true
@@ -49,6 +50,10 @@ theme = "PaperMod"
     name = "Vanlife"
     url = "/categories/vanlife/"
     weight = 4
+  [[menu.main]]
+    name = "Tools"
+    url = "/tools/"
+    weight = 5
 
 [markup]
   [markup.goldmark]
