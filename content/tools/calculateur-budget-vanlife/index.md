@@ -1,6 +1,7 @@
 ---
 title: "Calculateur budget vanlife mensuel"
 description: "Combien coûte vraiment la vanlife par mois ? Carburant, stationnement, entretien, santé — 18 postes réels, tous configurables. France 2026."
+summary: "Combien coûte vraiment la vanlife par mois ? 18 postes réels — carburant, stationnement, entretien, santé, connectivité. Chaque curseur est configurable, chaque chiffre est sourcé."
 date: 2026-05-03
 draft: false
 layout: page

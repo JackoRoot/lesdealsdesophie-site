@@ -1,6 +1,7 @@
 ---
 title: "Calculateur puissance solaire van"
 description: "Combien de watts installer sur le toit de votre van ? Dimensionnement panneaux + batterie LFP selon vos équipements réels. PVGIS toit plat, Victron 95% terrain."
+summary: "Combien de watts installer sur le toit de votre van ? Mode profils rapides ou mode équipements réels pour dimensionner panneaux + batterie LFP avec les vraies valeurs terrain."
 date: 2026-05-03
 draft: false
 layout: page
