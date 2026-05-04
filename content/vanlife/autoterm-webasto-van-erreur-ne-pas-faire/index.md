@@ -47,8 +47,6 @@ Le bémol technique est sa puissance minimale de 800 W. Même si elle est infér
 
 C'est le bon choix pour les voyageurs au budget maîtrisé qui exigent **la polyvalence et la fiabilité sans compromis**.
 
-[Voir sur Amazon](https://www.amazon.fr/s?k=Autoterm+Air+2D)
-
 ## Webasto Air Top 2000 STC — Ce qu'il fait mieux
 
 Webasto est une marque synonyme de chauffage stationnaire depuis des décennies. Cette longévité lui confère une image de qualité et un réseau de service après-vente très étendu. Acheter un Webasto, c'est aussi acheter une certaine tranquillité d'esprit.
@@ -60,8 +58,6 @@ La qualité de fabrication est également un argument. Les matériaux, les conne
 Le bémol est double : son prix et sa limitation en altitude. Le modèle standard Air Top 2000 STC n'est pas conçu pour la haute montagne. Au-delà de 1500 mètres, la combustion se dégrade, provoquant un encrassement qui peut mener à la panne. **C'est une contrainte majeure pour quiconque aime les sommets**.
 
 C'est le bon choix pour les utilisateurs qui privilégient le silence et la renommée d'une marque, pour **un usage principalement en plaine ou à moyenne altitude**.
-
-[Voir sur Amazon](https://www.amazon.fr/s?k=Webasto+Air+Top+2000+STC)
 
 ## Le verdict de Sophie
 
