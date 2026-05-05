@@ -353,3 +353,16 @@ body { overflow-x: hidden; }
   border-radius: 8px;
   box-shadow: 0 8px 40px rgba(0, 0, 0, 0.7);
 }
+
+/* ===== BLOCS CODE / FORMULES ===== */
+.post-content pre,
+.article-content pre {
+  font-size: 13px;
+  line-height: 1.6;
+}
+.post-content pre code,
+.article-content pre code {
+  font-size: 13px !important;
+  line-height: 1.6 !important;
+  font-family: 'Courier New', Courier, monospace !important;
+}
