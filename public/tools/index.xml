@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Outils &amp; Simulateurs on Les Deals de Sophie</title><link>https://lesdealsdesophie.fr/tools/</link><description>Recent content in Outils &amp; Simulateurs on Les Deals de Sophie</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Sun, 03 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://lesdealsdesophie.fr/tools/index.xml" rel="self" type="application/rss+xml"/><item><title>Calculateur budget vanlife mensuel</title><link>https://lesdealsdesophie.fr/tools/calculateur-budget-vanlife/</link><pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate><guid>https://lesdealsdesophie.fr/tools/calculateur-budget-vanlife/</guid><description>Combien coûte vraiment la vanlife par mois ? Carburant, stationnement, entretien, santé — 18 postes réels, tous configurables. France 2026.</description></item><item><title>Calculateur puissance solaire van</title><link>https://lesdealsdesophie.fr/tools/calculateur-solaire-van/</link><pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate><guid>https://lesdealsdesophie.fr/tools/calculateur-solaire-van/</guid><description>Combien de watts installer sur le toit de votre van ? Dimensionnement panneaux + batterie LFP selon vos équipements réels. PVGIS toit plat, Victron 95% terrain.</description></item><item><title>Méthodologie : Calculateur budget vanlife mensuel</title><link>https://lesdealsdesophie.fr/tools/methodologie-budget-vanlife/</link><pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate><guid>https://lesdealsdesophie.fr/tools/methodologie-budget-vanlife/</guid><description>Sources, données réelles et hypothèses du calculateur budget vanlife. Carburant, stationnement, entretien, domiciliation — tous les postes sourcés.</description></item><item><title>Méthodologie : Calculateur puissance solaire van</title><link>https://lesdealsdesophie.fr/tools/methodologie-solaire-van/</link><pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate><guid>https://lesdealsdesophie.fr/tools/methodologie-solaire-van/</guid><description>Sources, formules et données du calculateur de dimensionnement solaire van. PVGIS toit plat, rendement MPPT Victron terrain, consommations équipements 12V.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Outils &amp; Simulateurs on Les Deals de Sophie</title>
+    <link>http://localhost:1313/tools/</link>
+    <description>Recent content in Outils &amp; Simulateurs on Les Deals de Sophie</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 03 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Calculateur budget vanlife mensuel</title>
+      <link>http://localhost:1313/tools/calculateur-budget-vanlife/</link>
+      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/calculateur-budget-vanlife/</guid>
+      <description>Combien coûte vraiment la vanlife par mois ? Carburant, stationnement, entretien, santé — 18 postes réels, tous configurables. France 2026.</description>
+    </item>
+    <item>
+      <title>Calculateur puissance solaire van</title>
+      <link>http://localhost:1313/tools/calculateur-solaire-van/</link>
+      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/calculateur-solaire-van/</guid>
+      <description>Combien de watts installer sur le toit de votre van ? Dimensionnement panneaux &#43; batterie LFP selon vos équipements réels. PVGIS toit plat, Victron 95% terrain.</description>
+    </item>
+    <item>
+      <title>Méthodologie : Calculateur budget vanlife mensuel</title>
+      <link>http://localhost:1313/tools/methodologie-budget-vanlife/</link>
+      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/methodologie-budget-vanlife/</guid>
+      <description>Sources, données réelles et hypothèses du calculateur budget vanlife. Carburant, stationnement, entretien, domiciliation — tous les postes sourcés.</description>
+    </item>
+    <item>
+      <title>Méthodologie : Calculateur puissance solaire van</title>
+      <link>http://localhost:1313/tools/methodologie-solaire-van/</link>
+      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/methodologie-solaire-van/</guid>
+      <description>Sources, formules et données du calculateur de dimensionnement solaire van. PVGIS toit plat, rendement MPPT Victron terrain, consommations équipements 12V.</description>
+    </item>
+  </channel>
+</rss>

@@ -127,6 +127,7 @@
     <p class="list-count">{{ len .Pages }} articles</p>
   </div>
 
+  {{- if ne .Kind "term" }}
   {{ $catImgs := dict "cuisine" "/images/categorie-cuisine.webp" "maison" "/images/categorie-maison.webp" "tech" "/images/categorie-tech.webp" "vanlife" "/images/categorie-vanlife.webp" }}
   {{ $catPos := dict "cuisine" "center 70%" "maison" "center 70%" "tech" "center 35%" "vanlife" "center 50%" }}
   {{ $img := index $catImgs (.Title | lower) }}
@@ -136,6 +137,7 @@
     <img src="{{ $img }}" alt="{{ .Title }}" loading="lazy" style="object-position: {{ $pos }};" />
   </div>
   {{ end }}
+  {{- end }}
 
   <div class="deals-grid">
     {{ range .Pages }}

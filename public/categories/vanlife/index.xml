@@ -1,1 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Vanlife on Les Deals de Sophie</title><link>https://lesdealsdesophie.fr/categories/vanlife/</link><description>Recent content in Vanlife on Les Deals de Sophie</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Sun, 03 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://lesdealsdesophie.fr/categories/vanlife/index.xml" rel="self" type="application/rss+xml"/><item><title>Autoterm ou Webasto en van ? L'erreur à ne pas faire.</title><link>https://lesdealsdesophie.fr/vanlife/autoterm-webasto-van-erreur-ne-pas-faire/</link><pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate><guid>https://lesdealsdesophie.fr/vanlife/autoterm-webasto-van-erreur-ne-pas-faire/</guid><description>Duel des chauffages stationnaires : Autoterm Air 2D contre Webasto Air Top 2000 STC. Découvrez le verdict factuel pour votre budget et vos voyages.</description></item><item><title>Chauffage diesel Vevor : Le vrai risque d'asphyxie.</title><link>https://lesdealsdesophie.fr/vanlife/chauffage-diesel-vevor-vrai-risque-asphyxie/</link><pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate><guid>https://lesdealsdesophie.fr/vanlife/chauffage-diesel-vevor-vrai-risque-asphyxie/</guid><description>Fuyez les chauffages diesel low-cost. Découvrez pourquoi les modèles Vevor et leurs clones menacent votre sécurité avec des fuites de CO.</description></item><item><title>Batterie LFP en van : Coût, sécurité, autonomie — le vrai verdict.</title><link>https://lesdealsdesophie.fr/vanlife/batterie-lfp-van-tout-comprendre-avant-acheter/</link><pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate><guid>https://lesdealsdesophie.fr/vanlife/batterie-lfp-van-tout-comprendre-avant-acheter/</guid><description>La batterie LFP (LiFePO4) est-elle le bon choix pour votre van ? Analyse du coût, de la sécurité et de l&amp;#39;autonomie réelle pour faire le meilleur choix.</description></item><item><title>Chauffage diesel van : Puissance, sécurité — le vrai guide.</title><link>https://lesdealsdesophie.fr/vanlife/verite-chauffage-van-guide-anti-marketing/</link><pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate><guid>https://lesdealsdesophie.fr/vanlife/verite-chauffage-van-guide-anti-marketing/</guid><description>Webasto, Autoterm ou clone ? Sophie décortique la puissance, l&amp;#39;installation et la sécurité de votre chauffage diesel pour van. Évitez les erreurs.</description></item><item><title>Panneau solaire van : Souple ou rigide — rendement, durée, prix.</title><link>https://lesdealsdesophie.fr/vanlife/panneau-solaire-van-tout-comprendre-avant-acheter/</link><pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate><guid>https://lesdealsdesophie.fr/vanlife/panneau-solaire-van-tout-comprendre-avant-acheter/</guid><description>Panneau souple ou rigide pour votre van ? Analyse du rendement, de la durabilité et du coût réel. Prenez la bonne décision pour votre autonomie électrique.</description></item><item><title>Régulateur MPPT sans se tromper : le verdict Sophie.</title><link>https://lesdealsdesophie.fr/vanlife/regulateur-mppt-se-tromper-verdict-sophie/</link><pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate><guid>https://lesdealsdesophie.fr/vanlife/regulateur-mppt-se-tromper-verdict-sophie/</guid><description>Ne choisissez pas votre régulateur MPPT au hasard. Découvrez notre sélection de 3 modèles fiables pour van et tiny house, analysés sur leur performance.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Vanlife on Les Deals de Sophie</title>
+    <link>http://localhost:1313/categories/vanlife/</link>
+    <description>Recent content in Vanlife on Les Deals de Sophie</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 03 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/vanlife/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Autoterm ou Webasto en van ? L&#39;erreur à ne pas faire.</title>
+      <link>http://localhost:1313/vanlife/autoterm-webasto-van-erreur-ne-pas-faire/</link>
+      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/vanlife/autoterm-webasto-van-erreur-ne-pas-faire/</guid>
+      <description>Duel des chauffages stationnaires : Autoterm Air 2D contre Webasto Air Top 2000 STC. Découvrez le verdict factuel pour votre budget et vos voyages.</description>
+    </item>
+    <item>
+      <title>Chauffage diesel Vevor : Le vrai risque d&#39;asphyxie.</title>
+      <link>http://localhost:1313/vanlife/chauffage-diesel-vevor-vrai-risque-asphyxie/</link>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/vanlife/chauffage-diesel-vevor-vrai-risque-asphyxie/</guid>
+      <description>Fuyez les chauffages diesel low-cost. Découvrez pourquoi les modèles Vevor et leurs clones menacent votre sécurité avec des fuites de CO.</description>
+    </item>
+    <item>
+      <title>Batterie LFP en van : Coût, sécurité, autonomie — le vrai verdict.</title>
+      <link>http://localhost:1313/vanlife/batterie-lfp-van-tout-comprendre-avant-acheter/</link>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/vanlife/batterie-lfp-van-tout-comprendre-avant-acheter/</guid>
+      <description>La batterie LFP (LiFePO4) est-elle le bon choix pour votre van ? Analyse du coût, de la sécurité et de l&amp;#39;autonomie réelle pour faire le meilleur choix.</description>
+    </item>
+    <item>
+      <title>Chauffage diesel van : Puissance, sécurité — le vrai guide.</title>
+      <link>http://localhost:1313/vanlife/verite-chauffage-van-guide-anti-marketing/</link>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/vanlife/verite-chauffage-van-guide-anti-marketing/</guid>
+      <description>Webasto, Autoterm ou clone ? Sophie décortique la puissance, l&amp;#39;installation et la sécurité de votre chauffage diesel pour van. Évitez les erreurs.</description>
+    </item>
+    <item>
+      <title>Panneau solaire van : Souple ou rigide — rendement, durée, prix.</title>
+      <link>http://localhost:1313/vanlife/panneau-solaire-van-tout-comprendre-avant-acheter/</link>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/vanlife/panneau-solaire-van-tout-comprendre-avant-acheter/</guid>
+      <description>Panneau souple ou rigide pour votre van ? Analyse du rendement, de la durabilité et du coût réel. Prenez la bonne décision pour votre autonomie électrique.</description>
+    </item>
+    <item>
+      <title>Régulateur MPPT sans se tromper : le verdict Sophie.</title>
+      <link>http://localhost:1313/vanlife/regulateur-mppt-se-tromper-verdict-sophie/</link>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/vanlife/regulateur-mppt-se-tromper-verdict-sophie/</guid>
+      <description>Ne choisissez pas votre régulateur MPPT au hasard. Découvrez notre sélection de 3 modèles fiables pour van et tiny house, analysés sur leur performance.</description>
+    </item>
+  </channel>
+</rss>
