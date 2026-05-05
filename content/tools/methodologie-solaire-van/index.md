@@ -23,7 +23,7 @@ Le calculateur répond à une question simple : **combien de watts de panneaux s
 
 **La formule centrale :**
 
-<pre style="font-size:17px !important;line-height:1.7;font-family:'Courier New',Courier,monospace;background:#1c1e26;padding:14px 16px;border-radius:8px;color:#d5d5d6;overflow-x:auto;">Wc nécessaires = Consommation journalière (Wh/j)
+<pre style="font-size:15px !important;line-height:1.7;font-family:'Courier New',Courier,monospace;background:#1c1e26;padding:14px 16px;border-radius:8px;color:#d5d5d6;overflow-x:auto;">Wc nécessaires = Consommation journalière (Wh/j)
                  ÷ Productible toit plat (Wh/kWc/j)
                  × 1 000
 
@@ -105,7 +105,7 @@ Valeur par défaut PVGIS pour une installation on-grid standard, appliquée tell
 Les batteries LiFePO4 (LFP) supportent une décharge à 80% de leur capacité nominale en usage régulier, sans dégradation prématurée des cycles.
 
 **Formule capacité batterie :**
-<pre style="font-size:17px !important;line-height:1.7;font-family:'Courier New',Courier,monospace;background:#1c1e26;padding:14px 16px;border-radius:8px;color:#d5d5d6;overflow-x:auto;">Capacité (Ah) = Consommation (Wh/j) × Jours autonomie
+<pre style="font-size:15px !important;line-height:1.7;font-family:'Courier New',Courier,monospace;background:#1c1e26;padding:14px 16px;border-radius:8px;color:#d5d5d6;overflow-x:auto;">Capacité (Ah) = Consommation (Wh/j) × Jours autonomie
                 ÷ 0,80 (DoD) ÷ 12V</pre>
 
 **Source** : Victron Energy — LiFePO4 Battery datasheet · Pylontech datasheet
