@@ -206,6 +206,12 @@
 .sv-sources { margin-top: 0.75rem; font-size: 0.62rem; color: var(--c-muted); line-height: 1.6; }
 .sv-sources a { color: #6B9FD0; text-decoration: none; }
 .sv-sources a:hover { text-decoration: underline; }
+.sv-embed-link {
+  display: block; text-align: center; margin-top: 0.75rem; padding: 0.55rem;
+  font-size: 0.75rem; color: var(--c-accent); text-decoration: none;
+  border: 1px dashed var(--c-accent); border-radius: 5px; transition: all 0.15s;
+}
+.sv-embed-link:hover { background: var(--c-accent); color: white; }
 </style>
 
 <div class="sv-header">
@@ -558,6 +564,18 @@ manuelInputs.forEach(id => {
 });
 
 calc();
+</script>
+<a href="/tools/calculateur-solaire-van/" class="sv-embed-link" id="sv-solaire-embed-link">
+  🔗 Voir la page complète de ce calculateur — Les Deals de Sophie
+</a>
+<script>
+(function() {
+  var h = window.location.hostname;
+  if (h === 'lesdealsdesophie.fr' || h === 'www.lesdealsdesophie.fr' || h === 'localhost' || h === '127.0.0.1') {
+    var el = document.getElementById('sv-solaire-embed-link');
+    if (el) el.style.display = 'none';
+  }
+})();
 </script>
 
 </div>

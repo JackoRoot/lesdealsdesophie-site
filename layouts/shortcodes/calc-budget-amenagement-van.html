@@ -185,6 +185,27 @@
 .sv-sources { margin-top: 0.75rem; font-size: 0.62rem; color: var(--c-muted); line-height: 1.6; }
 .sv-sources a { color: #6B9FD0; text-decoration: none; }
 .sv-sources a:hover { text-decoration: underline; }
+.custom-row {
+  display: flex; align-items: center; gap: 0.4rem;
+  margin-top: 0.4rem; padding-top: 0.4rem;
+  border-top: 1px dashed var(--c-border);
+}
+.custom-row .cr-label { font-size: 0.66rem; color: var(--c-muted); white-space: nowrap; }
+.custom-row input[type="number"] {
+  flex: 1; padding: 0.35rem 0.5rem;
+  border: 1px solid var(--c-border); border-radius: 5px;
+  font-size: 0.82rem; font-family: inherit;
+  background: var(--c-bg); color: var(--c-accent);
+  font-weight: 600; text-align: right; min-width: 0;
+}
+.custom-row input[type="number"]:focus { outline: none; border-color: var(--c-accent); }
+.custom-row .cr-unit { font-size: 0.72rem; color: var(--c-muted); }
+.sv-embed-link {
+  display: block; text-align: center; margin-top: 0.75rem; padding: 0.55rem;
+  font-size: 0.75rem; color: var(--c-accent); text-decoration: none;
+  border: 1px dashed var(--c-accent); border-radius: 5px; transition: all 0.15s;
+}
+.sv-embed-link:hover { background: var(--c-accent); color: white; }
 </style>
 
 <div class="sv-header">
@@ -240,12 +261,17 @@
     </div>
     <div class="sv-field">
       <label>Niveau d'isolation</label>
-      <select id="isolation" onchange="calc()">
+      <select id="isolation" onchange="syncCustom('isolation','custom-isolation')">
         <option value="300">Basique — XPS + réflecteurs (300 €)</option>
         <option value="650" selected>Intermédiaire — Armaflex 19mm + Biofib (650 €)</option>
         <option value="1100">Pro intégrale — Armaflex full + biosourcé + pare-vapeur (1 100 €)</option>
       </select>
       <div class="help">L2H2 ≈ 15-20 m² · Armaflex 19mm : 18,50 €/m² · Biofib'Trio : 7-12 €/m²</div>
+    </div>
+    <div class="custom-row">
+      <span class="cr-label">Ou mon prix exact :</span>
+      <input type="number" id="custom-isolation" placeholder="ex: 847" min="0" max="5000" step="1" oninput="calc()">
+      <span class="cr-unit">€</span>
     </div>
   </div>
 
@@ -257,12 +283,17 @@
     </div>
     <div class="sv-field">
       <label>Type de revêtement</label>
-      <select id="revetement" onchange="calc()">
+      <select id="revetement" onchange="syncCustom('revetement','custom-revetement')">
         <option value="200">Lambris épicéa low-cost (200 €)</option>
         <option value="450" selected>Contreplaqué peuplier + bardage (450 €)</option>
         <option value="900">Contreplaqué marine + finitions HPL (900 €)</option>
       </select>
       <div class="help">Contreplaqué peuplier 15mm : 36 €/m² · Bardage bois : 20-35 €/m²</div>
+    </div>
+    <div class="custom-row">
+      <span class="cr-label">Ou mon prix exact :</span>
+      <input type="number" id="custom-revetement" placeholder="ex: 320" min="0" max="3000" step="1" oninput="calc()">
+      <span class="cr-unit">€</span>
     </div>
   </div>
 
@@ -275,7 +306,7 @@
     <div class="row-2" style="margin-bottom:0.4rem;">
       <div class="sv-field">
         <label>Couchage</label>
-        <select id="lit" onchange="calc()">
+        <select id="lit" onchange="syncCustom('lit','custom-lit')">
           <option value="150">Lit fixe simple (150 €)</option>
           <option value="350" selected>Lit relevable 2 vérins (350 €)</option>
           <option value="600">Lit pavillon + motorisé (600 €)</option>
@@ -284,7 +315,7 @@
       </div>
       <div class="sv-field">
         <label>Cuisine</label>
-        <select id="cuisine" onchange="calc()">
+        <select id="cuisine" onchange="syncCustom('cuisine','custom-cuisine')">
           <option value="150">Simple (réchaud + plan bois) (150 €)</option>
           <option value="400" selected>Complète (évier + plan travail) (400 €)</option>
           <option value="800">Équipée (évier inox + gaz encastré) (800 €)</option>
@@ -292,10 +323,27 @@
         <div class="help">Plan travail hêtre 250cm : ~80 €</div>
       </div>
     </div>
+    <div class="row-2" style="margin-bottom:0.4rem;">
+      <div class="custom-row" style="margin:0;">
+        <span class="cr-label">Prix couchage exact :</span>
+        <input type="number" id="custom-lit" placeholder="ex: 280" min="0" max="3000" step="1" oninput="calc()">
+        <span class="cr-unit">€</span>
+      </div>
+      <div class="custom-row" style="margin:0;">
+        <span class="cr-label">Prix cuisine exact :</span>
+        <input type="number" id="custom-cuisine" placeholder="ex: 550" min="0" max="3000" step="1" oninput="calc()">
+        <span class="cr-unit">€</span>
+      </div>
+    </div>
     <div class="sv-field">
       <label>Rangements & quincaillerie <span class="val" id="val-quincaillerie">300 €</span></label>
       <input type="range" id="quincaillerie" min="100" max="800" step="50" value="300" onchange="calc()" oninput="calc()">
       <div class="help">Tasseaux ~3 €/ml · Coulisses tiroirs · Vis, équerres, colles Sika (200-450 €)</div>
+    </div>
+    <div class="custom-row">
+      <span class="cr-label">Ou mon prix exact :</span>
+      <input type="number" id="custom-quincaillerie" placeholder="ex: 430" min="0" max="2000" step="1" oninput="calc()">
+      <span class="cr-unit">€</span>
     </div>
   </div>
 
@@ -307,15 +355,20 @@
     </div>
     <div class="sv-field">
       <label>Niveau installation électrique</label>
-      <select id="elec" onchange="calc()">
+      <select id="elec" onchange="syncCustom('elec','custom-elec');checkVASP()">
         <option value="350">DIY basique — AGM + coupleur + panneaux low-cost (350 €)</option>
         <option value="700" selected>DIY qualitatif — LFP + MPPT Victron + câblage correct (700 €)</option>
         <option value="2000">Artisan certifié VASP — élec + gaz sous-traités (2 000 €)</option>
       </select>
       <div class="help">Câbles 12V : 150-300 € · Tableau élec. : 23-107 € · Artisan : 1 400-1 600 € MO</div>
     </div>
-    <div id="vasp-alert" style="display:none;" class="alert-info" style="margin-top:0.3rem;">
-      ℹ️ Homologation VASP (~500 €) recommandée avec ce niveau. Indispensable pour assurance habitation de la cellule et revente.
+    <div class="custom-row">
+      <span class="cr-label">Ou mon devis exact :</span>
+      <input type="number" id="custom-elec" placeholder="ex: 1250" min="0" max="6000" step="1" oninput="calc()">
+      <span class="cr-unit">€</span>
+    </div>
+    <div id="vasp-alert" style="display:none;margin-top:0.4rem;" class="alert-info">
+      ℹ️ Homologation VASP (~500 €) recommandée avec ce niveau. Indispensable pour assurance habitation et revente.
     </div>
   </div>
 
@@ -327,13 +380,18 @@
     </div>
     <div class="sv-field">
       <label>Type d'installation eau</label>
-      <select id="eau" onchange="calc()">
+      <select id="eau" onchange="syncCustom('eau','custom-eau')">
         <option value="80">Bidons 20L extractibles — sans installation (80 €)</option>
         <option value="400" selected>Eau froide — cuve 60L + pompe 12V + tuyauterie (400 €)</option>
         <option value="900">Eau froide + chaude gaz — boiler 8L (900 €)</option>
         <option value="1600">Eau froide + chaude diesel — combiné Pundmann (1 600 €)</option>
       </select>
       <div class="help">Cuve 70L FIAMMA : 95-109 € · Pompe Shurflo : 75-101 € · Boiler gaz 8L WHALE : 980 €</div>
+    </div>
+    <div class="custom-row">
+      <span class="cr-label">Ou mon devis exact :</span>
+      <input type="number" id="custom-eau" placeholder="ex: 620" min="0" max="4000" step="1" oninput="calc()">
+      <span class="cr-unit">€</span>
     </div>
   </div>
 
@@ -345,13 +403,18 @@
     </div>
     <div class="sv-field">
       <label>Type de chauffage</label>
-      <select id="chauffage" onchange="calc()">
+      <select id="chauffage" onchange="syncCustom('chauffage','custom-chauffage');checkChinasto()">
         <option value="0">Sans chauffage stationnaire (0 €)</option>
         <option value="150">⚠️ Chinasto low-cost — sans E-mark (150 €)</option>
-        <option value="900" selected>Autoterm 4D 4kW + pose DIY (560 € + 340 € pose) (900 €)</option>
-        <option value="1700">Webasto Air Top 2000 STC + pose pro (1 416 € + 360 € pose) (1 700 €)</option>
+        <option value="900" selected>Autoterm 4D 4kW + pose DIY (900 €)</option>
+        <option value="1700">Webasto Air Top 2000 STC + pose pro (1 700 €)</option>
       </select>
       <div class="help">Autoterm 4D : 560 € · Webasto AirTop 2000 STC : 1 416 € · Pose pro : 360-690 €</div>
+    </div>
+    <div class="custom-row">
+      <span class="cr-label">Ou mon devis exact :</span>
+      <input type="number" id="custom-chauffage" placeholder="ex: 1050" min="0" max="4000" step="1" oninput="calc()">
+      <span class="cr-unit">€</span>
     </div>
     <div id="chinasto-alert" style="display:none;"></div>
   </div>
@@ -364,13 +427,18 @@
     </div>
     <div class="sv-field">
       <label>Équipement</label>
-      <select id="ouvertures" onchange="calc()">
+      <select id="ouvertures" onchange="syncCustom('ouvertures','custom-ouvertures')">
         <option value="0">Aucune ouverture supplémentaire (0 €)</option>
         <option value="250" selected>Lanterneau Maxxfan Deluxe + pose (250 €)</option>
         <option value="650">Maxxfan + 1 fenêtre latérale + pose (650 €)</option>
         <option value="1100">Maxxfan + 2 fenêtres latérales + poses (1 100 €)</option>
       </select>
       <div class="help">Maxxfan Deluxe : ~230 € · Fenêtre latérale : 150-350 € · Pose carrossier : 150-225 €/unité</div>
+    </div>
+    <div class="custom-row">
+      <span class="cr-label">Ou mon devis exact :</span>
+      <input type="number" id="custom-ouvertures" placeholder="ex: 380" min="0" max="3000" step="1" oninput="calc()">
+      <span class="cr-unit">€</span>
     </div>
   </div>
 
@@ -401,12 +469,38 @@
 
 <div class="sv-sources">
   Sources (56 références) : <a href="https://goupillieres-27.fr/amenagement-van-quel-cout-prevoir-en-2026/" target="_blank">Goupielleres 2026</a> · <a href="https://paris-shuttle.com/combien-coute-un-van-amenage-le-budget-reel-a-prevoir/" target="_blank">Paris-Shuttle 2026</a> · <a href="https://toupourvan.fr/32-armaflex-af" target="_blank">Toupourvan (Armaflex)</a> · <a href="https://www.h2r-equipements.com" target="_blank">H2R Équipements</a> · <a href="https://www.atelierdouzevolts.com/blog/budget-catalogue-complet-fourgon-amenage" target="_blank">Atelier DouzeVolts</a> · <a href="https://levanmigrateur.com/combien-coute-un-amenagement-de-fourgon-complet-en-2025/" target="_blank">Le Van Migrateur</a>
-  <br><a href="/tools/methodologie-budget-amenagement-van/" style="color:#B35A5A;font-weight:600;">→ Voir la méthodologie complète et toutes les sources</a>
+  <br><a href="/outils/calculateur-budget-amenagement-van/methodologie/" style="color:#B35A5A;font-weight:600;">→ Voir la méthodologie complète et toutes les sources</a>
 </div>
 
 <script>
-let currentMode = 'rapide';
-let currentProfil = 'diy-quali';
+function syncCustom(selectId, customId) {
+  // Quand on change le select, vider le champ custom
+  document.getElementById(customId).value = '';
+  calc();
+}
+
+function getVal(selectId, customId) {
+  const custom = document.getElementById(customId);
+  if (custom && custom.value !== '' && !isNaN(custom.value)) {
+    return parseInt(custom.value);
+  }
+  return parseInt(document.getElementById(selectId).value);
+}
+
+function checkVASP() {
+  const val = document.getElementById('elec').value;
+  document.getElementById('vasp-alert').style.display = val === '2000' ? '' : 'none';
+  calc();
+}
+
+function checkChinasto() {
+  const val = document.getElementById('chauffage').value;
+  const el = document.getElementById('chinasto-alert');
+  el.style.display = val === '150' ? '' : 'none';
+  el.innerHTML = val === '150'
+    ? '<div class="alert-danger">⚠️ Chinasto sans E-mark : homologation VASP impossible. Risque d\'intoxication CO documenté. Non recommandé — Autoterm 4D à 560 € est le minimum sérieux.</div>' : '';
+  calc();
+}
 
 const PROFILS = {
   'diy-mini': { label: 'DIY Plancher', min: 2900, max: 4000, mid: 3500, desc: 'Aménagement spartiate : XPS + réflecteurs, AGM basique, bidons 20L, lit fixe. Souvent sans homologation VASP. Fonctionnel mais limites techniques.' },
@@ -450,26 +544,28 @@ function calc() {
     document.getElementById('rapide-desc').textContent = p.desc;
     detailItems = { 'Profil': p.label, 'Fourchette': fmtEur(p.min) + ' – ' + fmtEur(p.max) };
   } else {
-    const isolation = parseInt(document.getElementById('isolation').value);
-    const revetement = parseInt(document.getElementById('revetement').value);
-    const lit = parseInt(document.getElementById('lit').value);
-    const cuisine = parseInt(document.getElementById('cuisine').value);
-    const quincaillerie = parseInt(document.getElementById('quincaillerie').value);
-    const elec = parseInt(document.getElementById('elec').value);
-    const eau = parseInt(document.getElementById('eau').value);
-    const chauffage = parseInt(document.getElementById('chauffage').value);
-    const ouvertures = parseInt(document.getElementById('ouvertures').value);
+    const isolation     = getVal('isolation',  'custom-isolation');
+    const revetement    = getVal('revetement', 'custom-revetement');
+    const lit           = getVal('lit',        'custom-lit');
+    const cuisine       = getVal('cuisine',    'custom-cuisine');
+    const quincEl       = document.getElementById('custom-quincaillerie');
+    const quincaillerie = (quincEl && quincEl.value !== '') ? parseInt(quincEl.value) : parseInt(document.getElementById('quincaillerie').value);
+    const elec          = getVal('elec',       'custom-elec');
+    const eau           = getVal('eau',        'custom-eau');
+    const chauffage     = getVal('chauffage',  'custom-chauffage');
+    const ouvertures    = getVal('ouvertures', 'custom-ouvertures');
 
-    document.getElementById('val-isolation').textContent = fmtEur(isolation);
+    document.getElementById('val-isolation').textContent  = fmtEur(isolation);
     document.getElementById('val-revetement').textContent = fmtEur(revetement);
-    document.getElementById('val-mobilier').textContent = fmtEur(lit + cuisine + quincaillerie);
-    document.getElementById('val-elec').textContent = fmtEur(elec);
-    document.getElementById('val-eau').textContent = fmtEur(eau);
-    document.getElementById('val-chauffage').textContent = fmtEur(chauffage);
+    document.getElementById('val-mobilier').textContent   = fmtEur(lit + cuisine + quincaillerie);
+    document.getElementById('val-elec').textContent       = fmtEur(elec);
+    document.getElementById('val-eau').textContent        = fmtEur(eau);
+    document.getElementById('val-chauffage').textContent  = fmtEur(chauffage);
     document.getElementById('val-ouvertures').textContent = fmtEur(ouvertures);
     document.getElementById('val-quincaillerie').textContent = fmtEur(quincaillerie);
 
-    hasChinasto = document.getElementById('chauffage').value === '150';
+    hasChinasto = document.getElementById('chauffage').value === '150' && !document.getElementById('custom-chauffage').value;
+    hasVASP     = document.getElementById('elec').value === '2000' && !document.getElementById('custom-elec').value;
     hasVASP = document.getElementById('elec').value === '2000';
 
     document.getElementById('chinasto-alert').style.display = hasChinasto ? '' : 'none';
@@ -531,6 +627,9 @@ function resetCalc() {
   document.getElementById('eau').value = '400';
   document.getElementById('chauffage').value = '900';
   document.getElementById('ouvertures').value = '250';
+  ['custom-isolation','custom-revetement','custom-lit','custom-cuisine',
+   'custom-quincaillerie','custom-elec','custom-eau','custom-chauffage',
+   'custom-ouvertures'].forEach(id => { document.getElementById(id).value = ''; });
   calc();
 }
 
@@ -560,5 +659,17 @@ document.getElementById('rapide-budget').addEventListener('input', calc);
 document.getElementById('quincaillerie').addEventListener('input', calc);
 
 calc();
+</script>
+<a href="/tools/calculateur-budget-amenagement-van/" class="sv-embed-link" id="sv-amen-embed-link">
+  🔗 Voir la page complète de ce calculateur — Les Deals de Sophie
+</a>
+<script>
+(function() {
+  var h = window.location.hostname;
+  if (h === 'lesdealsdesophie.fr' || h === 'www.lesdealsdesophie.fr' || h === 'localhost' || h === '127.0.0.1') {
+    var el = document.getElementById('sv-amen-embed-link');
+    if (el) el.style.display = 'none';
+  }
+})();
 </script>
 </div>
