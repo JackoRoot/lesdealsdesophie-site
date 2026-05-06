@@ -2,6 +2,7 @@
 title: "Calculateur budget aménagement van"
 linkTitle: "Budget aménagement van"
 description: "Combien coûte l'aménagement d'un fourgon en 2026 ? Estimez votre budget poste par poste : isolation, électricité 12V, eau, chauffage — avec les vrais prix et la marge imprévus."
+summary: "Combien coûte l'aménagement d'un fourgon en 2026 ? Isolation, électricité 12V, eau, chauffage — 8 postes configurables, 56 sources vérifiées, marge imprévus +20% incluse."
 date: 2026-05-03
 draft: false
 layout: page
