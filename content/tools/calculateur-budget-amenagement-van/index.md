@@ -15,4 +15,4 @@ que tout le monde sous-estime.
 
 {{< calc-budget-amenagement-van >}}
 
-[→ Voir la méthodologie complète et toutes les sources](/tools/calculateur-budget-amenagement-van/methodologie/)
+[→ Voir la méthodologie complète et toutes les sources](/tools/methodologie-budget-amenagement-van/)
