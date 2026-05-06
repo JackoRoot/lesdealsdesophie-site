@@ -3,7 +3,7 @@ title: "Méthodologie : Calculateur budget aménagement van"
 linkTitle: "Méthodologie budget aménagement"
 description: "Sources, prix détaillés et hypothèses du calculateur budget aménagement van. 56 références vérifiées — isolation, électricité 12V, eau, chauffage, mobilier."
 summary: "Sources et prix détaillés du calculateur budget aménagement van — isolation, électricité 12V, eau, chauffage, mobilier. 56 références vérifiées mai 2026."
-date: 2026-05-03
+date: 2026-05-06
 draft: false
 layout: page
 hidefromlist: true
