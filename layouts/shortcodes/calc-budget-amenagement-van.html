@@ -1,0 +1,564 @@
+{{/*
+  Calculateur budget aménagement van — v1
+  Palette dark mode Sophie : #242731 fond, #2D323E cards, #B35A5A accent
+  Sources : DS_SOPHIE_VAN_BUDGET_AMENAGEMENT_2026 (56 sources Beckman)
+  Usage: {{< calc-budget-amenagement-van >}}
+*/}}
+
+<div class="sv-amen-calc">
+<style>
+.sv-amen-calc {
+  --c-accent: #B35A5A;
+  --c-accent-dark: #2A1A1A;
+  --c-bg: #242731;
+  --c-card: #2D323E;
+  --c-border: #363B4A;
+  --c-text: #E2E8F0;
+  --c-muted: #A0AEC0;
+  --c-warning: #C97B2A;
+  --c-success: #4A7C59;
+  --c-info: #3B6B9E;
+  --c-danger: #8B2020;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  max-width: 480px;
+  margin: 1.5rem auto;
+  padding: 1.25rem;
+  background: var(--c-bg);
+  border: 1px solid var(--c-border);
+  border-radius: 12px;
+  color: var(--c-text);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+}
+.sv-header {
+  display: flex; align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 1rem; padding-bottom: 0.75rem;
+  border-bottom: 1px solid var(--c-border);
+}
+.sv-header h3 {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 1.1rem; margin: 0; font-weight: 700; color: var(--c-text);
+}
+.sv-header .badge {
+  font-size: 0.68rem; text-transform: uppercase;
+  letter-spacing: 0.06em; color: var(--c-muted); font-weight: 600;
+}
+.intro-box {
+  background: var(--c-card); border-left: 2px solid var(--c-border);
+  border-radius: 0 6px 6px 0; padding: 0.6rem 0.85rem;
+  margin-bottom: 1rem; font-size: 0.73rem; line-height: 1.5; color: var(--c-muted);
+}
+.mode-toggle {
+  display: flex; gap: 0; margin-bottom: 1rem;
+  background: var(--c-card); border-radius: 6px; padding: 2px;
+}
+.mode-toggle button {
+  flex: 1; padding: 0.4rem 0.5rem; background: transparent; border: none;
+  cursor: pointer; font-family: inherit; font-size: 0.73rem; font-weight: 500;
+  color: var(--c-muted); border-radius: 4px; transition: all 0.15s;
+}
+.mode-toggle button.active {
+  background: var(--c-bg); color: var(--c-text);
+  box-shadow: 0 1px 2px rgba(0,0,0,0.3);
+}
+.section-title {
+  font-size: 0.67rem; text-transform: uppercase; letter-spacing: 0.07em;
+  font-weight: 700; color: var(--c-muted); margin: 1rem 0 0.5rem;
+  padding-bottom: 0.25rem; border-bottom: 1px solid var(--c-border);
+}
+.sv-field { margin-bottom: 0.65rem; }
+.sv-field label {
+  display: flex; justify-content: space-between; align-items: baseline;
+  font-size: 0.71rem; color: var(--c-muted); font-weight: 500; margin-bottom: 0.2rem;
+}
+.sv-field label .val { font-size: 0.8rem; color: var(--c-accent); font-weight: 700; }
+.sv-field input[type="range"] {
+  width: 100%; -webkit-appearance: none; appearance: none;
+  height: 3px; background: var(--c-border); border-radius: 2px; outline: none; margin-top: 0.35rem;
+}
+.sv-field input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none; width: 15px; height: 15px;
+  background: var(--c-accent); border-radius: 50%; cursor: pointer;
+}
+.sv-field input[type="range"]::-moz-range-thumb {
+  width: 15px; height: 15px; background: var(--c-accent);
+  border-radius: 50%; cursor: pointer; border: none;
+}
+.sv-field select {
+  width: 100%; padding: 0.45rem 0.6rem; border: 1px solid var(--c-border);
+  border-radius: 6px; font-size: 0.82rem; font-family: inherit;
+  background: var(--c-card); color: var(--c-text); box-sizing: border-box;
+}
+.sv-field select:focus { outline: none; border-color: var(--c-accent); }
+.sv-field .help {
+  font-size: 0.66rem; color: var(--c-muted); margin-top: 0.15rem; font-style: italic;
+}
+.row-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 0.7rem; }
+
+/* Profils rapides */
+.profils-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0.4rem; margin-bottom: 0.75rem; }
+.profil-btn {
+  padding: 0.6rem 0.7rem; background: var(--c-card); border: 1px solid var(--c-border);
+  border-radius: 7px; font-family: inherit; font-size: 0.71rem; font-weight: 500;
+  cursor: pointer; text-align: left; transition: all 0.15s; color: var(--c-text);
+}
+.profil-btn:hover { border-color: var(--c-accent); }
+.profil-btn.active { background: var(--c-accent-dark); border-color: var(--c-accent); }
+.profil-btn .pb-name { font-weight: 700; margin-bottom: 0.15rem; color: var(--c-text); font-size: 0.75rem; }
+.profil-btn.active .pb-name { color: var(--c-accent); }
+.profil-btn .pb-fourchette { font-size: 0.63rem; color: var(--c-muted); }
+
+/* Budget total */
+.budget-recap {
+  background: var(--c-card); border: 1px solid var(--c-border);
+  border-left: 3px solid var(--c-accent);
+  border-radius: 10px; padding: 0.9rem 1rem; margin: 1rem 0 0.5rem;
+}
+.budget-recap .br-row {
+  display: flex; justify-content: space-between; align-items: baseline;
+  padding: 0.2rem 0; border-bottom: 1px solid var(--c-border); font-size: 0.73rem;
+}
+.budget-recap .br-row:last-child { border-bottom: none; padding-top: 0.4rem; }
+.budget-recap .br-label { color: var(--c-muted); }
+.budget-recap .br-val { color: var(--c-text); font-weight: 600; }
+.budget-recap .br-row.total .br-label { color: var(--c-text); font-weight: 600; font-size: 0.78rem; }
+.budget-recap .br-row.total .br-val {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 1.5rem; color: var(--c-accent); font-weight: 700;
+}
+
+/* Postes détaillés */
+.poste-bloc {
+  background: var(--c-card); border: 1px solid var(--c-border);
+  border-radius: 8px; padding: 0.7rem 0.85rem; margin-bottom: 0.5rem;
+}
+.poste-bloc-header {
+  display: flex; justify-content: space-between; align-items: center;
+  margin-bottom: 0.5rem;
+}
+.poste-bloc-header .pbh-title {
+  font-size: 0.73rem; font-weight: 600; color: var(--c-text);
+}
+.poste-bloc-header .pbh-val {
+  font-size: 0.8rem; color: var(--c-accent); font-weight: 700;
+}
+
+.alert-box {
+  padding: 0.5rem 0.7rem; margin-top: 0.45rem;
+  font-size: 0.69rem; border-radius: 0 5px 5px 0; line-height: 1.4;
+}
+.alert-warning { background: #2A1F10; border-left: 3px solid var(--c-warning); color: #D4A060; }
+.alert-success { background: #0F1F15; border-left: 3px solid var(--c-success); color: #7AC090; }
+.alert-info { background: #0F1A28; border-left: 3px solid var(--c-info); color: #80A8D0; }
+.alert-danger { background: #2A0A0A; border-left: 3px solid #DC2626; color: #F08080; }
+
+.imprevus-box {
+  background: var(--c-accent-dark); border: 1px solid var(--c-accent);
+  border-radius: 8px; padding: 0.65rem 0.85rem; margin-top: 0.5rem;
+  font-size: 0.71rem; line-height: 1.5; color: #D4A0A0;
+}
+.imprevus-box strong { color: var(--c-accent); }
+
+.sv-details { margin-top: 0.85rem; }
+.sv-details summary {
+  cursor: pointer; font-size: 0.71rem; color: var(--c-muted);
+  padding: 0.35rem 0; user-select: none; list-style: none;
+  display: flex; align-items: center; gap: 0.3rem;
+}
+.sv-details summary::before { content: '▶'; font-size: 0.58rem; transition: transform 0.2s; }
+.sv-details[open] summary::before { transform: rotate(90deg); }
+.detail-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0.4rem; margin-top: 0.5rem; }
+.detail-item { background: var(--c-card); border-radius: 5px; padding: 0.45rem 0.6rem; font-size: 0.69rem; }
+.detail-item .di-label { color: var(--c-muted); margin-bottom: 0.1rem; }
+.detail-item .di-val { color: var(--c-text); font-weight: 600; }
+
+.sv-actions { display: grid; grid-template-columns: 1fr 1fr; gap: 0.5rem; margin-top: 0.85rem; }
+.sv-btn {
+  padding: 0.5rem; background: var(--c-card); color: var(--c-muted);
+  border: 1px solid var(--c-border); border-radius: 6px;
+  font-family: inherit; font-size: 0.72rem; font-weight: 500;
+  cursor: pointer; transition: all 0.15s;
+  display: flex; align-items: center; justify-content: center; gap: 0.3rem;
+}
+.sv-btn:hover { border-color: var(--c-accent); color: var(--c-accent); }
+.sv-btn.copied { background: var(--c-accent); color: white; border-color: var(--c-accent); }
+.sv-sources { margin-top: 0.75rem; font-size: 0.62rem; color: var(--c-muted); line-height: 1.6; }
+.sv-sources a { color: #6B9FD0; text-decoration: none; }
+.sv-sources a:hover { text-decoration: underline; }
+</style>
+
+<div class="sv-header">
+  <h3>Budget Aménagement Van</h3>
+  <span class="badge">France 2026</span>
+</div>
+
+<div class="intro-box">
+  Combien coûte l'aménagement d'un fourgon ? Estimation rapide ou configuration poste par poste — avec les vrais prix 2026 et la marge imprévus systématiquement affichée.
+</div>
+
+<div class="mode-toggle">
+  <button id="btn-rapide" class="active" onclick="setMode('rapide')">Estimation rapide</button>
+  <button id="btn-detail" onclick="setMode('detail')">Poste par poste</button>
+</div>
+
+<!-- MODE RAPIDE -->
+<div id="mode-rapide">
+  <div class="section-title">Choisissez votre profil</div>
+  <div class="profils-grid">
+    <button class="profil-btn" id="p-diy-mini" onclick="setProfil('diy-mini')">
+      <div class="pb-name">🔨 DIY Plancher</div>
+      <div class="pb-fourchette">2 900 – 4 000 €</div>
+    </button>
+    <button class="profil-btn active" id="p-diy-quali" onclick="setProfil('diy-quali')">
+      <div class="pb-name">🔨 DIY Qualitatif</div>
+      <div class="pb-fourchette">~9 000 €</div>
+    </button>
+    <button class="profil-btn" id="p-semi" onclick="setProfil('semi')">
+      <div class="pb-name">⚙️ Semi-Pro</div>
+      <div class="pb-fourchette">8 000 – 15 000 €</div>
+    </button>
+    <button class="profil-btn" id="p-pro" onclick="setProfil('pro')">
+      <div class="pb-name">✨ Clé en Main</div>
+      <div class="pb-fourchette">15 000 – 36 000 €</div>
+    </button>
+  </div>
+  <div class="sv-field" id="rapide-slider-wrap">
+    <label>Budget matériel estimé <span class="val" id="rapide-val">9 000 €</span></label>
+    <input type="range" id="rapide-budget" min="2900" max="36000" step="100" value="9000">
+  </div>
+  <div id="rapide-desc" class="help" style="margin-bottom:0.5rem;"></div>
+</div>
+
+<!-- MODE DETAIL -->
+<div id="mode-detail" style="display:none;">
+
+  <!-- ISOLATION -->
+  <div class="poste-bloc">
+    <div class="poste-bloc-header">
+      <span class="pbh-title">🧱 Isolation</span>
+      <span class="pbh-val" id="val-isolation">—</span>
+    </div>
+    <div class="sv-field">
+      <label>Niveau d'isolation</label>
+      <select id="isolation" onchange="calc()">
+        <option value="300">Basique — XPS + réflecteurs (300 €)</option>
+        <option value="650" selected>Intermédiaire — Armaflex 19mm + Biofib (650 €)</option>
+        <option value="1100">Pro intégrale — Armaflex full + biosourcé + pare-vapeur (1 100 €)</option>
+      </select>
+      <div class="help">L2H2 ≈ 15-20 m² · Armaflex 19mm : 18,50 €/m² · Biofib'Trio : 7-12 €/m²</div>
+    </div>
+  </div>
+
+  <!-- REVÊTEMENT -->
+  <div class="poste-bloc">
+    <div class="poste-bloc-header">
+      <span class="pbh-title">🪵 Revêtement intérieur</span>
+      <span class="pbh-val" id="val-revetement">—</span>
+    </div>
+    <div class="sv-field">
+      <label>Type de revêtement</label>
+      <select id="revetement" onchange="calc()">
+        <option value="200">Lambris épicéa low-cost (200 €)</option>
+        <option value="450" selected>Contreplaqué peuplier + bardage (450 €)</option>
+        <option value="900">Contreplaqué marine + finitions HPL (900 €)</option>
+      </select>
+      <div class="help">Contreplaqué peuplier 15mm : 36 €/m² · Bardage bois : 20-35 €/m²</div>
+    </div>
+  </div>
+
+  <!-- MOBILIER -->
+  <div class="poste-bloc">
+    <div class="poste-bloc-header">
+      <span class="pbh-title">🛏️ Mobilier & structure</span>
+      <span class="pbh-val" id="val-mobilier">—</span>
+    </div>
+    <div class="row-2" style="margin-bottom:0.4rem;">
+      <div class="sv-field">
+        <label>Couchage</label>
+        <select id="lit" onchange="calc()">
+          <option value="150">Lit fixe simple (150 €)</option>
+          <option value="350" selected>Lit relevable 2 vérins (350 €)</option>
+          <option value="600">Lit pavillon + motorisé (600 €)</option>
+        </select>
+        <div class="help">Vérin à gaz 1500N : ~35 €/unité</div>
+      </div>
+      <div class="sv-field">
+        <label>Cuisine</label>
+        <select id="cuisine" onchange="calc()">
+          <option value="150">Simple (réchaud + plan bois) (150 €)</option>
+          <option value="400" selected>Complète (évier + plan travail) (400 €)</option>
+          <option value="800">Équipée (évier inox + gaz encastré) (800 €)</option>
+        </select>
+        <div class="help">Plan travail hêtre 250cm : ~80 €</div>
+      </div>
+    </div>
+    <div class="sv-field">
+      <label>Rangements & quincaillerie <span class="val" id="val-quincaillerie">300 €</span></label>
+      <input type="range" id="quincaillerie" min="100" max="800" step="50" value="300" onchange="calc()" oninput="calc()">
+      <div class="help">Tasseaux ~3 €/ml · Coulisses tiroirs · Vis, équerres, colles Sika (200-450 €)</div>
+    </div>
+  </div>
+
+  <!-- ÉLECTRICITÉ -->
+  <div class="poste-bloc">
+    <div class="poste-bloc-header">
+      <span class="pbh-title">⚡ Électricité 12V</span>
+      <span class="pbh-val" id="val-elec">—</span>
+    </div>
+    <div class="sv-field">
+      <label>Niveau installation électrique</label>
+      <select id="elec" onchange="calc()">
+        <option value="350">DIY basique — AGM + coupleur + panneaux low-cost (350 €)</option>
+        <option value="700" selected>DIY qualitatif — LFP + MPPT Victron + câblage correct (700 €)</option>
+        <option value="2000">Artisan certifié VASP — élec + gaz sous-traités (2 000 €)</option>
+      </select>
+      <div class="help">Câbles 12V : 150-300 € · Tableau élec. : 23-107 € · Artisan : 1 400-1 600 € MO</div>
+    </div>
+    <div id="vasp-alert" style="display:none;" class="alert-info" style="margin-top:0.3rem;">
+      ℹ️ Homologation VASP (~500 €) recommandée avec ce niveau. Indispensable pour assurance habitation de la cellule et revente.
+    </div>
+  </div>
+
+  <!-- EAU -->
+  <div class="poste-bloc">
+    <div class="poste-bloc-header">
+      <span class="pbh-title">🚰 Réseau eau</span>
+      <span class="pbh-val" id="val-eau">—</span>
+    </div>
+    <div class="sv-field">
+      <label>Type d'installation eau</label>
+      <select id="eau" onchange="calc()">
+        <option value="80">Bidons 20L extractibles — sans installation (80 €)</option>
+        <option value="400" selected>Eau froide — cuve 60L + pompe 12V + tuyauterie (400 €)</option>
+        <option value="900">Eau froide + chaude gaz — boiler 8L (900 €)</option>
+        <option value="1600">Eau froide + chaude diesel — combiné Pundmann (1 600 €)</option>
+      </select>
+      <div class="help">Cuve 70L FIAMMA : 95-109 € · Pompe Shurflo : 75-101 € · Boiler gaz 8L WHALE : 980 €</div>
+    </div>
+  </div>
+
+  <!-- CHAUFFAGE -->
+  <div class="poste-bloc">
+    <div class="poste-bloc-header">
+      <span class="pbh-title">🔥 Chauffage stationnaire</span>
+      <span class="pbh-val" id="val-chauffage">—</span>
+    </div>
+    <div class="sv-field">
+      <label>Type de chauffage</label>
+      <select id="chauffage" onchange="calc()">
+        <option value="0">Sans chauffage stationnaire (0 €)</option>
+        <option value="150">⚠️ Chinasto low-cost — sans E-mark (150 €)</option>
+        <option value="900" selected>Autoterm 4D 4kW + pose DIY (560 € + 340 € pose) (900 €)</option>
+        <option value="1700">Webasto Air Top 2000 STC + pose pro (1 416 € + 360 € pose) (1 700 €)</option>
+      </select>
+      <div class="help">Autoterm 4D : 560 € · Webasto AirTop 2000 STC : 1 416 € · Pose pro : 360-690 €</div>
+    </div>
+    <div id="chinasto-alert" style="display:none;"></div>
+  </div>
+
+  <!-- OUVERTURES -->
+  <div class="poste-bloc">
+    <div class="poste-bloc-header">
+      <span class="pbh-title">🪟 Ouvertures & ventilation</span>
+      <span class="pbh-val" id="val-ouvertures">—</span>
+    </div>
+    <div class="sv-field">
+      <label>Équipement</label>
+      <select id="ouvertures" onchange="calc()">
+        <option value="0">Aucune ouverture supplémentaire (0 €)</option>
+        <option value="250" selected>Lanterneau Maxxfan Deluxe + pose (250 €)</option>
+        <option value="650">Maxxfan + 1 fenêtre latérale + pose (650 €)</option>
+        <option value="1100">Maxxfan + 2 fenêtres latérales + poses (1 100 €)</option>
+      </select>
+      <div class="help">Maxxfan Deluxe : ~230 € · Fenêtre latérale : 150-350 € · Pose carrossier : 150-225 €/unité</div>
+    </div>
+  </div>
+
+</div>
+
+<!-- RÉSULTATS (communs) -->
+<div class="budget-recap" id="budget-recap">
+  <div class="br-row"><span class="br-label">Budget matériel estimé</span><span class="br-val" id="res-materiel">—</span></div>
+  <div class="br-row"><span class="br-label">Marge imprévus (+20%)</span><span class="br-val" id="res-imprevus">—</span></div>
+  <div class="br-row total"><span class="br-label">Total à provisionner</span><span class="br-val" id="res-total">—</span></div>
+</div>
+
+<div class="imprevus-box">
+  <strong>Pourquoi +20% ?</strong> Tous les professionnels du secteur imposent cette règle : erreurs de coupe, achat d'outillage spécifique, fluctuations des prix matériaux, pannes mécaniques sur véhicule d'occasion. <em>Sources : Goupielleres-27.fr · franceparadis.fr · paris-shuttle.com — DS Beckman 2026.</em>
+</div>
+
+<div id="alerts-zone"></div>
+
+<details class="sv-details">
+  <summary>Détail par poste</summary>
+  <div class="detail-grid" id="detail-grid"></div>
+</details>
+
+<div class="sv-actions">
+  <button class="sv-btn" onclick="resetCalc()">↺ Réinitialiser</button>
+  <button class="sv-btn" id="copy-btn" onclick="copyLink()">⎘ Copier le lien</button>
+</div>
+
+<div class="sv-sources">
+  Sources (56 références) : <a href="https://goupillieres-27.fr/amenagement-van-quel-cout-prevoir-en-2026/" target="_blank">Goupielleres 2026</a> · <a href="https://paris-shuttle.com/combien-coute-un-van-amenage-le-budget-reel-a-prevoir/" target="_blank">Paris-Shuttle 2026</a> · <a href="https://toupourvan.fr/32-armaflex-af" target="_blank">Toupourvan (Armaflex)</a> · <a href="https://www.h2r-equipements.com" target="_blank">H2R Équipements</a> · <a href="https://www.atelierdouzevolts.com/blog/budget-catalogue-complet-fourgon-amenage" target="_blank">Atelier DouzeVolts</a> · <a href="https://levanmigrateur.com/combien-coute-un-amenagement-de-fourgon-complet-en-2025/" target="_blank">Le Van Migrateur</a>
+  <br><a href="/outils/calculateur-budget-amenagement-van/methodologie/" style="color:#B35A5A;font-weight:600;">→ Voir la méthodologie complète et toutes les sources</a>
+</div>
+
+<script>
+let currentMode = 'rapide';
+let currentProfil = 'diy-quali';
+
+const PROFILS = {
+  'diy-mini': { label: 'DIY Plancher', min: 2900, max: 4000, mid: 3500, desc: 'Aménagement spartiate : XPS + réflecteurs, AGM basique, bidons 20L, lit fixe. Souvent sans homologation VASP. Fonctionnel mais limites techniques.' },
+  'diy-quali': { label: 'DIY Qualitatif', min: 7500, max: 10500, mid: 9000, desc: 'Vrai confort DIY : Armaflex + LFP + MPPT Victron + eau froide + Autoterm. Vous faites tout vous-même. Résultat solide et durable.' },
+  'semi': { label: 'Semi-Pro', min: 8000, max: 15000, mid: 11500, desc: 'Vous faites l\'isolation, la menuiserie et les finitions. Électricité, gaz et chauffage confiés à un artisan certifié pour l\'homologation VASP.' },
+  'pro': { label: 'Clé en Main', min: 15000, max: 36000, mid: 22000, desc: 'Aménageur professionnel, design CNC, matériaux aéronautiques, LFP haute capacité, chauffage combiné air/eau. Hors prix du véhicule. Van neuf aménagé France 2026 : ~60 513 € en moyenne.' }
+};
+
+function setMode(mode) {
+  currentMode = mode;
+  document.getElementById('mode-rapide').style.display = mode === 'rapide' ? '' : 'none';
+  document.getElementById('mode-detail').style.display = mode === 'detail' ? '' : 'none';
+  document.getElementById('btn-rapide').classList.toggle('active', mode === 'rapide');
+  document.getElementById('btn-detail').classList.toggle('active', mode === 'detail');
+  calc();
+}
+
+function setProfil(p) {
+  currentProfil = p;
+  Object.keys(PROFILS).forEach(k => {
+    document.getElementById('p-' + k).classList.toggle('active', k === p);
+  });
+  document.getElementById('rapide-budget').value = PROFILS[p].mid;
+  calc();
+}
+
+function fmtEur(n) { return Math.round(n).toLocaleString('fr-FR') + ' €'; }
+
+function calc() {
+  let materiel = 0;
+  let alerts = '';
+  let detailItems = {};
+  let hasChinasto = false;
+  let hasVASP = false;
+
+  if (currentMode === 'rapide') {
+    const budget = parseInt(document.getElementById('rapide-budget').value);
+    materiel = budget;
+    document.getElementById('rapide-val').textContent = fmtEur(budget);
+    const p = PROFILS[currentProfil];
+    document.getElementById('rapide-desc').textContent = p.desc;
+    detailItems = { 'Profil': p.label, 'Fourchette': fmtEur(p.min) + ' – ' + fmtEur(p.max) };
+  } else {
+    const isolation = parseInt(document.getElementById('isolation').value);
+    const revetement = parseInt(document.getElementById('revetement').value);
+    const lit = parseInt(document.getElementById('lit').value);
+    const cuisine = parseInt(document.getElementById('cuisine').value);
+    const quincaillerie = parseInt(document.getElementById('quincaillerie').value);
+    const elec = parseInt(document.getElementById('elec').value);
+    const eau = parseInt(document.getElementById('eau').value);
+    const chauffage = parseInt(document.getElementById('chauffage').value);
+    const ouvertures = parseInt(document.getElementById('ouvertures').value);
+
+    document.getElementById('val-isolation').textContent = fmtEur(isolation);
+    document.getElementById('val-revetement').textContent = fmtEur(revetement);
+    document.getElementById('val-mobilier').textContent = fmtEur(lit + cuisine + quincaillerie);
+    document.getElementById('val-elec').textContent = fmtEur(elec);
+    document.getElementById('val-eau').textContent = fmtEur(eau);
+    document.getElementById('val-chauffage').textContent = fmtEur(chauffage);
+    document.getElementById('val-ouvertures').textContent = fmtEur(ouvertures);
+    document.getElementById('val-quincaillerie').textContent = fmtEur(quincaillerie);
+
+    hasChinasto = document.getElementById('chauffage').value === '150';
+    hasVASP = document.getElementById('elec').value === '2000';
+
+    document.getElementById('chinasto-alert').style.display = hasChinasto ? '' : 'none';
+    document.getElementById('chinasto-alert').innerHTML = hasChinasto
+      ? '<div class="alert-danger">⚠️ Chinasto sans E-mark : homologation VASP impossible. Risque d\'intoxication CO documenté. Non recommandé.</div>' : '';
+    document.getElementById('vasp-alert').style.display = hasVASP ? '' : 'none';
+
+    materiel = isolation + revetement + lit + cuisine + quincaillerie + elec + eau + chauffage + ouvertures;
+
+    detailItems = {
+      'Isolation': fmtEur(isolation),
+      'Revêtement': fmtEur(revetement),
+      'Lit': fmtEur(lit),
+      'Cuisine': fmtEur(cuisine),
+      'Quincaillerie': fmtEur(quincaillerie),
+      'Électricité 12V': fmtEur(elec),
+      'Eau': fmtEur(eau),
+      'Chauffage': fmtEur(chauffage),
+      'Ouvertures': fmtEur(ouvertures),
+    };
+
+    if (hasVASP) {
+      alerts += '<div class="alert-info">✅ Homologation VASP via artisan certifié (~500 € supplémentaires). Indispensable pour assurance habitation cellule, revente et gaz bouteille fixe.</div>';
+    }
+    if (hasChinasto) {
+      alerts += '<div class="alert-danger">⚠️ Chinasto sans E-mark : non homologable VASP, assurance invalidée en cas de sinistre, risque grave CO. Autoterm 4D à 560 € est le minimum sérieux.</div>';
+    }
+    if (materiel > 14000) {
+      alerts += '<div class="alert-info">💡 Budget semi-pro. Pensez à demander des devis à des aménageurs — la différence prix/qualité peut être faible au-delà de 12 000 €.</div>';
+    }
+  }
+
+  const imprevus = Math.round(materiel * 0.20);
+  const total = materiel + imprevus;
+
+  document.getElementById('res-materiel').textContent = fmtEur(materiel);
+  document.getElementById('res-imprevus').textContent = fmtEur(imprevus);
+  document.getElementById('res-total').textContent = fmtEur(total);
+
+  document.getElementById('alerts-zone').innerHTML = alerts;
+
+  document.getElementById('detail-grid').innerHTML = Object.entries(detailItems).map(([k, v]) => `
+    <div class="detail-item"><div class="di-label">${k}</div><div class="di-val">${v}</div></div>
+  `).join('');
+}
+
+function resetCalc() {
+  currentMode = 'rapide';
+  currentProfil = 'diy-quali';
+  setMode('rapide');
+  setProfil('diy-quali');
+  document.getElementById('rapide-budget').value = 9000;
+  document.getElementById('isolation').value = '650';
+  document.getElementById('revetement').value = '450';
+  document.getElementById('lit').value = '350';
+  document.getElementById('cuisine').value = '400';
+  document.getElementById('quincaillerie').value = 300;
+  document.getElementById('elec').value = '700';
+  document.getElementById('eau').value = '400';
+  document.getElementById('chauffage').value = '900';
+  document.getElementById('ouvertures').value = '250';
+  calc();
+}
+
+function copyLink() {
+  const p = new URLSearchParams({ mode: currentMode, profil: currentProfil });
+  if (currentMode === 'detail') {
+    ['isolation','revetement','lit','cuisine','elec','eau','chauffage','ouvertures'].forEach(id => {
+      p.set(id, document.getElementById(id).value);
+    });
+    p.set('quincaillerie', document.getElementById('quincaillerie').value);
+  } else {
+    p.set('budget', document.getElementById('rapide-budget').value);
+  }
+  const url = window.location.href.split('?')[0] + '?' + p.toString();
+  navigator.clipboard.writeText(url).then(() => {
+    const btn = document.getElementById('copy-btn');
+    btn.textContent = '✓ Lien copié !';
+    btn.classList.add('copied');
+    setTimeout(() => { btn.textContent = '⎘ Copier le lien'; btn.classList.remove('copied'); }, 2000);
+  });
+}
+
+['isolation','revetement','lit','cuisine','elec','eau','chauffage','ouvertures'].forEach(id => {
+  document.getElementById(id).addEventListener('change', calc);
+});
+document.getElementById('rapide-budget').addEventListener('input', calc);
+document.getElementById('quincaillerie').addEventListener('input', calc);
+
+calc();
+</script>
+</div>
