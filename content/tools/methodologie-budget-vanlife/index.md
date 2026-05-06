@@ -1,6 +1,7 @@
 ---
 title: "Méthodologie : Calculateur budget vanlife mensuel"
 description: "Sources, données réelles et hypothèses du calculateur budget vanlife. Carburant, stationnement, entretien, domiciliation — tous les postes sourcés."
+summary: "Sources et données réelles du calculateur budget vanlife mensuel — carburant, stationnement, entretien, domiciliation. Tous les chiffres sourcés et vérifiés."
 date: 2026-05-03
 draft: false
 layout: page

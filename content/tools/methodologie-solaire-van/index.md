@@ -1,6 +1,7 @@
 ---
 title: "Méthodologie : Calculateur puissance solaire van"
 description: "Sources, formules et données du calculateur de dimensionnement solaire van. PVGIS toit plat, rendement MPPT Victron terrain, consommations équipements 12V."
+summary: "Sources et formules du calculateur solaire van — données PVGIS toit plat, rendement MPPT Victron terrain, consommations équipements 12V vérifiées."
 date: 2026-05-03
 draft: false
 layout: page
