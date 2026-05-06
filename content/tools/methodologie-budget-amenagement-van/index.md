@@ -272,6 +272,5 @@ Pose originelle d'une baie projetable : **100-150 € de main-d'œuvre** — [pr
 
 ---
 
-**Dernière mise à jour** : Mai 2026
-**Source principale** : DS_SOPHIE_VAN_BUDGET_AMENAGEMENT_2026.md — Beckman (Gemini 2.5 Pro), 56 références vérifiées mai 2026
-**Sources clés** : [paris-shuttle.com](https://paris-shuttle.com/combien-coute-un-van-amenage-le-budget-reel-a-prevoir/) · [Goupielleres-27.fr](https://goupillieres-27.fr/amenagement-van-quel-cout-prevoir-en-2026/) · [H2R Équipements](https://www.h2r-equipements.com) · [Toupourvan.fr](https://toupourvan.fr) · [Atelier DouzeVolts](https://www.atelierdouzevolts.com/blog/budget-catalogue-complet-fourgon-amenage) · [Le Van Migrateur](https://levanmigrateur.com/combien-coute-un-amenagement-de-fourgon-complet-en-2025/)
+**Dernière mise à jour** : Mai 2026 · 56 références vérifiées
+**Sources principales** : [paris-shuttle.com](https://paris-shuttle.com/combien-coute-un-van-amenage-le-budget-reel-a-prevoir/) · [Goupielleres-27.fr](https://goupillieres-27.fr/amenagement-van-quel-cout-prevoir-en-2026/) · [H2R Équipements](https://www.h2r-equipements.com) · [Toupourvan.fr](https://toupourvan.fr) · [Atelier DouzeVolts](https://www.atelierdouzevolts.com/blog/budget-catalogue-complet-fourgon-amenage) · [Le Van Migrateur](https://levanmigrateur.com/combien-coute-un-amenagement-de-fourgon-complet-en-2025/)
