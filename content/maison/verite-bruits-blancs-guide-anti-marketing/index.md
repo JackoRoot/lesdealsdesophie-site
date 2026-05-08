@@ -28,7 +28,7 @@ Le bruit blanc pur est plat sur tout le spectre de fréquences. Il ressemble à 
 
 Le bruit rose est plus intéressant pour le sommeil. Son intensité diminue dans les hautes fréquences, ce qui le rend plus doux et plus grave. Il sonne comme une pluie battante continue ou le bruissement du vent dans les feuilles. **Cette sonorité est souvent perçue comme plus naturelle et moins fatigante pour l'oreille**, ce qui en fait le choix par défaut de nombreuses machines dédiées.
 
-Enfin, le bruit brun (ou "brownian noise") accentue encore plus les basses fréquences. Le son est profond, enveloppant, proche du grondement d'une cascade lointaine ou d'un orage. **Il est excellent pour masquer les bruits graves comme les basses d'une musique voisine ou la circulation lourde.** Le choix entre ces trois options est personnel, mais connaître leur profil vous aide à identifier ce dont vous avez vraiment besoin.
+Enfin, le bruit brun (ou "brownian noise") accentue encore plus les basses fréquences. Le son est profond, enveloppant, proche du grondement d'une cascade lointaine ou d'un orage. **Il est excellent pour masquer les bruits graves comme les basses d'une musique voisine ou la circulation lourde.** Le choix entre ces trois options est personnel, mais connaître leur profil vous aide à identifier ce qui correspond à votre situation.
 
 ## Machine dédiée vs application : le match de la qualité
 

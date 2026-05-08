@@ -71,7 +71,7 @@ La situation où l'un bat l'autre clairement ? Sur un tapis à poils longs, **le
 **L'autonomie du Dyson V15 est-elle suffisante pour une maison ?**
 Pour une surface de moins de 100 m², l'autonomie en mode Auto est généralement suffisante pour un nettoyage complet. Pour une plus grande maison, il faudra peut-être prévoir une pause pour recharger ou envisager l'achat d'une seconde batterie pour ne pas être interrompu.
 
-**Le capteur iLoop du Tineco S15 est-il vraiment utile ?**
+**Le capteur iLoop du Tineco S15 fait-il une différence au quotidien ?**
 Oui, il apporte un confort réel. Il vous évite de changer de mode manuellement et optimise l'autonomie en n'utilisant la pleine puissance que lorsque c'est nécessaire. L'anneau LED qui change de couleur du rouge (sale) au bleu (propre) vous confirme aussi que la zone est bien nettoyée.
 
 **Lequel est le plus adapté si j'ai des allergies ?**

@@ -66,7 +66,7 @@ Enfin, si vous voulez une réduction de bruit plus performante et un design qui 
 **Quels écouteurs sans fil pas chers choisir pour le sport ?**
 Les Soundcore P40i sont un bon choix grâce à leur certification IPX5 qui les protège de la sueur et de la pluie. Leur bonne tenue dans l'oreille est aussi un avantage pour bouger sans crainte de les perdre.
 
-**La réduction de bruit active est-elle vraiment efficace sur ces modèles ?**
+**La réduction de bruit active tient-elle ses promesses sur ces modèles ?**
 Elle est fonctionnelle, mais limitée. Elle réduit bien les bruits graves et constants (moteur, ventilation). Elle est moins efficace sur les fréquences hautes et les voix. Pour une meilleure isolation, les Nothing Ear (a) font un meilleur travail.
 
 **Faut-il dépenser plus de 100€ pour avoir de bons écouteurs ?**
