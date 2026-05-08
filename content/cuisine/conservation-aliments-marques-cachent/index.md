@@ -67,5 +67,5 @@ La congélation stoppe la prolifération des microbes en solidifiant l'eau, mais
 **Pourquoi mes légumes congelés deviennent-ils mous à la cuisson ?**
 Lors d'une congélation lente, de gros cristaux de glace se forment. Ces cristaux percent les parois cellulaires des légumes. À la décongélation, l'eau s'échappe et la structure s'effondre, d'où la texture molle. Blanchir les légumes avant une congélation rapide aide à préserver une meilleure texture en limitant ce phénomène.
 
-**Est-il vraiment sûr de manger un produit après sa DDM ?**
+**Peut-on consommer un produit sans risque après sa DDM ?**
 Oui, si le produit a été stocké correctement et que son emballage est intact. La DDM (Date de Durabilité Minimale) garantit les qualités organoleptiques optimales (goût, texture, odeur). Une boîte de conserve dont la DDM est dépassée depuis un an sera sûre, mais son contenu sera peut-être moins savoureux. Fiez-vous à vos sens : si l'odeur, la couleur ou l'aspect sont suspects, ne consommez pas.
