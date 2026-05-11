@@ -70,6 +70,8 @@ Voici qui devrait acheter quoi :
 
 La situation où l'Autoterm bat clairement le Webasto est simple : **dès que votre itinéraire inclut des cols alpins ou des bivouacs en montagne**. Le kit altitude inclus de l'Autoterm le rend opérationnel là où le Webasto standard déclarerait forfait.
 
+Pour ne pas se retrouver vulnérable en hiver avec un seul équipement, [Hiver en van : Ne partez pas sans avoir lu ça d'abord.](/vanlife/hiver-van-ne-partez-pas-avoir-lu-ca-abord/) liste ce qui entoure le chauffage pour traverser la saison froide.
+
 ## FAQ
 
 **L'écart de prix entre Autoterm et Webasto est-il justifié ?**
