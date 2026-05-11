@@ -1,0 +1,225 @@
+{{ define "main" }}
+<style>
+:root {
+  --bg: #12141a;
+  --card: #242731;
+  --border: #2D323E;
+  --text: #E2E8F0;
+  --muted: #A0AEC0;
+  --subtle: #718096;
+  --accent: #B35A5A;
+  --accent-bg: #3D1F1F;
+}
+
+.article-container { max-width: 720px; margin: 0 auto; padding: 20px; }
+
+.article-header { margin-bottom: 24px; }
+.article-meta {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+.article-source {
+  font-size: 12px;
+  font-weight: 500;
+  background: var(--accent-bg);
+  color: var(--accent);
+  padding: 2px 10px;
+  border-radius: 6px;
+}
+.article-discount {
+  font-size: 12px;
+  font-weight: 500;
+  background: var(--accent);
+  color: white;
+  padding: 2px 10px;
+  border-radius: 6px;
+}
+.article-date { font-size: 12px; color: var(--subtle); }
+.article-title { font-size: 22px; font-weight: 500; color: var(--text); line-height: 1.4; margin-bottom: 16px; }
+
+.article-image {
+  width: 100%;
+  max-height: 400px;
+  object-fit: contain;
+  border-radius: 12px;
+  margin-bottom: 20px;
+  background: var(--card);
+}
+
+.price-box {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 16px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.price-main { font-size: 24px; font-weight: 500; color: var(--text); }
+.price-original { font-size: 14px; color: var(--subtle); text-decoration: line-through; margin-left: 8px; }
+.deal-cta {
+  display: inline-block;
+  background: var(--accent);
+  color: white;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 10px 24px;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: opacity 0.15s;
+}
+.deal-cta:hover { opacity: 0.85; }
+
+/* Contenu article */
+.article-content { font-size: 15px; line-height: 1.8; color: var(--text); margin-bottom: 24px; }
+.article-content p { margin-bottom: 14px; color: var(--muted); }
+.article-content h2 { font-size: 18px; font-weight: 500; color: var(--text); margin: 28px 0 12px; }
+.article-content h3 { font-size: 15px; font-weight: 500; color: var(--text); margin: 20px 0 8px; }
+.article-content strong { color: var(--text); font-weight: 600; }
+.article-content em { color: var(--muted); }
+.article-content a { color: var(--accent); text-decoration: none; }
+.article-content a:hover { text-decoration: underline; }
+.article-content ul, .article-content ol { color: var(--muted); padding-left: 20px; margin-bottom: 14px; }
+.article-content li { margin-bottom: 6px; }
+.article-content blockquote {
+  border-left: 3px solid var(--accent);
+  padding: 10px 16px;
+  margin: 16px 0;
+  background: var(--accent-bg);
+  border-radius: 0 8px 8px 0;
+  color: var(--muted);
+}
+
+/* Blocs code */
+.article-content pre {
+  background: #1c1e26;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 14px 16px;
+  overflow-x: auto;
+  margin: 16px 0;
+  white-space: pre;
+}
+.article-content pre code {
+  font-family: 'Courier New', Courier, monospace !important;
+  font-size: 11px !important;
+  line-height: 1.5 !important;
+  white-space: pre !important;
+  word-break: normal !important;
+  background: transparent !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
+  color: #cdd6f4 !important;
+  display: block !important;
+}
+.article-content code {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 12px;
+  background: #1c1e26;
+  color: #cdd6f4;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+/* Snippet bait */
+.snippet-bait {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent);
+  border-radius: 0 8px 8px 0;
+  padding: 14px 18px;
+  margin: 20px 0;
+  font-size: 14px;
+  color: var(--muted);
+  line-height: 1.7;
+}
+
+.telegram-cta {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 16px 20px;
+  text-align: center;
+  margin-top: 24px;
+}
+.telegram-cta p { font-size: 13px; color: var(--muted); margin-bottom: 10px; }
+.tg-btn {
+  display: inline-block;
+  background: #229ED9;
+  color: white;
+  font-size: 13px;
+  padding: 7px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+/* Filet de sécurité — lien retour catégorie */
+.category-exit {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 8px 0 0;
+  padding: 14px 18px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  text-decoration: none;
+  color: var(--muted);
+  font-size: 14px;
+  transition: border-color 0.15s;
+}
+.category-exit:hover {
+  border-color: var(--accent);
+  text-decoration: none;
+}
+.category-exit:hover .category-exit-text { color: var(--text); }
+.category-exit-text { transition: color 0.15s; }
+.category-exit-text strong { color: var(--accent); }
+.category-exit-arrow { color: var(--accent); font-size: 16px; }
+</style>
+
+<div class="article-container">
+
+  <div class="article-header">
+    <div class="article-meta">
+      {{ with .Params.source }}<span class="article-source">{{ . | title }}</span>{{ end }}
+      {{ with .Params.discount }}<span class="article-discount">{{ . }}</span>{{ end }}
+      <span class="article-date">{{ .Date.Format "2 January 2006" }}</span>
+    </div>
+    <h1 class="article-title">{{ .Title }}</h1>
+  </div>
+
+  {{ with .Params.image }}
+  <img class="article-image" src="{{ . }}" alt="{{ $.Title }}" loading="lazy" />
+  {{ end }}
+
+  {{ with .Params.price }}
+  <div class="price-box">
+    <div>
+      <span class="price-main">{{ . }}</span>
+    </div>
+    {{ with $.Params.product_url }}
+    <a href="{{ . }}" class="deal-cta" target="_blank" rel="nofollow">Voir le deal</a>
+    {{ else }}
+    <a href="https://t.me/LesDealsdeSophie" class="deal-cta" target="_blank">Voir sur Telegram</a>
+    {{ end }}
+  </div>
+  {{ end }}
+
+  <div class="article-content">
+    {{ .Content }}
+  </div>
+
+  {{ $mainSections := slice "cuisine" "maison" "tech" "vanlife" }}
+  {{ if in $mainSections .Section }}
+  <a href="{{ .FirstSection.RelPermalink }}" class="category-exit">
+    <span class="category-exit-text">Pour aller plus loin, n'hésitez pas à fouiller dans la rubrique <strong>{{ .Section | title }}</strong></span>
+    <span class="category-exit-arrow">→</span>
+  </a>
+  {{ end }}
+
+</div>
+{{ end }}
