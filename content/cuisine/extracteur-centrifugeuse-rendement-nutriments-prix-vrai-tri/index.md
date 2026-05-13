@@ -1,7 +1,7 @@
 ---
 title: "Extracteur vs Centrifugeuse : Rendement, nutriments, prix — le vrai tri."
 description: "Ne choisissez pas au hasard. Découvrez la différence de rendement, de nutriments et de prix entre un extracteur et une centrifugeuse pour un achat éclairé."
-date: "2026-05-08"
+date: "2026-05-13"
 draft: false
 slug: "extracteur-centrifugeuse-rendement-nutriments-prix-vrai-tri"
 categories: ["Cuisine"]
